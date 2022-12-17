@@ -1,0 +1,1396 @@
+﻿Log file open, 10/10/22 15:37:34
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogProfilingDebugging: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogWindows: Started CrashReportClient (pid=14768)
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: Dreamscape
+LogCore: UnrealTraceServer: Trace store launch successful
+LogCsvProfiler: Display: Metadata set : platform="Windows"
+LogCsvProfiler: Display: Metadata set : config="Development"
+LogCsvProfiler: Display: Metadata set : buildversion="++UE5+Release-5.0-CL-20979098"
+LogCsvProfiler: Display: Metadata set : engineversion="5.0.3-20979098+++UE5+Release-5.0"
+LogCsvProfiler: Display: Metadata set : commandline="" "G:\My Drive\Master Project\Game Launcher\Dreamscape.uproject"""
+LogCsvProfiler: Display: Metadata set : os="Windows 10 (21H1) [10.0.19043.2006] "
+LogCsvProfiler: Display: Metadata set : cpu="GenuineIntel|Intel(R) Core(TM) i5-10400 CPU @ 2.90GHz"
+LogCsvProfiler: Display: Metadata set : pgoenabled="0"
+LogCsvProfiler: Display: Metadata set : loginid="a4c9a8524a9b21541953d8864a48ffd6"
+LogCsvProfiler: Display: Metadata set : llm="0"
+LogPlatformFile: Not using cached read wrapper
+LogStats: Stats thread started at 35.825827
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -6:00, Platform Override: ''
+LogInit: Session CrashGUID >====================================================
+         Session CrashGUID >   UECC-Windows-8437E4C045FB2D492B9A0AA6B6180372
+         Session CrashGUID >====================================================
+LogConfig: Display: Loading Android ini files took 0.09 seconds
+LogConfig: Display: Loading TVOS ini files took 0.22 seconds
+LogConfig: Display: Loading Unix ini files took 0.09 seconds
+LogConfig: Display: Loading IOS ini files took 0.21 seconds
+LogConfig: Display: Loading HoloLens ini files took 0.11 seconds
+LogConfig: Display: Loading LinuxArm64 ini files took 0.27 seconds
+LogConfig: Display: Loading Linux ini files took 0.13 seconds
+LogConfig: Display: Loading Mac ini files took 0.23 seconds
+LogConfig: Display: Loading VulkanPC ini files took 0.04 seconds
+LogConfig: Display: Loading Windows ini files took 0.05 seconds
+LogPluginManager: Mounting Engine plugin Bridge
+LogPluginManager: Mounting Engine plugin FastBuildController
+LogPluginManager: Mounting Engine plugin MeshPainting
+LogPluginManager: Mounting Engine plugin XGEController
+LogPluginManager: Mounting Engine plugin EnvironmentQueryEditor
+LogPluginManager: Mounting Engine plugin Paper2D
+LogPluginManager: Mounting Engine plugin AISupport
+LogPluginManager: Mounting Engine plugin CameraShakePreviewer
+LogPluginManager: Mounting Engine plugin GameplayCameras
+LogPluginManager: Mounting Engine plugin ControlRig
+LogPluginManager: Mounting Engine plugin ControlRigSpline
+LogPluginManager: Mounting Engine plugin BlendSpaceMotionAnalysis
+LogPluginManager: Mounting Engine plugin AnimationModifierLibrary
+LogPluginManager: Mounting Engine plugin IKRig
+LogPluginManager: Mounting Engine plugin OodleNetwork
+LogPluginManager: Mounting Engine plugin AnimationSharing
+LogPluginManager: Mounting Engine plugin GitSourceControl
+LogPluginManager: Mounting Engine plugin CLionSourceCodeAccess
+LogPluginManager: Mounting Engine plugin PerforceSourceControl
+LogPluginManager: Mounting Engine plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting Engine plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting Engine plugin PlasticSourceControl
+LogPluginManager: Mounting Engine plugin NullSourceCodeAccess
+LogPluginManager: Mounting Engine plugin PixWinPlugin
+LogPluginManager: Mounting Engine plugin PluginUtils
+LogPluginManager: Mounting Engine plugin PropertyAccessNode
+LogPluginManager: Mounting Engine plugin TextureFormatOodle
+LogPluginManager: Mounting Engine plugin RiderSourceCodeAccess
+LogPluginManager: Mounting Engine plugin SubversionSourceControl
+LogPluginManager: Mounting Engine plugin TraceDataFilters
+LogPluginManager: Mounting Engine plugin AssetManagerEditor
+LogPluginManager: Mounting Engine plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting Engine plugin UObjectPlugin
+LogPluginManager: Mounting Engine plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin CryptoKeys
+LogPluginManager: Mounting Engine plugin CurveEditorTools
+LogPluginManager: Mounting Engine plugin BlueprintMaterialTextureNodes
+LogPluginManager: Mounting Engine plugin DataValidation
+LogPluginManager: Mounting Engine plugin EditorDebugTools
+LogPluginManager: Mounting Engine plugin FacialAnimation
+LogPluginManager: Mounting Engine plugin GameplayTagsEditor
+LogPluginManager: Mounting Engine plugin EditorScriptingUtilities
+LogPluginManager: Mounting Engine plugin GeometryMode
+LogPluginManager: Mounting Engine plugin MacGraphicsSwitching
+LogPluginManager: Mounting Engine plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting Engine plugin ModelingToolsEditorMode
+LogPluginManager: Mounting Engine plugin MaterialAnalyzer
+LogPluginManager: Mounting Engine plugin PluginBrowser
+LogPluginManager: Mounting Engine plugin SequencerAnimTools
+LogPluginManager: Mounting Engine plugin StylusInput
+LogPluginManager: Mounting Engine plugin WorldPartitionHLODUtilities
+LogPluginManager: Mounting Engine plugin SpeedTreeImporter
+LogPluginManager: Mounting Engine plugin DatasmithContent
+LogPluginManager: Mounting Engine plugin VariantManagerContent
+LogPluginManager: Mounting Engine plugin BackChannel
+LogPluginManager: Mounting Engine plugin AutomationUtils
+LogPluginManager: Mounting Engine plugin ChaosCloth
+LogPluginManager: Mounting Engine plugin ChaosClothEditor
+LogPluginManager: Mounting Engine plugin ChaosEditor
+LogPluginManager: Mounting Engine plugin ChaosSolverPlugin
+LogPluginManager: Mounting Engine plugin ChaosNiagara
+LogPluginManager: Mounting Engine plugin Niagara
+LogPluginManager: Mounting Engine plugin CharacterAI
+LogPluginManager: Mounting Engine plugin FullBodyIK
+LogPluginManager: Mounting Engine plugin AlembicImporter
+LogPluginManager: Mounting Engine plugin GeometryFlow
+LogPluginManager: Mounting Engine plugin GeometryCollectionPlugin
+LogPluginManager: Mounting Engine plugin Landmass
+LogPluginManager: Mounting Engine plugin MeshLODToolset
+LogPluginManager: Mounting Engine plugin MeshModelingToolsetExp
+LogPluginManager: Mounting Engine plugin OpenImageDenoise
+LogPluginManager: Mounting Engine plugin PlatformCrypto
+LogPluginManager: Mounting Engine plugin ProxyLODPlugin
+LogPluginManager: Mounting Engine plugin PlanarCut
+LogPluginManager: Mounting Engine plugin PythonScriptPlugin
+LogPluginManager: Mounting Engine plugin AutoSizeComments
+LogPluginManager: Mounting Engine plugin SkeletalReduction
+LogPluginManager: Mounting Engine plugin TcpMessaging
+LogPluginManager: Mounting Engine plugin UdpMessaging
+LogPluginManager: Mounting Engine plugin Water
+LogPluginManager: Mounting Engine plugin AndroidMedia
+LogPluginManager: Mounting Engine plugin AvfMedia
+LogPluginManager: Mounting Engine plugin ImgMedia
+LogPluginManager: Mounting Engine plugin MediaCompositing
+LogPluginManager: Mounting Engine plugin MediaPlayerEditor
+LogPluginManager: Mounting Engine plugin WebMMedia
+LogPluginManager: Mounting Engine plugin WmfMedia
+LogPluginManager: Mounting Engine plugin ActorSequence
+LogPluginManager: Mounting Engine plugin LevelSequenceEditor
+LogPluginManager: Mounting Engine plugin MatineeToLevelSequence
+LogPluginManager: Mounting Engine plugin SequencerScripting
+LogPluginManager: Mounting Engine plugin TemplateSequence
+LogPluginManager: Mounting Engine plugin OnlineSubsystem
+LogPluginManager: Mounting Engine plugin OnlineBase
+LogPluginManager: Mounting Engine plugin OnlineSubsystemNull
+LogPluginManager: Mounting Engine plugin OnlineSubsystemUtils
+LogPluginManager: Mounting Engine plugin ActorLayerUtilities
+LogPluginManager: Mounting Engine plugin AndroidMoviePlayer
+LogPluginManager: Mounting Engine plugin AndroidFileServer
+LogPluginManager: Mounting Engine plugin AppleImageUtils
+LogPluginManager: Mounting Engine plugin AppleMoviePlayer
+LogPluginManager: Mounting Engine plugin AndroidPermission
+LogPluginManager: Mounting Engine plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin AssetTags
+LogPluginManager: Mounting Engine plugin ArchVisCharacter
+LogPluginManager: Mounting Engine plugin AudioCapture
+LogPluginManager: Mounting Engine plugin AudioSynesthesia
+LogPluginManager: Mounting Engine plugin ChunkDownloader
+LogPluginManager: Mounting Engine plugin CableComponent
+LogPluginManager: Mounting Engine plugin CustomMeshComponent
+LogPluginManager: Mounting Engine plugin GeometryCache
+LogPluginManager: Mounting Engine plugin GeometryProcessing
+LogPluginManager: Mounting Engine plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin GoogleCloudMessaging
+LogPluginManager: Mounting Engine plugin GooglePAD
+LogPluginManager: Mounting Engine plugin HairStrands
+LogPluginManager: Mounting Engine plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin LocationServicesBPLibrary
+LogPluginManager: Mounting Engine plugin MeshModelingToolset
+LogPluginManager: Mounting Engine plugin MobilePatchingUtils
+LogPluginManager: Mounting Engine plugin LauncherChunkInstaller
+LogPluginManager: Mounting Engine plugin ProceduralMeshComponent
+LogPluginManager: Mounting Engine plugin PropertyAccessEditor
+LogPluginManager: Mounting Engine plugin RuntimePhysXCooking
+LogPluginManager: Mounting Engine plugin SignificanceManager
+LogPluginManager: Mounting Engine plugin ResonanceAudio
+LogPluginManager: Mounting Engine plugin SoundFields
+LogPluginManager: Mounting Engine plugin Synthesis
+LogPluginManager: Mounting Engine plugin WebMMoviePlayer
+LogPluginManager: Mounting Engine plugin WindowsDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin WindowsMoviePlayer
+LogPluginManager: Mounting Engine plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting Engine plugin Interchange
+LogPluginManager: Mounting Engine plugin InterchangeEditor
+LogPluginManager: Mounting Engine plugin OnlineServices
+LogPluginManager: Mounting Engine plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting Engine plugin OnlineSubsystemIOS
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Bridge/Content/' mounted to '/Bridge/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/2D/Paper2D/Content/' mounted to '/Paper2D/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRig/Content/' mounted to '/ControlRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRigSpline/Content/' mounted to '/ControlRigSpline/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/IKRig/Content/' mounted to '/IKRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Developer/AnimationSharing/Content/' mounted to '/AnimationSharing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/GeometryMode/Content/' mounted to '/GeometryMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/ModelingToolsEditorMode/Content/' mounted to '/ModelingToolsEditorMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/SpeedTreeImporter/Content/' mounted to '/SpeedTreeImporter/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Enterprise/DatasmithContent/Content/' mounted to '/DatasmithContent/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosClothEditor/Content/' mounted to '/ChaosClothEditor/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosSolverPlugin/Content/' mounted to '/ChaosSolverPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosNiagara/Content/' mounted to '/ChaosNiagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/FX/Niagara/Content/' mounted to '/Niagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/FullBodyIK/Content/' mounted to '/FullBodyIK/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryFlow/Content/' mounted to '/GeometryFlow/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryCollectionPlugin/Content/' mounted to '/GeometryCollectionPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/Landmass/Content/' mounted to '/Landmass/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshLODToolset/Content/' mounted to '/MeshLODToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshModelingToolsetExp/Content/' mounted to '/MeshModelingToolsetExp/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/PythonScriptPlugin/Content/' mounted to '/PythonScriptPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/Water/Content/' mounted to '/Water/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Media/MediaCompositing/Content/' mounted to '/MediaCompositing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/MovieScene/SequencerScripting/Content/' mounted to '/SequencerScripting/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/AudioSynesthesia/Content/' mounted to '/AudioSynesthesia/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/GeometryProcessing/Content/' mounted to '/GeometryProcessing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/HairStrands/Content/' mounted to '/HairStrands/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/MeshModelingToolset/Content/' mounted to '/MeshModelingToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/ResonanceAudio/Content/' mounted to '/ResonanceAudio/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/Synthesis/Content/' mounted to '/Synthesis/'
+SourceControl: Source control is disabled
+SourceControl: Source control is disabled
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: Created online subsystem instance for: NULL
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE5+Release-5.0-CL-20979098
+LogInit: Engine Version: 5.0.3-20979098+++UE5+Release-5.0
+LogInit: Compatible Engine Version: 5.0.0-19505902+++UE5+Release-5.0
+LogInit: Net CL: 19505902
+LogInit: OS: Windows 10 (21H1) [10.0.19043.2006] (), CPU: Intel(R) Core(TM) i5-10400 CPU @ 2.90GHz, GPU: NVIDIA GeForce GTX 1060 6GB
+LogInit: Compiled (64-bit): Jul  7 2022 02:16:06
+LogInit: Compiled with Visual C++: 19.29.30138.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE5+Release-5.0
+LogInit: Command Line: 
+LogInit: Base Directory: E:/UE_5.0/Engine/Binaries/Win64/
+LogInit: Allocator: Mimalloc
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 34
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 20
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 59
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 3
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   UE5-Main (697DD581-E64F-41AB-AA4A-51ECBEB7B628): 59
+LogDevObjectVersion:   UE5-Release (D89B5E42-24BD-4D46-8412-ACA8DF641779): 36
+LogDevObjectVersion:   UE5-PrivateFrosty (59DA5D52-1232-4948-B878-597870B8E98B): 8
+LogDevObjectVersion:   UE5-Dev-Cooker (26075A32-730F-4708-88E9-8C32F1599D05): 0
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogDevObjectVersion:   UE5-Dev-LWCRendering (30D58BE3-95EA-4282-A6E3-B159D8EBB06A): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: CVar [[con.DebugLateDefault:1]] deferred - dummy variable created
+LogConfig: CVar [[con.DebugLateCheat:1]] deferred - dummy variable created
+LogConfig: CVar [[r.DetectAndWarnOfBadDrivers:0]] deferred - dummy variable created
+LogConfig: CVar [[LogNamedEventFilters:Frame *]] deferred - dummy variable created
+LogConfig: CVar [[framepro.ScopeMinTimeMicroseconds:10]] deferred - dummy variable created
+LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
+[2022.10.10-20.37.44:536][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [Engine]
+[2022.10.10-20.37.44:536][  0]LogConfig: CVar [[VisualizeCalibrationColorMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationColor.PPM_DefaultCalibrationColor]] deferred - dummy variable created
+[2022.10.10-20.37.44:536][  0]LogConfig: CVar [[VisualizeCalibrationGrayscaleMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationGrayscale.PPM_DefaultCalibrationGrayscale]] deferred - dummy variable created
+[2022.10.10-20.37.44:536][  0]LogConfig: CVar [[MaxSkinBones:(Default=65536,PerPlatform=(("Mobile", 256)))]] deferred - dummy variable created
+[2022.10.10-20.37.44:551][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [Engine]
+[2022.10.10-20.37.44:551][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [Engine]
+[2022.10.10-20.37.44:551][  0]LogConfig: CVar [[s.MaxPackageSummarySize:16384]] deferred - dummy variable created
+[2022.10.10-20.37.44:551][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__SoundBase]] deferred - dummy variable created
+[2022.10.10-20.37.44:551][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__MaterialInterface]] deferred - dummy variable created
+[2022.10.10-20.37.44:551][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__DeviceProfileManager]] deferred - dummy variable created
+[2022.10.10-20.37.44:551][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [Engine]
+[2022.10.10-20.37.44:551][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [Engine]
+[2022.10.10-20.37.44:551][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Average",ToolTip="Simulates average internet conditions")]] deferred - dummy variable created
+[2022.10.10-20.37.44:551][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Bad",ToolTip="Simulates laggy internet conditions")]] deferred - dummy variable created
+[2022.10.10-20.37.44:551][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [Engine]
+[2022.10.10-20.37.44:551][  0]LogConfig: CVar [[DefaultPVRTCQuality:1]] deferred - dummy variable created
+[2022.10.10-20.37.44:551][  0]LogConfig: CVar [[DefaultASTCQualityBySpeed:1]] deferred - dummy variable created
+[2022.10.10-20.37.44:551][  0]LogConfig: CVar [[DefaultASTCQualityBySize:3]] deferred - dummy variable created
+[2022.10.10-20.37.44:551][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:WidgetBlueprint]] deferred - dummy variable created
+[2022.10.10-20.37.44:551][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GroupActor]] deferred - dummy variable created
+[2022.10.10-20.37.44:551][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MetaData]] deferred - dummy variable created
+[2022.10.10-20.37.44:551][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ObjectRedirector]] deferred - dummy variable created
+[2022.10.10-20.37.44:551][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NavMeshRenderingComponent]] deferred - dummy variable created
+[2022.10.10-20.37.44:551][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ReflectionCaptureComponent]] deferred - dummy variable created
+[2022.10.10-20.37.44:551][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:TextRenderComponent]] deferred - dummy variable created
+[2022.10.10-20.37.44:551][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:Font]] deferred - dummy variable created
+[2022.10.10-20.37.44:551][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:InterpCurveEdSetup]] deferred - dummy variable created
+[2022.10.10-20.37.44:551][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MaterialExpression]] deferred - dummy variable created
+[2022.10.10-20.37.44:551][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MatineeActorCameraAnim]] deferred - dummy variable created
+[2022.10.10-20.37.44:551][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraEmitter]] deferred - dummy variable created
+[2022.10.10-20.37.44:551][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraScript]] deferred - dummy variable created
+[2022.10.10-20.37.44:551][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleEmitter]] deferred - dummy variable created
+[2022.10.10-20.37.44:551][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleLODLevel]] deferred - dummy variable created
+[2022.10.10-20.37.44:551][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleModule]] deferred - dummy variable created
+[2022.10.10-20.37.44:551][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SubUVAnimation]] deferred - dummy variable created
+[2022.10.10-20.37.44:551][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SoundNode]] deferred - dummy variable created
+[2022.10.10-20.37.44:551][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GameplayEffectUIData]] deferred - dummy variable created
+[2022.10.10-20.37.44:551][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:WidgetBlueprint]] deferred - dummy variable created
+[2022.10.10-20.37.44:551][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:GroupActor]] deferred - dummy variable created
+[2022.10.10-20.37.44:552][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MetaData]] deferred - dummy variable created
+[2022.10.10-20.37.44:552][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:ObjectRedirector]] deferred - dummy variable created
+[2022.10.10-20.37.44:552][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:InterpCurveEdSetup]] deferred - dummy variable created
+[2022.10.10-20.37.44:552][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MatineeActorCameraAnim]] deferred - dummy variable created
+[2022.10.10-20.37.44:552][  0]LogConfig: CVar [[VersionedIntRValues:r.AllowStaticLighting]] deferred - dummy variable created
+[2022.10.10-20.37.44:552][  0]LogConfig: CVar [[VersionedIntRValues:r.GBuffer]] deferred - dummy variable created
+[2022.10.10-20.37.44:552][  0]LogConfig: CVar [[VersionedIntRValues:r.VelocityOutputPass]] deferred - dummy variable created
+[2022.10.10-20.37.44:552][  0]LogConfig: CVar [[VersionedIntRValues:r.SelectiveBasePassOutputs]] deferred - dummy variable created
+[2022.10.10-20.37.44:552][  0]LogConfig: CVar [[VersionedIntRValues:r.DBuffer]] deferred - dummy variable created
+[2022.10.10-20.37.44:552][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Symbols]] deferred - dummy variable created
+[2022.10.10-20.37.44:552][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.GenerateSymbols]] deferred - dummy variable created
+[2022.10.10-20.37.44:552][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.WriteSymbols]] deferred - dummy variable created
+[2022.10.10-20.37.44:552][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.AllowUniqueSymbols]] deferred - dummy variable created
+[2022.10.10-20.37.44:552][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.ExtraData]] deferred - dummy variable created
+[2022.10.10-20.37.44:552][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Optimize]] deferred - dummy variable created
+[2022.10.10-20.37.44:552][  0]LogConfig: CVar [[VersionedIntRValues:r.CompileShadersForDevelopment]] deferred - dummy variable created
+[2022.10.10-20.37.44:552][  0]LogConfig: CVar [[VersionedIntRValues:r.MobileHDR]] deferred - dummy variable created
+[2022.10.10-20.37.44:552][  0]LogConfig: CVar [[VersionedIntRValues:r.UsePreExposure]] deferred - dummy variable created
+[2022.10.10-20.37.44:615][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [Scalability]
+[2022.10.10-20.37.44:615][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [Scalability]
+[2022.10.10-20.37.44:615][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [Scalability]
+[2022.10.10-20.37.44:615][  0]LogConfig: Applying CVar settings from Section [GlobalIlluminationQuality@3] File [Scalability]
+[2022.10.10-20.37.44:615][  0]LogConfig: Applying CVar settings from Section [ReflectionQuality@3] File [Scalability]
+[2022.10.10-20.37.44:615][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [Scalability]
+[2022.10.10-20.37.44:615][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [Scalability]
+[2022.10.10-20.37.44:615][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [Scalability]
+[2022.10.10-20.37.44:636][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [Scalability]
+[2022.10.10-20.37.44:636][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [Scalability]
+[2022.10.10-20.37.44:636][  0]LogConfig: CVar [[r.HairStrands.Interpolation.UseSingleGuide:0]] deferred - dummy variable created
+[2022.10.10-20.37.44:929][  0]LogD3D12RHI: Aftermath initialized
+[2022.10.10-20.37.44:929][  0]LogD3D12RHI: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+[2022.10.10-20.37.45:357][  0]LogD3D12RHI: Found D3D12 adapter 0: NVIDIA GeForce GTX 1060 6GB (Max supported Feature Level 12_1, shader model 6.6)
+[2022.10.10-20.37.45:357][  0]LogD3D12RHI: Adapter has 6052MB of dedicated video memory, 0MB of dedicated system memory, and 16344MB of shared system memory, 2 output[s]
+[2022.10.10-20.37.45:420][  0]LogD3D12RHI: Found D3D12 adapter 1: Microsoft Basic Render Driver (Max supported Feature Level 12_1, shader model 6.2)
+[2022.10.10-20.37.45:420][  0]LogD3D12RHI: Adapter has 0MB of dedicated video memory, 0MB of dedicated system memory, and 16344MB of shared system memory, 0 output[s]
+[2022.10.10-20.37.45:422][  0]LogD3D12RHI: Chosen D3D12 Adapter Id = 0
+[2022.10.10-20.37.45:422][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2022.10.10-20.37.45:440][  0]LogDeviceProfileManager: Applying CVar settings loaded from the selected device profile: [WindowsEditor]
+[2022.10.10-20.37.45:444][  0]LogHAL: Display: Platform has ~ 32 GB [34277871616 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2022.10.10-20.37.45:449][  0]LogDeviceProfileManager: Going up to parent DeviceProfile [Windows]
+[2022.10.10-20.37.45:449][  0]LogDeviceProfileManager: Going up to parent DeviceProfile []
+[2022.10.10-20.37.45:449][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2022.10.10-20.37.45:472][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [Engine]
+[2022.10.10-20.37.45:472][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [G:/My Drive/Master Project/Game Launcher/Saved/Config/WindowsEditor/Editor.ini]
+[2022.10.10-20.37.45:488][  0]LogInit: Computer: SSCORCHH
+[2022.10.10-20.37.45:488][  0]LogInit: User: sscor
+[2022.10.10-20.37.45:488][  0]LogInit: CPU Page size=4096, Cores=6
+[2022.10.10-20.37.45:488][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2022.10.10-20.37.45:488][  0]LogMemory: Memory total: Physical=31.9GB (32GB approx)
+[2022.10.10-20.37.45:488][  0]LogMemory: Platform Memory Stats for WindowsEditor
+[2022.10.10-20.37.45:488][  0]LogMemory: Process Physical Memory: 273.47 MB used, 283.03 MB peak
+[2022.10.10-20.37.45:488][  0]LogMemory: Process Virtual Memory: 226.20 MB used, 226.20 MB peak
+[2022.10.10-20.37.45:488][  0]LogMemory: Physical Memory: 8999.00 MB used,  23690.93 MB free, 32689.93 MB total
+[2022.10.10-20.37.45:488][  0]LogMemory: Virtual Memory: 13196.59 MB used,  24357.34 MB free, 37553.93 MB total
+[2022.10.10-20.37.45:488][  0]LogCsvProfiler: Display: Metadata set : extradevelopmentmemorymb="0"
+[2022.10.10-20.37.45:529][  0]LogWindows: WindowsPlatformFeatures enabled
+[2022.10.10-20.37.45:906][  0]LogInit: Physics initialised using underlying interface: Chaos
+[2022.10.10-20.37.45:943][  0]LogInit: Using OS detected language (en-US).
+[2022.10.10-20.37.45:943][  0]LogInit: Using OS detected locale (en-US).
+[2022.10.10-20.37.46:023][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so 'en' will be used for the language.
+[2022.10.10-20.37.46:497][  0]LogInit: Setting process to per monitor DPI aware
+[2022.10.10-20.37.46:682][  0]LogWindowsTextInputMethodSystem: Available input methods:
+[2022.10.10-20.37.46:682][  0]LogWindowsTextInputMethodSystem:   - English (United States) - (Keyboard).
+[2022.10.10-20.37.46:682][  0]LogWindowsTextInputMethodSystem:   - English (United States) - Touch Input Correction (TSF IME).
+[2022.10.10-20.37.46:682][  0]LogWindowsTextInputMethodSystem: Activated input method: English (United States) - (Keyboard).
+[2022.10.10-20.37.47:507][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2022.10.10-20.37.47:507][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2022.10.10-20.37.50:289][  0]LogD3D12RHI: InitD3DDevice: -D3DDebug = off -D3D12GPUValidation = off
+[2022.10.10-20.37.50:313][  0]LogD3D12RHI: [Aftermath] Aftermath crash dumping enabled
+[2022.10.10-20.37.50:313][  0]LogD3D12RHI: Emitting draw events for PIX profiling.
+[2022.10.10-20.37.50:386][  0]LogD3D12RHI: [Aftermath] Aftermath enabled and primed
+[2022.10.10-20.37.50:386][  0]LogD3D12RHI: [Aftermath] Aftermath resource tracking enabled
+[2022.10.10-20.37.50:386][  0]LogD3D12RHI: ID3D12Device1 is supported.
+[2022.10.10-20.37.50:386][  0]LogD3D12RHI: ID3D12Device2 is supported.
+[2022.10.10-20.37.50:386][  0]LogD3D12RHI: ID3D12Device3 is supported.
+[2022.10.10-20.37.50:386][  0]LogD3D12RHI: ID3D12Device4 is supported.
+[2022.10.10-20.37.50:386][  0]LogD3D12RHI: ID3D12Device5 is supported.
+[2022.10.10-20.37.50:386][  0]LogD3D12RHI: ID3D12Device6 is supported.
+[2022.10.10-20.37.50:386][  0]LogD3D12RHI: ID3D12Device7 is supported.
+[2022.10.10-20.37.50:386][  0]LogD3D12RHI: D3D12 ray tracing tier 1.0 is supported.
+[2022.10.10-20.37.50:386][  0]LogD3D12RHI: AtomicInt64OnTypedResource is supported
+[2022.10.10-20.37.50:386][  0]LogD3D12RHI: AtomicInt64OnGroupShared is supported
+[2022.10.10-20.37.50:386][  0]LogD3D12RHI: AtomicInt64OnDescriptorHeapResource is supported
+[2022.10.10-20.37.50:386][  0]LogD3D12RHI: Shader Model 6.6 atomic64 is supported
+[2022.10.10-20.37.50:496][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for 3D Queue 0
+[2022.10.10-20.37.50:501][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for Copy Queue 0
+[2022.10.10-20.37.50:511][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for Compute Queue 0
+[2022.10.10-20.37.50:582][  0]LogD3D12RHI: Display: Not using pipeline state disk cache per r.D3D12.PSO.DiskCache=0
+[2022.10.10-20.37.50:582][  0]LogD3D12RHI: Display: Not using driver-optimized pipeline state disk cache per r.D3D12.PSO.DriverOptimizedDiskCache=0
+[2022.10.10-20.37.50:798][  0]LogD3D12RHI: Warning: Ray tracing is disabled for NVIDIA cards with the Pascal architecture.
+[2022.10.10-20.37.50:798][  0]LogD3D12RHI:     GPU DeviceId: 0x1c03 (for the marketing name, search the web for "GPU Device Id")
+[2022.10.10-20.37.50:798][  0]LogWindows: Attached monitors:
+[2022.10.10-20.37.50:798][  0]LogWindows:     resolution: 2560x1440, work area: (0, 0) -> (2560, 1400), device: '\\.\DISPLAY1' [PRIMARY]
+[2022.10.10-20.37.50:798][  0]LogWindows:     resolution: 2560x1440, work area: (-2560, 0) -> (0, 1400), device: '\\.\DISPLAY2'
+[2022.10.10-20.37.50:798][  0]LogWindows: Found 2 attached monitors.
+[2022.10.10-20.37.50:798][  0]LogWindows: EnumDisplayDevices:
+[2022.10.10-20.37.50:798][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1060 6GB' (P:1 D:1), name: '\\.\DISPLAY1'
+[2022.10.10-20.37.50:799][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:1), name: '\\.\DISPLAY2'
+[2022.10.10-20.37.50:799][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0), name: '\\.\DISPLAY3'
+[2022.10.10-20.37.50:799][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0), name: '\\.\DISPLAY4'
+[2022.10.10-20.37.50:800][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2022.10.10-20.37.50:800][  0]LogD3D12RHI:     Adapter Name: NVIDIA GeForce GTX 1060 6GB
+[2022.10.10-20.37.50:800][  0]LogD3D12RHI:   Driver Version: 517.48 (internal:31.0.15.1748, unified:517.48)
+[2022.10.10-20.37.50:800][  0]LogD3D12RHI:      Driver Date: 9-21-2022
+[2022.10.10-20.37.50:800][  0]LogRHI: Texture pool is 3328 MB (70% of 4755 MB)
+[2022.10.10-20.37.50:800][  0]LogD3D12RHI: Async texture creation enabled
+[2022.10.10-20.37.50:800][  0]LogD3D12RHI: RHI has support for 64 bit atomics
+[2022.10.10-20.37.51:179][  0]LogRHI: GeForceNow SDK initialized: 0
+[2022.10.10-20.37.51:313][  0]LogTurnkeySupport: Running Turnkey SDK detection: ' -ScriptsForProject="G:/My Drive/Master Project/Game Launcher/Dreamscape.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="G:/My Drive/Master Project/Game Launcher/Intermediate/TurnkeyReport_0.log" -log="G:/My Drive/Master Project/Game Launcher/Intermediate/TurnkeyLog_0.log" -project="G:/My Drive/Master Project/Game Launcher/Dreamscape.uproject"  -platform=all'
+[2022.10.10-20.37.51:314][  0]LogMonitoredProcess: Running Serialized UAT: [ cmd.exe /c ""E:/UE_5.0/Engine/Build/BatchFiles/RunUAT.bat"  -ScriptsForProject="G:/My Drive/Master Project/Game Launcher/Dreamscape.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="G:/My Drive/Master Project/Game Launcher/Intermediate/TurnkeyReport_0.log" -log="G:/My Drive/Master Project/Game Launcher/Intermediate/TurnkeyLog_0.log" -project="G:/My Drive/Master Project/Game Launcher/Dreamscape.uproject"  -platform=all" ]
+[2022.10.10-20.37.51:653][  0]LogTextureFormatETC2: Display: ETC2 Texture loading DLL: TextureConverter.dll
+[2022.10.10-20.37.51:847][  0]LogTextureFormatOodle: Display: Oodle Texture TFO init; latest sdk version = 2.9.5
+[2022.10.10-20.37.51:847][  0]LogTextureFormatOodle: Display: Oodle Texture loading DLL: oo2tex_win64_2.9.5.dll
+[2022.10.10-20.37.51:981][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2022.10.10-20.37.51:981][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2022.10.10-20.37.51:981][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2022.10.10-20.37.51:981][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2022.10.10-20.37.51:981][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2022.10.10-20.37.51:981][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2022.10.10-20.37.51:981][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2022.10.10-20.37.51:981][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2022.10.10-20.37.51:981][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2022.10.10-20.37.51:981][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2022.10.10-20.37.52:076][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLens'
+[2022.10.10-20.37.52:076][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLensClient'
+[2022.10.10-20.37.52:108][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2022.10.10-20.37.52:108][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2022.10.10-20.37.52:149][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2022.10.10-20.37.52:149][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxEditor'
+[2022.10.10-20.37.52:149][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2022.10.10-20.37.52:149][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2022.10.10-20.37.52:177][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64'
+[2022.10.10-20.37.52:177][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Server'
+[2022.10.10-20.37.52:177][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Client'
+[2022.10.10-20.37.52:207][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2022.10.10-20.37.52:207][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2022.10.10-20.37.52:305][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2022.10.10-20.37.52:305][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsEditor'
+[2022.10.10-20.37.52:305][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2022.10.10-20.37.52:305][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2022.10.10-20.37.52:305][  0]LogTargetPlatformManager: Display: Building Assets For WindowsEditor
+[2022.10.10-20.37.52:653][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2022.10.10-20.37.52:685][  0]LogTargetPlatformManager: Unable to find audio format BINKA from hinted modules, loading all potential format modules to find it
+[2022.10.10-20.37.52:685][  0]LogTargetPlatformManager: Loaded format module AudioFormatADPCM
+[2022.10.10-20.37.52:685][  0]LogTargetPlatformManager:   ADPCM
+[2022.10.10-20.37.52:685][  0]LogTargetPlatformManager:   PCM
+[2022.10.10-20.37.52:769][  0]LogTargetPlatformManager: Loaded format module AudioFormatBink
+[2022.10.10-20.37.52:769][  0]LogTargetPlatformManager:   BINKA
+[2022.10.10-20.37.52:769][  0]LogTargetPlatformManager: Loaded format module AudioFormatOgg
+[2022.10.10-20.37.52:769][  0]LogTargetPlatformManager:   OGG
+[2022.10.10-20.37.52:769][  0]LogTargetPlatformManager: Loaded format module AudioFormatOpus
+[2022.10.10-20.37.52:769][  0]LogTargetPlatformManager:   OPUS
+[2022.10.10-20.37.54:196][  0]LogTargetPlatformManager: Unable to find shader format SF_METAL from hinted modules, loading all potential format modules to find it
+[2022.10.10-20.37.54:300][  0]LogTargetPlatformManager: Loaded format module MetalShaderFormat
+[2022.10.10-20.37.54:300][  0]LogTargetPlatformManager:   SF_METAL
+[2022.10.10-20.37.54:300][  0]LogTargetPlatformManager:   SF_METAL_MRT
+[2022.10.10-20.37.54:300][  0]LogTargetPlatformManager:   SF_METAL_TVOS
+[2022.10.10-20.37.54:300][  0]LogTargetPlatformManager:   SF_METAL_MRT_TVOS
+[2022.10.10-20.37.54:300][  0]LogTargetPlatformManager:   SF_METAL_SM5
+[2022.10.10-20.37.54:300][  0]LogTargetPlatformManager:   SF_METAL_MACES3_1
+[2022.10.10-20.37.54:300][  0]LogTargetPlatformManager:   SF_METAL_MRT_MAC
+[2022.10.10-20.37.54:300][  0]LogTargetPlatformManager: Loaded format module ShaderFormatD3D
+[2022.10.10-20.37.54:300][  0]LogTargetPlatformManager:   PCD3D_SM6
+[2022.10.10-20.37.54:300][  0]LogTargetPlatformManager:   PCD3D_SM5
+[2022.10.10-20.37.54:300][  0]LogTargetPlatformManager:   PCD3D_ES31
+[2022.10.10-20.37.54:300][  0]LogTargetPlatformManager:   D3D_ES3_1_HOLOLENS
+[2022.10.10-20.37.54:300][  0]LogTargetPlatformManager: Loaded format module ShaderFormatOpenGL
+[2022.10.10-20.37.54:300][  0]LogTargetPlatformManager:   GLSL_150_ES31
+[2022.10.10-20.37.54:300][  0]LogTargetPlatformManager:   GLSL_ES3_1_ANDROID
+[2022.10.10-20.37.54:361][  0]LogTargetPlatformManager: Loaded format module ShaderFormatVectorVM
+[2022.10.10-20.37.54:361][  0]LogTargetPlatformManager:   VVM_1_0
+[2022.10.10-20.37.54:361][  0]LogTargetPlatformManager: Loaded format module VulkanShaderFormat
+[2022.10.10-20.37.54:361][  0]LogTargetPlatformManager:   SF_VULKAN_SM5
+[2022.10.10-20.37.54:361][  0]LogTargetPlatformManager:   SF_VULKAN_ES31_ANDROID
+[2022.10.10-20.37.54:361][  0]LogTargetPlatformManager:   SF_VULKAN_ES31
+[2022.10.10-20.37.54:361][  0]LogTargetPlatformManager:   SF_VULKAN_SM5_ANDROID
+[2022.10.10-20.37.54:368][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2022.10.10-20.37.54:482][  0]LogShaderCompilers: Display: Compiling shader autogen file: G:/My Drive/Master Project/Game Launcher/Intermediate/ShaderAutogen/PCD3D_SM5/AutogenShaderHeaders.ush
+[2022.10.10-20.37.54:488][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2022.10.10-20.37.54:488][  0]LogShaderCompilers: Display: Compiling shader autogen file: G:/My Drive/Master Project/Game Launcher/Intermediate/ShaderAutogen/PCD3D_ES31/AutogenShaderHeaders.ush
+[2022.10.10-20.37.54:493][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2022.10.10-20.37.54:552][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file G:/My Drive/Master Project/Game Launcher/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2022.10.10-20.37.54:559][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchy Hierarchy.
+[2022.10.10-20.37.54:559][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file G:/My Drive/Master Project/Game Launcher/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.10.10-20.37.54:559][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchy Hierarchy.
+[2022.10.10-20.37.54:678][  0]LogDerivedDataCache: Display: ../../../Engine/DerivedDataCache/Compressed.ddp: Opened pak cache for reading. (1230 MiB)
+[2022.10.10-20.37.54:711][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.10.10-20.37.54:711][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchy Hierarchy.
+[2022.10.10-20.37.55:012][  0]LogDerivedDataCache: Speed tests for C:/Users/sscor/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.30 seconds
+[2022.10.10-20.37.55:037][  0]LogDerivedDataCache: Display: Performance to C:/Users/sscor/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.21ms. RandomReadSpeed=19.62MBs, RandomWriteSpeed=3.71MBs. Assigned SpeedClass 'Local'
+[2022.10.10-20.37.55:072][  0]LogDerivedDataCache: Using Local data cache path C:/Users/sscor/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2022.10.10-20.37.55:072][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2022.10.10-20.37.55:072][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchy Hierarchy.
+[2022.10.10-20.37.55:087][  0]LogVirtualization: VirtualizationSystem name found in ini file: None
+[2022.10.10-20.37.55:087][  0]LogVirtualization: FNullVirtualizationSystem mounted, virtualization will be disabled
+[2022.10.10-20.37.55:217][  0]LogShaderCompilers: Guid format shader working directory is 5 characters bigger than the processId version (G:/My Drive/Master Project/Game Launcher/Intermediate/Shaders/WorkingDirectory/20300/).
+[2022.10.10-20.37.55:217][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/sscor/AppData/Local/Temp/UnrealShaderWorkingDir/7789DC0644FD40A3AF16FD850C2C0AED/'.
+[2022.10.10-20.37.55:220][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2022.10.10-20.37.55:220][  0]LogShaderCompilers: Display: Using Local Shader Compiler with 9 workers.
+[2022.10.10-20.38.06:585][  0]LogTurnkeySupport: Completed SDK detection: ExitCode = 0
+[2022.10.10-20.38.06:585][  0]LogSlate: Using FreeType 2.10.0
+[2022.10.10-20.38.06:721][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2022.10.10-20.38.07:493][  0]LogAssetRegistry: FAssetRegistry took 0.0564 seconds to start up
+[2022.10.10-20.38.07:522][  0]LogEditorDomain: Display: EditorDomain is Disabled
+[2022.10.10-20.38.19:982][  0]LogSerialization: UsePackageTrailer: 'false'
+[2022.10.10-20.38.21:072][  0]LogTexture: Display: Texture Encode Speed: FinalIfAvailable (editor).
+[2022.10.10-20.38.23:433][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2022.10.10-20.38.23:433][  0]LogDeviceProfileManager: Active device profile: [000009E4A04C5CC0][000009E4968A2800 50] WindowsEditor
+[2022.10.10-20.38.23:433][  0]LogDeviceProfileManager: Profiles: [000009E4A04C5780][000009E4968A7800 50] Windows, [000009E4A04C5CC0][000009E4968A2800 50] WindowsEditor, [000009E4A04C1500][000009E4968AA000 50] WindowsServer, [000009E4A04C55C0][000009E4947AA000 50] WindowsClient, [000009E4A04C5400][000009E49707C800 50] IOS, [000009E4A04C16C0][000009E480725000 50] iPadAir2, [000009E4A04C6040][000009E4A06F0000 50] IPadPro, [000009E4A04C63C0][000009E4A06F2800 50] iPadAir3, [000009E4A04C4440][000009E4A06F7800 50] iPadAir4, [000009E4A04C39C0][000009E4A06FA000 50] iPadMini4, [000009E4A04C2680][000009E4A06FC800 50] iPadMini5, [000009E4A04C6900][000009E49707A000 50] iPadMini6, [000009E4A04C8F80][000009E4A0702800 50] iPhone6S, [000009E4A04C9300][000009E4A0700000 50] iPhone7, [000009E4A04C9680][000009E4A0705000 50] iPodTouch7, [000009E4A04C32C0][000009E4A070A000 50] iPhone6SPlus, [000009E4A04C24C0][000009E4A070C800 50] iPhone7Plus, [000009E4A04C5B00][000009E4A06F5000 50] iPhoneSE, [000009E4A04C1C00][000009E4A0707800 50] iPhone8, [000009E4A04C6AC0][000009E4A06E0000 50] iPhone8Plus, [000009E4A04C94C0][000009E4A06E5000 50] iPhoneX, [000009E4A04C7FC0][000009E4A06E7800 50] iPhoneXS, [000009E4A04C3480][000009E4A06EA000 50] iPhoneXSMax, [000009E4A04C9BC0][000009E4A06EC800 50] iPhoneXR, [000009E4A04C78C0][000009E4968A0000 50] iPhone11, [000009E4A04C7540][000009E4A0710000 50] iPhone11Pro, [000009E4A04C5E80][000009E4A0715000 50] iPhone11ProMax, [000009E4A04C4EC0][000009E4A0717800 50] iPhoneSE2, [000009E4A04C2300][000009E4A071A000 50] iPhone12Mini, [000009E4A04C8880][000009E4A071C800 50] iPhone12, [000009E4A04C8180][000009E4A06E2800 50] iPhone12Pro, [000009E4A04C4280][000009E4A0720000 50] iPhone12ProMax, [000009E4A04C2840][000009E4A0725000 50] iPhone13Mini, [000009E4A04C71C0][000009E4A0727800 50] iPhone13, [000009E4A04C8C00][000009E4A072A000 50] iPhone13Pro, [000009E4A04C9A00][000009E4A072C800 50] iPhone13ProMax, [000009E4A04C6580][000009E4A0712800 50] iPadPro105, [000009E4A04C8500][000009E4A0730000 50] iPadPro129, [000009E4A04C4B40][000009E4A0735000 50] iPadPro97, [000009E4A04C9140][000009E4A0737800 50] iPadPro2_129, [000009E4A04C2A00][000009E4A073A000 50] iPad5, [000009E4A04C7000][000009E4A073C800 50] iPad6, [000009E4A04C9840][000009E4A0722800 50] iPad7, [000009E4A04C6740][000009E4A0740000 50] iPad8, [000009E4A04C4980][000009E4A0745000 50] iPad9, [000009E4A04C1340][000009E4A0747800 50] iPadPro11, [000009E4A04C2BC0][000009E4A074A000 50] iPadPro2_11, [000009E4A04C47C0][000009E4A074C800 50] iPadPro3_11, [000009E4A04C3800][000009E4A0732800 50] iPadPro3_129, [000009E4A04C3D40][000009E4A0750000 50] iPadPro4_129, [000009E4A04C2140][000009E4A0755000 50] iPadPro5_129, [000009E4A04C0FC0][000009E4A0757800 50] AppleTV, [000009E4A04C3F00][000009E4A075A000 50] AppleTV4K, [000009E4A04C86C0][000009E4A075C800 50] TVOS, [000009E4A04CB440][000009E4A0780000 50] Mac, [000009E4A04CB7C0][000009E4A0782800 50] MacEditor, [000009E4A04C8340][000009E4A0787800 50] MacClient, [000009E4A04CB980][000009E4A078A000 50] MacServer, [000009E4A04C3B80][000009E4A0742800 50] Linux, [000009E4A04CB280][000009E4A0752800 50] LinuxEditor, [000009E4A04C2F40][000009E4A078C800 50] LinuxArm64Editor, [000009E4A04C5240][000009E4A0770000 50] LinuxArm64, [000009E4A04CA480][000009E4A0775000 50] LinuxClient, [000009E4A04C2D80][000009E4A0777800 50] LinuxArm64Client, [000009E4A04CA640][000009E4A077A000 50] LinuxServer, [000009E4A04C8DC0][000009E4A077C800 50] LinuxArm64Server, [000009E4A04C7E00][000009E4A0785000 50] Android, [000009E4A04C4D00][000009E4A0790000 50] Android_Preview_OpenGL, [000009E4A04C4600][000009E4A0795000 50] Android_Preview_Vulkan, [000009E4A04CA100][000009E4A0797800 50] Android_Low, [000009E4A04C7380][000009E4A079A000 50] Android_Mid, [000009E4A04C6C80][000009E4A079C800 50] Android_High, [000009E4A04CA2C0][000009E4A0772800 50] Android_Default, [000009E4A04C40C0][000009E4A07A0000 50] Android_Adreno4xx, [000009E4A04C9F40][000009E4A07A5000 50] Android_Adreno5xx_Low, [000009E4A04C1F80][000009E4A07A7800 50] Android_Adreno5xx, [000009E4A04C5080][000009E4A07AA000 50] Android_Adreno6xx, [000009E4A04C1DC0][000009E4A07AC800 50] Android_Adreno6xx_Vulkan, [000009E4A04CBD00][000009E4A0792800 50] Android_Adreno7xx, [000009E4A04CB0C0][000009E4A07B0000 50] Android_Adreno7xx_Vulkan, [000009E4A04CC780][000009E4A07B5000 50] Android_Mali_T6xx, [000009E4A04CA800][000009E4A07B7800 50] Android_Mali_T7xx, [000009E4A04C1A40][000009E4A07BA000 50] Android_Mali_T8xx, [000009E4A04C7C40][000009E4A07BC800 50] Android_Mali_G71, [000009E4A04CC940][000009E4A07A2800 50] Android_Mali_G72, [000009E4A04CA9C0][000009E4A07C0000 50] Android_Mali_G72_Vulkan, [000009E4A04C7A80][000009E4A07C5000 50] Android_Mali_G76, [000009E4A04C1880][000009E4A07C7800 50] Android_Mali_G76_Vulkan, [000009E4A04CD740][000009E4A07CA000 50] Android_Mali_G77, [000009E4A04C1180][000009E4A07CC800 50] Android_Mali_G77_Vulkan, [000009E4A04CC240][000009E4A07B2800 50] Android_Mali_G78, [000009E4A04C9D80][000009E4A07D0000 50] Android_Mali_G78_Vulkan, [000009E4A04C8A40][000009E4A07D5000 50] Android_Mali_G710, [000009E4A04CC5C0][000009E4A07D7800 50] Android_Mali_G710_Vulkan, [000009E4A04CD900][000009E4A07DA000 50] Android_Xclipse_920, [000009E4A04C6200][000009E4A07DC800 50] Android_Xclipse_920_Vulkan, [000009E4A04CD3C0][000009E4A07C2800 50] Android_Vulkan_SM5, [000009E4A04CC400][000009E4A07E0000 50] Android_PowerVR_G6xxx, [000009E4A04CE380][000009E4A07E5000 50] Android_PowerVR_GT7xxx, [000009E4A04CDAC0][000009E4A07E7800 50] Android_PowerVR_GE8xxx, [000009E4A04C6E40][000009E4A07EA000 50] Android_PowerVR_GM9xxx, [000009E4A04CCB00][000009E4A07EC800 50] Android_PowerVR_GM9xxx_Vulkan, [000009E4A04CCE80][000009E4A07D2800 50] Android_TegraK1, [000009E4A04CD580][000009E4A07F0000 50] Android_Unknown_Vulkan, [000009E4A04CE000][000009E4A07F5000 50] Oculus_Quest, [000009E4A04CBEC0][000009E4A07F7800 50] Oculus_Quest2, [000009E4A04CF340][000009E4A07FA000 50] HoloLens, 
+[2022.10.10-20.38.23:433][  0]LogCsvProfiler: Display: Metadata set : deviceprofile="WindowsEditor"
+[2022.10.10-20.38.26:462][  0]LogTurnkeySupport: Turnkey Platform: Win64: (Status=Valid, Installed=10.0.18362.0, AutoSDK=, MinAllowed=10.0.00000.0, MaxAllowed=10.9.99999.0, Flags="InstalledSdk_ValidVersionExists")
+[2022.10.10-20.38.32:984][  0]LogTexture: Display: Oodle Texture Encode Speed settings: Fast: RDO Off Lambda=0, Effort=Normal Final: RDO Off Lambda=0, Effort=Normal
+[2022.10.10-20.38.37:184][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2022.10.10-20.38.37:184][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2022.10.10-20.38.37:184][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2022.10.10-20.38.37:184][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2022.10.10-20.38.37:184][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2022.10.10-20.38.37:592][  0]LogNetVersion: Dreamscape 1.0.0, NetCL: 19505902, EngineNetVer: 23, GameNetVer: 0 (Checksum: 1489301819)
+[2022.10.10-20.38.39:026][  0]LogSlate: Border
+[2022.10.10-20.38.39:026][  0]LogSlate: BreadcrumbButton
+[2022.10.10-20.38.39:026][  0]LogSlate: Default
+[2022.10.10-20.38.39:026][  0]LogSlate: Icons.Save
+[2022.10.10-20.38.39:026][  0]LogSlate: Icons.Toolbar.Settings
+[2022.10.10-20.38.39:026][  0]LogSlate: ListView
+[2022.10.10-20.38.39:026][  0]LogSlate: SoftwareCursor_CardinalCross
+[2022.10.10-20.38.39:026][  0]LogSlate: SoftwareCursor_Grab
+[2022.10.10-20.38.39:026][  0]LogSlate: TableView.DarkRow
+[2022.10.10-20.38.39:026][  0]LogSlate: TableView.Row
+[2022.10.10-20.38.39:026][  0]LogSlate: TreeView
+[2022.10.10-20.38.46:783][  0]SourceControl: Source control is disabled
+[2022.10.10-20.38.47:128][  0]SourceControl: Source control is disabled
+[2022.10.10-20.38.47:128][  0]SourceControl: Source control is disabled
+[2022.10.10-20.38.47:897][  0]LogUObjectArray: 20823 objects as part of root set at end of initial load.
+[2022.10.10-20.38.47:914][  0]LogUObjectAllocator: 5780864 out of 0 bytes used by permanent object pool.
+[2022.10.10-20.38.47:914][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2022.10.10-20.38.53:054][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: 7888589144D6AB42B8704DA675C5EBDD | Instance: EE947B00482B514597EE76AE6D46D9EC (SSCORCHH-20300).
+[2022.10.10-20.38.54:279][  0]LogPython: Using Python 3.9.7
+[2022.10.10-20.38.56:423][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2022.10.10-20.38.56:467][  0]LogUdpMessaging: Warning: Invalid UDP Messaging Static Endpoint ':0'
+[2022.10.10-20.38.56:467][  0]LogUdpMessaging: Initializing bridge on interface 25.66.55.253:0 to multicast group 230.0.0.1:6666.
+[2022.10.10-20.38.56:468][  0]FUdpSocketBuilder: Failed to bind UdpMessageUnicastSocket to 25.66.55.253:0. Error code 21.
+[2022.10.10-20.38.56:468][  0]LogUdpMessaging: Error: StartTransport failed to create unicast socket on 25.66.55.253:0
+[2022.10.10-20.38.56:468][  0]LogUdpMessaging: Initializing tunnel on interface 25.67.234.74:0 to multicast group 230.0.0.1:6666.
+[2022.10.10-20.38.56:468][  0]FUdpSocketBuilder: Failed to bind UdpMessageUnicastSocket to 25.67.234.74:0. Error code 21.
+[2022.10.10-20.38.56:468][  0]LogUdpMessaging: Error: UdpMessageTunnel failed to create unicast socket on 25.67.234.74:0
+[2022.10.10-20.38.56:468][  0]FUdpSocketBuilder: Failed to bind UdpMessageMulticastSocket to 25.67.234.74:6666. Error code 21.
+[2022.10.10-20.38.56:468][  0]LogUdpMessaging: Error: UdpMessageTunnel failed to create multicast socket on 25.67.234.74:0, joined to 230.0.0.1:6666
+[2022.10.10-20.39.03:441][  0]SourceControl: Source control is disabled
+[2022.10.10-20.39.03:648][  0]SourceControl: Source control is disabled
+[2022.10.10-20.39.03:891][  0]SourceControl: Source control is disabled
+[2022.10.10-20.39.04:020][  0]LogUProjectInfo: Found projects:
+[2022.10.10-20.39.15:677][  0]LogOpenImageDenoise: OIDN starting up
+[2022.10.10-20.39.18:541][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2022.10.10-20.39.21:564][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.10.10-20.39.21:564][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.10.10-20.39.26:259][  0]LogCollectionManager: Loaded 0 collections in 0.004477 seconds
+[2022.10.10-20.39.27:781][  0]LogFileCache: Scanning file cache for directory 'G:/My Drive/Master Project/Game Launcher/Saved/Collections/' took 0.00s
+[2022.10.10-20.39.27:781][  0]LogFileCache: Scanning file cache for directory 'G:/My Drive/Master Project/Game Launcher/Content/Developers/sscor/Collections/' took 0.00s
+[2022.10.10-20.39.27:781][  0]LogFileCache: Scanning file cache for directory 'G:/My Drive/Master Project/Game Launcher/Content/Collections/' took 0.00s
+[2022.10.10-20.39.31:381][  0]LogAutomationTest: Warning: Smoke tests took >2s to run (2.11s). 'FAutomationTestAttemptToFindUninitializedScriptStructMembers' took 1730ms. SmokeFilter tier tests should take less than 1ms. Please optimize or move 'FAutomationTestAttemptToFindUninitializedScriptStructMembers' to a slower tier than SmokeFilter.
+[2022.10.10-20.39.31:573][  0]LogEngine: Initializing Engine...
+[2022.10.10-20.39.31:925][  0]LogStylusInput: Initializing StylusInput subsystem.
+[2022.10.10-20.39.32:016][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.009 s
+[2022.10.10-20.39.33:672][  0]LogInit: Initializing FReadOnlyCVARCache
+[2022.10.10-20.39.33:795][  0]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.10.10-20.39.34:639][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.10-20.39.35:541][  0]LogAIModule: Creating AISystem for world Untitled
+[2022.10.10-20.39.35:821][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2022.10.10-20.39.35:956][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2022.10.10-20.39.35:956][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2022.10.10-20.39.35:956][  0]LogAudio: Display: Registering Engine Module Parameter Interfaces...
+[2022.10.10-20.39.36:073][  0]LogAudio: Display: Audio Device Manager Initialized
+[2022.10.10-20.39.36:073][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2022.10.10-20.39.36:107][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.10.10-20.39.36:107][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.10.10-20.39.36:108][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.10.10-20.39.36:108][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.10.10-20.39.36:108][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.10.10-20.39.36:108][  0]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.10.10-20.39.36:108][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.10.10-20.39.36:108][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.10.10-20.39.36:139][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.10.10-20.39.36:139][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.10.10-20.39.36:139][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.10.10-20.39.36:236][  0]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.10.10-20.39.36:305][  0]LogAudioMixer: Display: Using Audio Hardware Device SteelSeries Sonar - Gaming (SteelSeries Sonar Virtual Audio Device)
+[2022.10.10-20.39.36:333][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.10.10-20.39.36:335][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.10.10-20.39.36:335][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.10.10-20.39.36:364][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=1
+[2022.10.10-20.39.36:364][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=1
+[2022.10.10-20.39.36:365][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2022.10.10-20.39.36:365][  0]LogInit: FAudioDevice initialized.
+[2022.10.10-20.39.36:365][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=1
+[2022.10.10-20.39.36:365][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2022.10.10-20.39.36:366][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2022.10.10-20.39.36:366][  0]LogInit: Texture streaming: Enabled
+[2022.10.10-20.39.36:646][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 5.0.3-20979098+++UE5+Release-5.0
+[2022.10.10-20.39.36:757][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2022.10.10-20.39.36:947][  0]LogCsvProfiler: Display: Metadata set : largeworldcoordinates="1"
+[2022.10.10-20.39.37:016][  0]LogLiveCoding: Display: Starting LiveCoding
+[2022.10.10-20.39.37:016][  0]LogLiveCoding: Display: LiveCodingConsole Arguments: UnrealEditor Win64 Development
+[2022.10.10-20.39.51:467][  0]LogLiveCoding: Display: First instance in process group "UE_Dreamscape_0x008983b6", spawning console
+[2022.10.10-20.39.51:467][  0]LogLiveCoding: Display: Waiting for server
+[2022.10.10-20.39.51:467][  0]LogLiveCoding: Display: Successfully initialized, removing startup thread
+[2022.10.10-20.39.51:921][  0]LogInit: Transaction tracking system initialized
+[2022.10.10-20.39.52:368][  0]BlueprintLog: New page: Editor Load
+[2022.10.10-20.39.53:858][  0]LocalizationService: Localization service is disabled
+[2022.10.10-20.39.54:172][  0]TimingProfiler: Initialize
+[2022.10.10-20.39.54:173][  0]TimingProfiler: OnSessionChanged
+[2022.10.10-20.39.54:180][  0]LoadingProfiler: Initialize
+[2022.10.10-20.39.54:180][  0]LoadingProfiler: OnSessionChanged
+[2022.10.10-20.39.54:184][  0]NetworkingProfiler: Initialize
+[2022.10.10-20.39.54:188][  0]NetworkingProfiler: OnSessionChanged
+[2022.10.10-20.39.54:188][  0]MemoryProfiler: Initialize
+[2022.10.10-20.39.54:188][  0]MemoryProfiler: OnSessionChanged
+[2022.10.10-20.39.57:232][  0]LogFileCache: Scanning file cache for directory 'G:/My Drive/Master Project/Game Launcher/Content/' took 0.44s
+[2022.10.10-20.39.57:232][  0]LogAutoSizeComments: Startup AutoSizeComments
+[2022.10.10-20.40.01:697][  0]LogDerivedDataCache: C:/Users/sscor/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:05.408 and deleted 0 file(s) with total size 0 MiB.
+[2022.10.10-20.40.01:697][  0]LogLevelSequenceEditor: LevelSequenceEditor subsystem initialized.
+[2022.10.10-20.40.02:085][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2022.10.10-20.40.02:193][  0]SourceControl: Source control is disabled
+[2022.10.10-20.40.02:214][  0]LogUnrealEdMisc: Loading editor; pre map load, took 210.874
+[2022.10.10-20.40.02:277][  0]Cmd: MAP LOAD FILE="G:/My Drive/Master Project/Game Launcher/Content/DreamscapeSeries/DreamscapeMeadows/Maps/KingsOfParadise.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.10.10-20.40.02:283][  0]LightingResults: New page: Lighting Build
+[2022.10.10-20.40.02:358][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2022.10.10-20.40.02:479][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.10-20.40.02:538][  0]MapCheck: New page: Map Check
+[2022.10.10-20.40.02:538][  0]LightingResults: New page: Lighting Build
+[2022.10.10-20.40.03:186][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.10.10-20.40.03:706][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2022.10.10-20.40.19:501][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'KingsOfParadise'.
+[2022.10.10-20.40.19:501][  0]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.10.10-20.40.19:529][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.10-20.40.19:529][  0]LogAIModule: Creating AISystem for world KingsOfParadise
+[2022.10.10-20.40.29:432][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.10.10-20.40.30:656][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2022.10.10-20.40.30:735][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.10.10-20.40.30:804][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 68.951ms to complete.
+[2022.10.10-20.40.30:848][  0]LogFileHelpers: Loading map 'KingsOfParadise' took 28.577
+[2022.10.10-20.40.35:620][  0]LogUnrealEdMisc: Total Editor Startup Time, took 244.280
+[2022.10.10-20.40.35:670][  0]LogShaderCompilers: Display: ================================================
+[2022.10.10-20.40.35:670][  0]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.10.10-20.40.35:670][  0]LogShaderCompilers: Display: Total job queries 0, among them cache hits 0 (0.00%)
+[2022.10.10-20.40.35:671][  0]LogShaderCompilers: Display: Tracking 0 distinct input hashes that result in 0 distinct outputs (0.00%)
+[2022.10.10-20.40.35:671][  0]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.00%
+[2022.10.10-20.40.35:671][  0]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2022.10.10-20.40.35:671][  0]LogShaderCompilers: Display: Shaders Compiled: 0
+[2022.10.10-20.40.35:671][  0]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2022.10.10-20.40.35:671][  0]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2022.10.10-20.40.35:702][  0]LogShaderCompilers: Display: ================================================
+[2022.10.10-20.40.37:803][  0]LogSlate: The tab "TopLeftModeTab" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2022.10.10-20.40.37:803][  0]LogSlate: The tab "TopLeftModeTab" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2022.10.10-20.40.37:803][  0]LogSlate: The tab "TopLeftModeTab" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2022.10.10-20.40.37:803][  0]LogSlate: The tab "TopLeftModeTab" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2022.10.10-20.40.37:803][  0]LogSlate: The tab "TopLeftModeTab" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2022.10.10-20.40.37:803][  0]LogSlate: The tab "TopLeftModeTab" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2022.10.10-20.40.37:803][  0]LogSlate: The tab "TopLeftModeTab" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2022.10.10-20.40.37:803][  0]LogSlate: The tab "TopLeftModeTab" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2022.10.10-20.40.37:803][  0]LogSlate: The tab "TopLeftModeTab" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2022.10.10-20.40.37:803][  0]LogSlate: The tab "TopLeftModeTab" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2022.10.10-20.40.39:051][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.10-20.40.39:166][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.10-20.40.39:172][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.10-20.40.39:178][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.10-20.40.42:063][  0]LogPakFile: Display: Mounted Pak file 'E:/UE_5.0/FeaturePacks/StarterContent.upack', mount point: 'root:/'
+[2022.10.10-20.40.42:063][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.10.10-20.40.42:140][  0]LogPakFile: Display: Mounted Pak file 'E:/UE_5.0/FeaturePacks/TP_FirstPerson.upack', mount point: 'root:/'
+[2022.10.10-20.40.42:140][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.10.10-20.40.42:157][  0]LogPakFile: Display: Mounted Pak file 'E:/UE_5.0/FeaturePacks/TP_FirstPersonBP.upack', mount point: 'root:/'
+[2022.10.10-20.40.42:158][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.10.10-20.40.42:231][  0]LogPakFile: Display: Mounted Pak file 'E:/UE_5.0/FeaturePacks/TP_HandheldARBP.upack', mount point: 'root:/'
+[2022.10.10-20.40.42:231][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.10.10-20.40.42:283][  0]LogPakFile: Display: Mounted Pak file 'E:/UE_5.0/FeaturePacks/TP_ThirdPerson.upack', mount point: 'root:/'
+[2022.10.10-20.40.42:283][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.10.10-20.40.42:328][  0]LogPakFile: Display: Mounted Pak file 'E:/UE_5.0/FeaturePacks/TP_ThirdPersonBP.upack', mount point: 'root:/'
+[2022.10.10-20.40.42:328][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.10.10-20.40.42:348][  0]LogPakFile: Display: Mounted Pak file 'E:/UE_5.0/FeaturePacks/TP_TopDown.upack', mount point: 'root:/'
+[2022.10.10-20.40.42:348][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.10.10-20.40.42:372][  0]LogPakFile: Display: Mounted Pak file 'E:/UE_5.0/FeaturePacks/TP_TopDownBP.upack', mount point: 'root:/'
+[2022.10.10-20.40.42:372][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.10.10-20.40.42:392][  0]LogPakFile: Display: Mounted Pak file 'E:/UE_5.0/FeaturePacks/TP_VehicleAdvBP.upack', mount point: 'root:/'
+[2022.10.10-20.40.42:392][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.10.10-20.40.42:506][  0]LogPakFile: Display: Mounted Pak file 'E:/UE_5.0/FeaturePacks/TP_VirtualRealityBP.upack', mount point: 'root:/'
+[2022.10.10-20.40.42:506][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.10.10-20.40.42:507][  0]LogFeaturePack: Error: Error in Feature pack E:/UE_5.0/FeaturePacks/TP_VirtualRealityBP.upack. Failed to parse manifest: Invalid Json Token. Line: 43 Ch: 4
+[2022.10.10-20.40.44:826][  0]LogSlate: The tab "ConcertBrowser" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2022.10.10-20.40.50:129][  0]LogSlate: Took 0.043239 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.10.10-20.40.50:588][  0]LogSlate: Took 0.032136 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2022.10.10-20.40.50:728][  0]LogSlate: Took 0.049438 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2022.10.10-20.40.50:990][  0]LogSlate: Took 0.118036 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2022.10.10-20.40.51:238][  0]LogViewport: Scene viewport resized to 1972x721, mode Windowed.
+[2022.10.10-20.40.57:210][  0]LogStall: Startup...
+[2022.10.10-20.40.57:212][  0]LogStall: Startup complete.
+[2022.10.10-20.40.57:306][  0]LogLoad: (Engine Initialization) Total time: 265.97 seconds
+[2022.10.10-20.40.57:306][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2022.10.10-20.41.00:512][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2022.10.10-20.41.03:733][  1]LogFileCache: Retrieving MD5 hashes for directory 'G:/My Drive/Master Project/Game Launcher/Content/' took 5.63s
+[2022.10.10-20.41.03:806][  1]LogAssetRegistry: Asset discovery search completed in 176.2621 seconds
+[2022.10.10-20.41.04:103][  1]LogAutoSizeComments: Loaded auto size comments cache: E:/UE_5.0/Engine/Plugins/Marketplace/AutoSizeComments/ASCCache/658A493D4D643F1DFCC3F4BCDEE3BA3E.json
+[2022.10.10-20.41.04:385][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.024745 seconds (updated 0 objects)
+[2022.10.10-20.41.08:036][  2]LogSlate: Took 0.023827 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.10.10-20.41.09:394][  5]LogSlate: Took 0.000165 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.10.10-20.44.01:384][571]LogSlate: Took 0.017185 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2022.10.10-20.44.01:617][587]LogViewport: Scene viewport resized to 981x318, mode Windowed.
+[2022.10.10-20.44.02:839][630]LogViewport: Scene viewport resized to 1972x721, mode Windowed.
+[2022.10.10-20.44.09:287][178]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2022.10.10-20.44.10:484][178]LogUObjectGlobals: Warning: Failed to find object 'Class None.Physics'
+[2022.10.10-20.44.28:283][768]LogSlate: Window 'Project Settings' being destroyed
+[2022.10.10-20.44.28:287][768]LogSlate: Window 'Project Settings' being destroyed
+[2022.10.10-20.44.56:196][919]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/HUD/BluePrints/Components/EquipmentInventoryComponent.EquipmentInventoryComponent
+[2022.10.10-20.44.56:243][919]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.10-20.45.11:011][919]LogStall: Stall detector 'UAssetEditorSubsystem::OpenEditorForAsset' exceeded budget of 2.000000s, reporting...
+[2022.10.10-20.45.11:011][919]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [10246ms] waiting for h/w. InstanceID=1
+[2022.10.10-20.45.11:011][919]LogStall: Stall detector 'UAssetEditorSubsystem::OpenEditorForAsset' report submitted, and took 0.031852s
+[2022.10.10-20.45.11:011][919]LogStall: Stall detector 'UAssetEditorSubsystem::OpenEditorForAsset' complete in 0.001375s (2.211330s overbudget)
+[2022.10.10-20.45.11:211][919]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=7104
+[2022.10.10-20.45.11:211][919]LogSlate: Took 0.034334 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2022.10.10-20.45.11:802][920]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=8, SampleRate=96000, DeviceID={0.0.0.00000000}.{782c47d4-727f-4d4c-acdd-f962e88b589a}, Name=SteelSeries Sonar - Gaming (SteelSeries Sonar Virtual Audio Device)), Reason=AudioMixerPlatformInterface. Timeout waiting for h/w., InstanceID=1, DurationMS=10.50
+[2022.10.10-20.45.11:808][920]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=1
+[2022.10.10-20.45.11:836][921]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2022.10.10-20.45.49:723][529]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/HUD/BluePrints/Components/InventoryComponent.InventoryComponent
+[2022.10.10-20.45.49:724][529]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.10-20.46.26:108][ 29]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HUD/BluePrints/Components/InventoryComponent" FILE="G:/My Drive/Master Project/Game Launcher/Content/HUD/BluePrints/Components/InventoryComponent.uasset" SILENT=true
+[2022.10.10-20.46.26:235][ 29]LogPackageLocalizationCache: Processed 32 localized package path(s) for 1 prioritized culture(s) in 0.048378 seconds
+[2022.10.10-20.46.26:565][ 29]LogSavePackage: Moving output files for package: /Game/HUD/BluePrints/Components/InventoryComponent
+[2022.10.10-20.46.26:569][ 29]LogSavePackage: Moving 'G:/My Drive/Master Project/Game Launcher/Saved/InventoryComponentF7FF84B44A89C06BA94284BC435FB876.tmp' to 'G:/My Drive/Master Project/Game Launcher/Content/HUD/BluePrints/Components/InventoryComponent.uasset'
+[2022.10.10-20.46.26:638][ 29]LogAutoSizeComments: Saved node cache to E:/UE_5.0/Engine/Plugins/Marketplace/AutoSizeComments/ASCCache/658A493D4D643F1DFCC3F4BCDEE3BA3E.json took  27.82ms
+[2022.10.10-20.46.26:657][ 29]AssetCheck: New page: Asset Save: InventoryComponent
+[2022.10.10-20.46.26:658][ 29]LogContentValidation: Display: Validating Blueprint /Game/HUD/BluePrints/Components/InventoryComponent.InventoryComponent
+[2022.10.10-20.58.21:907][426]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HUD/BluePrints/Components/InventoryComponent" FILE="G:/My Drive/Master Project/Game Launcher/Content/HUD/BluePrints/Components/InventoryComponent.uasset" SILENT=true
+[2022.10.10-20.58.22:070][426]LogSavePackage: Moving output files for package: /Game/HUD/BluePrints/Components/InventoryComponent
+[2022.10.10-20.58.22:074][426]LogSavePackage: Moving 'G:/My Drive/Master Project/Game Launcher/Saved/InventoryComponentFE5177BD45D951024D670DAAFA6ACD00.tmp' to 'G:/My Drive/Master Project/Game Launcher/Content/HUD/BluePrints/Components/InventoryComponent.uasset'
+[2022.10.10-20.58.22:087][426]LogAutoSizeComments: Saved node cache to E:/UE_5.0/Engine/Plugins/Marketplace/AutoSizeComments/ASCCache/658A493D4D643F1DFCC3F4BCDEE3BA3E.json took   0.89ms
+[2022.10.10-20.58.22:095][426]AssetCheck: New page: Asset Save: InventoryComponent
+[2022.10.10-20.58.22:095][426]LogContentValidation: Display: Validating Blueprint /Game/HUD/BluePrints/Components/InventoryComponent.InventoryComponent
+[2022.10.10-20.58.23:199][549]BlueprintLog: New page: Compile InventoryComponent
+[2022.10.10-20.58.23:530][549]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2022.10.10-20.59.25:256][765]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HUD/BluePrints/Components/InventoryComponent" FILE="G:/My Drive/Master Project/Game Launcher/Content/HUD/BluePrints/Components/InventoryComponent.uasset" SILENT=true
+[2022.10.10-20.59.25:432][765]LogSavePackage: Moving output files for package: /Game/HUD/BluePrints/Components/InventoryComponent
+[2022.10.10-20.59.25:436][765]LogSavePackage: Moving 'G:/My Drive/Master Project/Game Launcher/Saved/InventoryComponentDE20B14A4559908AFE349585AA9061FA.tmp' to 'G:/My Drive/Master Project/Game Launcher/Content/HUD/BluePrints/Components/InventoryComponent.uasset'
+[2022.10.10-20.59.25:451][765]LogAutoSizeComments: Saved node cache to E:/UE_5.0/Engine/Plugins/Marketplace/AutoSizeComments/ASCCache/658A493D4D643F1DFCC3F4BCDEE3BA3E.json took   0.79ms
+[2022.10.10-20.59.25:459][765]AssetCheck: New page: Asset Save: InventoryComponent
+[2022.10.10-20.59.25:459][765]LogContentValidation: Display: Validating Blueprint /Game/HUD/BluePrints/Components/InventoryComponent.InventoryComponent
+[2022.10.10-20.59.25:994][826]BlueprintLog: New page: Compile InventoryComponent
+[2022.10.10-20.59.26:051][826]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2022.10.10-20.59.59:872][565]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2022.10.10-20.59.59:872][565]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.10-21.01.41:717][348]BlueprintLog: New page: Compile EquipmentInventoryComponent
+[2022.10.10-21.01.41:779][348]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2022.10.10-21.01.55:913][901]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/HUD/BluePrints/Components/InventoryComponent.InventoryComponent
+[2022.10.10-21.01.55:913][901]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.10-21.03.04:592][300]BlueprintLog: New page: Compile InventoryComponent
+[2022.10.10-21.03.04:647][300]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2022.10.10-21.03.05:652][412]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HUD/BluePrints/Components/InventoryComponent" FILE="G:/My Drive/Master Project/Game Launcher/Content/HUD/BluePrints/Components/InventoryComponent.uasset" SILENT=true
+[2022.10.10-21.03.05:818][412]LogSavePackage: Moving output files for package: /Game/HUD/BluePrints/Components/InventoryComponent
+[2022.10.10-21.03.05:823][412]LogSavePackage: Moving 'G:/My Drive/Master Project/Game Launcher/Saved/InventoryComponent013D78E54645E0C1306841B3D47E04A1.tmp' to 'G:/My Drive/Master Project/Game Launcher/Content/HUD/BluePrints/Components/InventoryComponent.uasset'
+[2022.10.10-21.03.05:834][412]LogAutoSizeComments: Saved node cache to E:/UE_5.0/Engine/Plugins/Marketplace/AutoSizeComments/ASCCache/658A493D4D643F1DFCC3F4BCDEE3BA3E.json took   0.78ms
+[2022.10.10-21.03.05:842][412]AssetCheck: New page: Asset Save: InventoryComponent
+[2022.10.10-21.03.05:842][412]LogContentValidation: Display: Validating Blueprint /Game/HUD/BluePrints/Components/InventoryComponent.InventoryComponent
+[2022.10.10-21.03.38:566][372]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2022.10.10-21.03.38:624][372]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/DreamscapeSeries/DreamscapeMeadows/Maps/KingsOfParadise' took 0.085
+[2022.10.10-21.03.38:632][372]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/HUD/BluePrints/Components/EquipmentInventoryComponent] ([2] browsable assets)...
+[2022.10.10-21.03.38:632][372]OBJ SavePackage: Finished generating thumbnails for package [/Game/HUD/BluePrints/Components/EquipmentInventoryComponent]
+[2022.10.10-21.03.38:656][372]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/HUD/BluePrints/Components/EquipmentInventoryComponent_Auto1
+[2022.10.10-21.03.38:657][372]LogSavePackage: Moving 'G:/My Drive/Master Project/Game Launcher/Saved/EquipmentInventoryComponent_Auto7324E93B4C1C523B3812C68E530F511C.tmp' to 'G:/My Drive/Master Project/Game Launcher/Saved/Autosaves/Game/HUD/BluePrints/Components/EquipmentInventoryComponent_Auto1.uasset'
+[2022.10.10-21.03.38:662][372]LogFileHelpers: Auto-saving content packages took 0.038
+[2022.10.10-21.04.04:395][353]BlueprintLog: New page: Compile EquipmentInventoryComponent
+[2022.10.10-21.04.04:432][353]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2022.10.10-21.04.29:139][889]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HUD/BluePrints/Components/InventoryComponent" FILE="G:/My Drive/Master Project/Game Launcher/Content/HUD/BluePrints/Components/InventoryComponent.uasset" SILENT=true
+[2022.10.10-21.04.29:320][889]LogSavePackage: Moving output files for package: /Game/HUD/BluePrints/Components/InventoryComponent
+[2022.10.10-21.04.29:324][889]LogSavePackage: Moving 'G:/My Drive/Master Project/Game Launcher/Saved/InventoryComponent485832FD4E9DFF4C0A2C32B1A5621093.tmp' to 'G:/My Drive/Master Project/Game Launcher/Content/HUD/BluePrints/Components/InventoryComponent.uasset'
+[2022.10.10-21.04.29:337][889]LogAutoSizeComments: Saved node cache to E:/UE_5.0/Engine/Plugins/Marketplace/AutoSizeComments/ASCCache/658A493D4D643F1DFCC3F4BCDEE3BA3E.json took   0.74ms
+[2022.10.10-21.04.29:346][889]AssetCheck: New page: Asset Save: InventoryComponent
+[2022.10.10-21.04.29:346][889]LogContentValidation: Display: Validating Blueprint /Game/HUD/BluePrints/Components/InventoryComponent.InventoryComponent
+[2022.10.10-21.04.29:832][943]BlueprintLog: New page: Compile InventoryComponent
+[2022.10.10-21.04.29:887][943]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2022.10.10-21.05.07:487][817]LogSlate: Took 0.018297 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2022.10.10-21.06.08:008][933]LogContentBrowser: Deferred new asset file creation: NewFunctionLibrary
+[2022.10.10-21.06.08:014][933]LogContentBrowser: Creating deferred item: NewFunctionLibrary
+[2022.10.10-21.06.08:040][934]LogContentBrowser: Renaming the item being created (Deferred Item: NewFunctionLibrary).
+[2022.10.10-21.06.21:019][417]LogContentBrowser: Attempting asset rename: NewFunctionLibrary -> InventoryInterface
+[2022.10.10-21.06.21:067][417]LogContentBrowser: End creating deferred item NewFunctionLibrary
+[2022.10.10-21.06.25:825][597]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/HUD/Inventory/InventoryInterface.InventoryInterface
+[2022.10.10-21.06.25:825][597]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.10-21.06.33:315][ 96]LogSlate: Window 'InventoryInterface' being destroyed
+[2022.10.10-21.08.21:358][571]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HUD/Inventory/InventoryInterface" FILE="G:/My Drive/Master Project/Game Launcher/Content/HUD/Inventory/InventoryInterface.uasset" SILENT=true
+[2022.10.10-21.08.21:386][571]LogSavePackage: Moving output files for package: /Game/HUD/Inventory/InventoryInterface
+[2022.10.10-21.08.21:387][571]LogSavePackage: Moving 'G:/My Drive/Master Project/Game Launcher/Saved/InventoryInterfaceBACD2B804867185FF6A6A6AE83C7D89B.tmp' to 'G:/My Drive/Master Project/Game Launcher/Content/HUD/Inventory/InventoryInterface.uasset'
+[2022.10.10-21.08.21:404][571]AssetCheck: New page: Asset Save: InventoryInterface
+[2022.10.10-21.08.21:404][571]LogContentValidation: Display: Validating Blueprint /Game/HUD/Inventory/InventoryInterface.InventoryInterface
+[2022.10.10-21.08.22:650][715]BlueprintLog: New page: Compile InventoryInterface
+[2022.10.10-21.08.22:729][715]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2022.10.10-21.09.31:011][416]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HUD/Inventory/InventoryInterface" FILE="G:/My Drive/Master Project/Game Launcher/Content/HUD/Inventory/InventoryInterface.uasset" SILENT=true
+[2022.10.10-21.09.31:043][416]LogSavePackage: Moving output files for package: /Game/HUD/Inventory/InventoryInterface
+[2022.10.10-21.09.31:047][416]LogSavePackage: Moving 'G:/My Drive/Master Project/Game Launcher/Saved/InventoryInterface8383434A4E5905CA48D70EB5AB27E986.tmp' to 'G:/My Drive/Master Project/Game Launcher/Content/HUD/Inventory/InventoryInterface.uasset'
+[2022.10.10-21.09.31:064][416]AssetCheck: New page: Asset Save: InventoryInterface
+[2022.10.10-21.09.31:064][416]LogContentValidation: Display: Validating Blueprint /Game/HUD/Inventory/InventoryInterface.InventoryInterface
+[2022.10.10-21.09.52:494][586]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HUD/Inventory/InventoryInterface" FILE="G:/My Drive/Master Project/Game Launcher/Content/HUD/Inventory/InventoryInterface.uasset" SILENT=true
+[2022.10.10-21.09.52:528][586]LogSavePackage: Moving output files for package: /Game/HUD/Inventory/InventoryInterface
+[2022.10.10-21.09.52:533][586]LogSavePackage: Moving 'G:/My Drive/Master Project/Game Launcher/Saved/InventoryInterfaceF180AD004AA438872D8582BB4D0DE162.tmp' to 'G:/My Drive/Master Project/Game Launcher/Content/HUD/Inventory/InventoryInterface.uasset'
+[2022.10.10-21.09.52:553][586]AssetCheck: New page: Asset Save: InventoryInterface
+[2022.10.10-21.09.52:553][586]LogContentValidation: Display: Validating Blueprint /Game/HUD/Inventory/InventoryInterface.InventoryInterface
+[2022.10.10-21.10.05:765][865]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HUD/Inventory/InventoryInterface" FILE="G:/My Drive/Master Project/Game Launcher/Content/HUD/Inventory/InventoryInterface.uasset" SILENT=true
+[2022.10.10-21.10.05:797][865]LogSavePackage: Moving output files for package: /Game/HUD/Inventory/InventoryInterface
+[2022.10.10-21.10.05:801][865]LogSavePackage: Moving 'G:/My Drive/Master Project/Game Launcher/Saved/InventoryInterface30E4744B4131A3A6002C2AA2BB088475.tmp' to 'G:/My Drive/Master Project/Game Launcher/Content/HUD/Inventory/InventoryInterface.uasset'
+[2022.10.10-21.10.05:834][865]AssetCheck: New page: Asset Save: InventoryInterface
+[2022.10.10-21.10.05:834][865]LogContentValidation: Display: Validating Blueprint /Game/HUD/Inventory/InventoryInterface.InventoryInterface
+[2022.10.10-21.10.06:595][939]BlueprintLog: New page: Compile InventoryInterface
+[2022.10.10-21.10.06:635][939]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2022.10.10-21.10.08:621][167]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2022.10.10-21.10.08:621][167]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.10-21.10.10:625][380]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2022.10.10-21.10.10:625][380]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.10-21.12.44:877][459]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/HUD/Inventory/InventoryInterface.InventoryInterface
+[2022.10.10-21.12.44:877][459]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.10-21.13.39:145][209]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2022.10.10-21.13.39:147][209]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/DreamscapeSeries/DreamscapeMeadows/Maps/KingsOfParadise' took 0.061
+[2022.10.10-21.13.39:147][209]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/HUD/BluePrints/Components/EquipmentInventoryComponent] ([2] browsable assets)...
+[2022.10.10-21.13.39:147][209]OBJ SavePackage: Finished generating thumbnails for package [/Game/HUD/BluePrints/Components/EquipmentInventoryComponent]
+[2022.10.10-21.13.39:167][209]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/HUD/BluePrints/Components/EquipmentInventoryComponent_Auto2
+[2022.10.10-21.13.39:168][209]LogSavePackage: Moving 'G:/My Drive/Master Project/Game Launcher/Saved/EquipmentInventoryComponent_Auto1A7D93A34777D0F8C084C9B0D3A711A8.tmp' to 'G:/My Drive/Master Project/Game Launcher/Saved/Autosaves/Game/HUD/BluePrints/Components/EquipmentInventoryComponent_Auto2.uasset'
+[2022.10.10-21.13.39:173][209]LogFileHelpers: Auto-saving content packages took 0.026
+[2022.10.10-21.15.55:474][131]LogContentBrowser: Deferred new asset file creation: NewFunctionLibrary
+[2022.10.10-21.15.55:481][131]LogContentBrowser: Creating deferred item: NewFunctionLibrary
+[2022.10.10-21.15.55:493][132]LogContentBrowser: Renaming the item being created (Deferred Item: NewFunctionLibrary).
+[2022.10.10-21.16.06:557][541]LogContentBrowser: Attempting asset rename: NewFunctionLibrary -> UsableActorInterface
+[2022.10.10-21.16.06:559][541]LogContentBrowser: End creating deferred item NewFunctionLibrary
+[2022.10.10-21.16.08:121][595]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/HUD/BluePrints/UsableActorInterface.UsableActorInterface
+[2022.10.10-21.16.08:121][595]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.10-21.16.11:398][752]LogSlate: Window 'UsableActorInterface' being destroyed
+[2022.10.10-21.20.05:562][207]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HUD/BluePrints/UsableActorInterface" FILE="G:/My Drive/Master Project/Game Launcher/Content/HUD/BluePrints/UsableActorInterface.uasset" SILENT=true
+[2022.10.10-21.20.05:593][207]LogSavePackage: Moving output files for package: /Game/HUD/BluePrints/UsableActorInterface
+[2022.10.10-21.20.05:594][207]LogSavePackage: Moving 'G:/My Drive/Master Project/Game Launcher/Saved/UsableActorInterfaceBE3343FA44F6F9DBCCE4638468CB10A9.tmp' to 'G:/My Drive/Master Project/Game Launcher/Content/HUD/BluePrints/UsableActorInterface.uasset'
+[2022.10.10-21.20.05:610][207]AssetCheck: New page: Asset Save: UsableActorInterface
+[2022.10.10-21.20.05:610][207]LogContentValidation: Display: Validating Blueprint /Game/HUD/BluePrints/UsableActorInterface.UsableActorInterface
+[2022.10.10-21.20.06:867][357]BlueprintLog: New page: Compile UsableActorInterface
+[2022.10.10-21.20.06:910][357]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2022.10.10-21.20.11:099][837]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2022.10.10-21.20.11:099][837]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.10-21.20.11:998][934]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2022.10.10-21.20.11:998][934]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.10-21.21.18:725][128]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/HUD/BluePrints/GameMode.GameMode
+[2022.10.10-21.21.18:726][128]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.10-21.22.04:683][215]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2022.10.10-21.22.04:683][215]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.10-21.22.04:843][215]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/HUD/BluePrints/GameMode.GameMode
+[2022.10.10-21.22.04:843][215]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.10-21.22.31:526][787]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2022.10.10-21.22.31:526][787]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.10-21.22.36:802][138]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/HUD/BluePrints/GameMode.GameMode
+[2022.10.10-21.22.36:802][138]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.10-21.23.59:370][341]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/HUD/BluePrints/PlayerController.PlayerController
+[2022.10.10-21.23.59:370][341]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.10-21.24.18:903][ 40]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.10.10-21.24.18:904][ 40]LogEditorClassViewer: Warning: Class /Game/HUD/BluePrints/InventoryHUD.PLACEHOLDER-CLASS__HUDLayout_C_0 has parent None, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.10.10-21.24.26:123][ 40]LogSlate: Window 'Pick Parent Class' being destroyed
+[2022.10.10-21.24.26:131][ 40]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2022.10.10-21.24.26:137][ 40]LogContentBrowser: Creating deferred item: NewBlueprint
+[2022.10.10-21.24.26:148][ 41]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2022.10.10-21.24.41:005][584]LogContentBrowser: Attempting asset rename: NewBlueprint -> InventoryPlayerCharacter
+[2022.10.10-21.24.41:076][584]LogContentBrowser: End creating deferred item NewBlueprint
+[2022.10.10-21.24.42:761][652]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/HUD/BluePrints/InventoryPlayerCharacter.InventoryPlayerCharacter
+[2022.10.10-21.24.42:762][652]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.10-21.24.43:426][652]LogViewport: Scene viewport resized to 934x516, mode Windowed.
+[2022.10.10-21.24.52:834][750]LogViewport: Scene viewport resized to 931x534, mode Windowed.
+[2022.10.10-21.24.52:922][752]LogViewport: Scene viewport resized to 467x213, mode Windowed.
+[2022.10.10-21.24.53:181][776]LogViewport: Scene viewport resized to 1525x981, mode Windowed.
+[2022.10.10-21.24.53:740][833]LogSlate: Window 'InventoryPlayerCharacter' being destroyed
+[2022.10.10-21.24.57:571][189]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2022.10.10-21.24.59:187][345]LogSlate: Took 0.000160 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.10.10-21.25.21:816][146]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2022.10.10-21.25.21:816][146]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.10-21.25.27:120][525]LogViewport: Scene viewport resized to 1525x981, mode Windowed.
+[2022.10.10-21.25.29:426][749]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2022.10.10-21.26.22:656][779]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2022.10.10-21.26.42:354][949]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2022.10.10-21.26.45:173][205]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2022.10.10-21.27.02:381][164]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find Color 'DefaultForeground'.'
+[2022.10.10-21.27.02:420][164]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.10.10-21.27.02:421][164]LogEditorClassViewer: Warning: Class /Game/HUD/BluePrints/InventoryHUD.PLACEHOLDER-CLASS__HUDLayout_C_0 has parent None, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.10.10-21.27.18:577][900]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2022.10.10-21.27.19:720][ 10]BlueprintLog: New page: Compile InventoryPlayerCharacter
+[2022.10.10-21.27.20:085][ 10]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2022.10.10-21.27.25:841][592]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2022.10.10-21.27.27:908][767]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.10.10-21.27.51:851][441]BlueprintLog: New page: Compile InventoryPlayerCharacter
+[2022.10.10-21.27.51:965][441]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2022.10.10-21.27.52:802][516]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HUD/BluePrints/InventoryPlayerCharacter" FILE="G:/My Drive/Master Project/Game Launcher/Content/HUD/BluePrints/InventoryPlayerCharacter.uasset" SILENT=true
+[2022.10.10-21.27.52:864][516]LogSavePackage: Moving output files for package: /Game/HUD/BluePrints/InventoryPlayerCharacter
+[2022.10.10-21.27.52:864][516]LogSavePackage: Moving 'G:/My Drive/Master Project/Game Launcher/Saved/InventoryPlayerCharacterDBA0DB5E4D00E38675B8188008E0F525.tmp' to 'G:/My Drive/Master Project/Game Launcher/Content/HUD/BluePrints/InventoryPlayerCharacter.uasset'
+[2022.10.10-21.27.52:881][516]AssetCheck: New page: Asset Save: InventoryPlayerCharacter
+[2022.10.10-21.27.52:881][516]LogContentValidation: Display: Validating Blueprint /Game/HUD/BluePrints/InventoryPlayerCharacter.InventoryPlayerCharacter
+[2022.10.10-21.28.04:599][770]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2022.10.10-21.28.12:009][571]LogViewport: Scene viewport resized to 1523x999, mode Windowed.
+[2022.10.10-21.28.12:142][573]LogViewport: Scene viewport resized to 467x230, mode Windowed.
+[2022.10.10-21.28.13:768][717]LogViewport: Scene viewport resized to 469x238, mode Windowed.
+[2022.10.10-21.28.15:568][800]LogViewport: Scene viewport resized to 754x976, mode Windowed.
+[2022.10.10-21.28.15:601][800]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2022.10.10-21.28.16:466][804]LogViewport: Scene viewport resized to 754x976, mode Windowed.
+[2022.10.10-21.28.36:755][140]BlueprintLog: New page: Compile InventoryPlayerCharacter
+[2022.10.10-21.28.36:868][140]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2022.10.10-21.28.37:897][203]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HUD/BluePrints/InventoryPlayerCharacter" FILE="G:/My Drive/Master Project/Game Launcher/Content/HUD/BluePrints/InventoryPlayerCharacter.uasset" SILENT=true
+[2022.10.10-21.28.37:926][203]LogSavePackage: Moving output files for package: /Game/HUD/BluePrints/InventoryPlayerCharacter
+[2022.10.10-21.28.37:930][203]LogSavePackage: Moving 'G:/My Drive/Master Project/Game Launcher/Saved/InventoryPlayerCharacterE8047D284DBA2F42512BC5BC0FF7EA79.tmp' to 'G:/My Drive/Master Project/Game Launcher/Content/HUD/BluePrints/InventoryPlayerCharacter.uasset'
+[2022.10.10-21.28.37:950][203]AssetCheck: New page: Asset Save: InventoryPlayerCharacter
+[2022.10.10-21.28.37:950][203]LogContentValidation: Display: Validating Blueprint /Game/HUD/BluePrints/InventoryPlayerCharacter.InventoryPlayerCharacter
+[2022.10.10-21.28.40:303][383]LogSlate: Window 'BP_ThirdPersonCharacter' being destroyed
+[2022.10.10-21.28.40:308][383]LogSlate: Window 'BP_ThirdPersonCharacter' being destroyed
+[2022.10.10-21.28.40:357][383]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2022.10.10-21.28.40:357][383]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.10-21.28.41:261][476]LogViewport: Scene viewport resized to 1525x981, mode Windowed.
+[2022.10.10-21.28.43:174][687]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2022.10.10-21.28.43:174][687]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2022.10.10-21.28.43:174][687]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.10-21.28.50:938][953]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/HUD/BluePrints/InventoryPlayerCharacter.InventoryPlayerCharacter
+[2022.10.10-21.28.50:938][953]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.10-21.28.51:614][954]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2022.10.10-21.29.03:881][256]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2022.10.10-21.29.03:881][256]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.10-21.29.03:941][256]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/HUD/BluePrints/InventoryPlayerCharacter.InventoryPlayerCharacter
+[2022.10.10-21.29.03:941][256]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.10-21.29.38:944][379]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2022.10.10-21.29.38:944][379]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.10-21.30.10:698][252]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.10.10-21.30.22:434][567]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2022.10.10-21.30.22:434][567]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2022.10.10-21.30.22:434][567]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.10-21.30.35:431][761]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2022.10.10-21.30.35:431][761]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2022.10.10-21.30.35:431][761]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.10-21.30.38:310][850]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/HUD/BluePrints/GameMode.GameMode
+[2022.10.10-21.30.38:311][850]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.10-21.31.30:969][310]BlueprintLog: New page: Compile EquipmentInventoryComponent
+[2022.10.10-21.31.31:034][310]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2022.10.10-21.31.43:950][819]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.10.10-21.32.12:670][943]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2022.10.10-21.32.16:399][943]LogSavePackage: Moving output files for package: /Game/DreamscapeSeries/DreamscapeMeadows/Maps/KingsOfParadise
+[2022.10.10-21.32.16:404][943]LogSavePackage: Moving 'G:/My Drive/Master Project/Game Launcher/Saved/KingsOfParadiseBEDDF54C4CCF51D1687FFE964B8002D5.tmp' to 'G:/My Drive/Master Project/Game Launcher/Content/DreamscapeSeries/DreamscapeMeadows/Maps/KingsOfParadise.umap'
+[2022.10.10-21.32.16:592][943]AssetCheck: New page: Asset Save: KingsOfParadise
+[2022.10.10-21.32.16:592][943]LogContentValidation: Display: Validating World /Game/DreamscapeSeries/DreamscapeMeadows/Maps/KingsOfParadise.KingsOfParadise
+[2022.10.10-21.32.54:792][219]LogContentBrowser: Attempting asset rename: PlayerController -> PlayerController
+[2022.10.10-21.33.05:203][581]LogContentBrowser: Attempting asset rename: PlayerController -> InventoryPlayerController
+[2022.10.10-21.33.06:121][581]LogMetaData: Removing '/Game/HUD/BluePrints/InventoryPlayerController.InventoryPlayerController:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/HUD/BluePrints/PlayerController.PackageMetaData'
+[2022.10.10-21.33.06:121][581]LogMetaData: Removing '/Game/HUD/BluePrints/InventoryPlayerController.InventoryPlayerController_C' ref from Metadata '/Game/HUD/BluePrints/PlayerController.PackageMetaData'
+[2022.10.10-21.33.06:122][581]LogMetaData: Removing '/Game/HUD/BluePrints/InventoryPlayerController.InventoryPlayerController:EventGraph.K2Node_Event_0' ref from Metadata '/Game/HUD/BluePrints/PlayerController.PackageMetaData'
+[2022.10.10-21.33.06:122][581]LogMetaData: Removing '/Game/HUD/BluePrints/InventoryPlayerController.InventoryPlayerController:EventGraph.K2Node_Event_1' ref from Metadata '/Game/HUD/BluePrints/PlayerController.PackageMetaData'
+[2022.10.10-21.33.06:122][581]LogMetaData: Removing '/Game/HUD/BluePrints/InventoryPlayerController.SKEL_InventoryPlayerController_C:ReceiveBeginPlay' ref from Metadata '/Game/HUD/BluePrints/PlayerController.PackageMetaData'
+[2022.10.10-21.33.06:122][581]LogMetaData: Removing '/Game/HUD/BluePrints/InventoryPlayerController.SKEL_InventoryPlayerController_C:ReceiveTick' ref from Metadata '/Game/HUD/BluePrints/PlayerController.PackageMetaData'
+[2022.10.10-21.33.06:122][581]LogMetaData: Removing '/Game/HUD/BluePrints/InventoryPlayerController.SKEL_InventoryPlayerController_C:UserConstructionScript' ref from Metadata '/Game/HUD/BluePrints/PlayerController.PackageMetaData'
+[2022.10.10-21.33.06:122][581]LogMetaData: Removing '/Game/HUD/BluePrints/InventoryPlayerController.SKEL_InventoryPlayerController_C' ref from Metadata '/Game/HUD/BluePrints/PlayerController.PackageMetaData'
+[2022.10.10-21.33.06:122][581]LogMetaData: Removing '/Game/HUD/BluePrints/InventoryPlayerController.InventoryPlayerController_C:ReceiveTick' ref from Metadata '/Game/HUD/BluePrints/PlayerController.PackageMetaData'
+[2022.10.10-21.33.06:122][581]LogMetaData: Removing '/Game/HUD/BluePrints/InventoryPlayerController.InventoryPlayerController_C:ReceiveBeginPlay' ref from Metadata '/Game/HUD/BluePrints/PlayerController.PackageMetaData'
+[2022.10.10-21.33.06:285][581]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HUD/BluePrints/InventoryPlayerController" FILE="G:/My Drive/Master Project/Game Launcher/Content/HUD/BluePrints/InventoryPlayerController.uasset" SILENT=true
+[2022.10.10-21.33.06:315][581]LogSavePackage: Moving output files for package: /Game/HUD/BluePrints/InventoryPlayerController
+[2022.10.10-21.33.06:315][581]LogSavePackage: Moving 'G:/My Drive/Master Project/Game Launcher/Saved/InventoryPlayerController1BA91A7C49F65CBDC02779BF8FA518A9.tmp' to 'G:/My Drive/Master Project/Game Launcher/Content/HUD/BluePrints/InventoryPlayerController.uasset'
+[2022.10.10-21.33.06:450][581]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2022.10.10-21.33.06:488][581]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2022.10.10-21.33.06:523][581]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2022.10.10-21.33.06:545][581]AssetCheck: New page: Asset Save: InventoryPlayerController
+[2022.10.10-21.33.06:545][581]LogContentValidation: Display: Validating Blueprint /Game/HUD/BluePrints/InventoryPlayerController.InventoryPlayerController
+[2022.10.10-21.33.32:719][399]BlueprintLog: New page: Compile GameMode
+[2022.10.10-21.33.32:795][399]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2022.10.10-21.33.33:605][485]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HUD/BluePrints/GameMode" FILE="G:/My Drive/Master Project/Game Launcher/Content/HUD/BluePrints/GameMode.uasset" SILENT=true
+[2022.10.10-21.33.33:634][485]LogSavePackage: Moving output files for package: /Game/HUD/BluePrints/GameMode
+[2022.10.10-21.33.33:638][485]LogSavePackage: Moving 'G:/My Drive/Master Project/Game Launcher/Saved/GameMode967FBE0741DA282E57590AA7A03E689E.tmp' to 'G:/My Drive/Master Project/Game Launcher/Content/HUD/BluePrints/GameMode.uasset'
+[2022.10.10-21.33.33:656][485]AssetCheck: New page: Asset Save: GameMode
+[2022.10.10-21.33.33:656][485]LogContentValidation: Display: Validating Blueprint /Game/HUD/BluePrints/GameMode.GameMode
+[2022.10.10-21.33.34:494][568]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2022.10.10-21.33.34:494][568]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.10-21.33.36:817][792]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2022.10.10-21.33.36:817][792]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.10-21.33.43:355][874]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/HUD/BluePrints/HUDLayout.HUDLayout
+[2022.10.10-21.33.43:364][874]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.10-21.33.43:387][874]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.10-21.33.43:430][874]LogSlate: Warning: The command 'UMGEditor.OpenAnimDrawer' has the same default chord as 'EditorViewport.Next' [Ctrl+Shift+Space Bar]
+[2022.10.10-21.33.43:936][874]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.10.10-21.33.43:937][874]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.10.10-21.33.44:968][874]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find SlateColor 'Foreground'.'
+[2022.10.10-21.34.15:910][179]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2022.10.10-21.34.15:910][179]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.10-21.34.15:945][179]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2022.10.10-21.34.15:945][179]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.10-21.37.14:318][192]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/HUD/BluePrints/InventoryHUD.InventoryHUD
+[2022.10.10-21.37.14:318][192]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.10-21.38.44:580][148]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/HUD/BluePrints/InventoryHUDInterface.InventoryHUDInterface
+[2022.10.10-21.38.44:581][148]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.10-21.39.57:384][636]LogDerivedDataCache: C:/Users/sscor/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:02.258 and deleted 0 file(s) with total size 0 MiB.
+[2022.10.10-21.40.02:389][940]LogWorld: UWorld::CleanupWorld for World_25, bSessionEnded=true, bCleanupResources=true
+[2022.10.10-21.40.02:390][940]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.10-21.41.24:877][814]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/HUD/BluePrints/InventoryPlayerController.InventoryPlayerController
+[2022.10.10-21.41.24:877][814]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.10-21.41.29:635][980]LogSlate: Window 'InventoryPlayerController' being destroyed
+[2022.10.10-21.42.13:104][910]LogUObjectHash: Compacting FUObjectHashTables data took   3.47ms
+[2022.10.10-21.42.13:106][910]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/DreamscapeSeries/DreamscapeMeadows/Maps/KingsOfParadise' took 0.187
+[2022.10.10-21.42.13:108][910]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/HUD/BluePrints/Components/EquipmentInventoryComponent] ([2] browsable assets)...
+[2022.10.10-21.42.13:108][910]OBJ SavePackage: Finished generating thumbnails for package [/Game/HUD/BluePrints/Components/EquipmentInventoryComponent]
+[2022.10.10-21.42.13:130][910]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/HUD/BluePrints/Components/EquipmentInventoryComponent_Auto3
+[2022.10.10-21.42.13:130][910]LogSavePackage: Moving 'G:/My Drive/Master Project/Game Launcher/Saved/EquipmentInventoryComponent_Auto981587EE47B5E4FCD1AC04BE8CA13AD2.tmp' to 'G:/My Drive/Master Project/Game Launcher/Saved/Autosaves/Game/HUD/BluePrints/Components/EquipmentInventoryComponent_Auto3.uasset'
+[2022.10.10-21.42.13:136][910]LogFileHelpers: Auto-saving content packages took 0.029
+[2022.10.10-21.52.13:740][788]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2022.10.10-21.52.13:744][788]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/DreamscapeSeries/DreamscapeMeadows/Maps/KingsOfParadise' took 0.208
+[2022.10.10-21.52.13:746][788]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/HUD/BluePrints/InventoryPlayerController] ([2] browsable assets)...
+[2022.10.10-21.52.13:746][788]OBJ SavePackage: Finished generating thumbnails for package [/Game/HUD/BluePrints/InventoryPlayerController]
+[2022.10.10-21.52.13:814][788]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/HUD/BluePrints/InventoryPlayerController_Auto4
+[2022.10.10-21.52.13:815][788]LogSavePackage: Moving 'G:/My Drive/Master Project/Game Launcher/Saved/InventoryPlayerController_Auto4842D440E4176EAAF63050B8B30AC4AF7.tmp' to 'G:/My Drive/Master Project/Game Launcher/Saved/Autosaves/Game/HUD/BluePrints/InventoryPlayerController_Auto4.uasset'
+[2022.10.10-21.52.13:820][788]LogFileHelpers: Auto-saving content packages took 0.075
+[2022.10.10-22.02.14:212][ 62]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2022.10.10-22.02.14:219][ 62]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/DreamscapeSeries/DreamscapeMeadows/Maps/KingsOfParadise' took 0.059
+[2022.10.10-22.02.14:220][ 62]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/HUD/BluePrints/InventoryPlayerController] ([2] browsable assets)...
+[2022.10.10-22.02.14:220][ 62]OBJ SavePackage: Finished generating thumbnails for package [/Game/HUD/BluePrints/InventoryPlayerController]
+[2022.10.10-22.02.14:334][ 62]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/HUD/BluePrints/InventoryPlayerController_Auto5
+[2022.10.10-22.02.14:334][ 62]LogSavePackage: Moving 'G:/My Drive/Master Project/Game Launcher/Saved/InventoryPlayerController_Auto5DDC2B48746F0DFBC51AA628FA5FA75BB.tmp' to 'G:/My Drive/Master Project/Game Launcher/Saved/Autosaves/Game/HUD/BluePrints/InventoryPlayerController_Auto5.uasset'
+[2022.10.10-22.02.14:342][ 62]LogFileHelpers: Auto-saving content packages took 0.123
+[2022.10.10-22.11.29:426][545]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HUD/BluePrints/InventoryPlayerController" FILE="G:/My Drive/Master Project/Game Launcher/Content/HUD/BluePrints/InventoryPlayerController.uasset" SILENT=true
+[2022.10.10-22.11.29:538][545]LogSavePackage: Moving output files for package: /Game/HUD/BluePrints/InventoryPlayerController
+[2022.10.10-22.11.29:542][545]LogSavePackage: Moving 'G:/My Drive/Master Project/Game Launcher/Saved/InventoryPlayerController45F4DB1A41149459ECC91CB52498AD52.tmp' to 'G:/My Drive/Master Project/Game Launcher/Content/HUD/BluePrints/InventoryPlayerController.uasset'
+[2022.10.10-22.11.29:565][545]AssetCheck: New page: Asset Save: InventoryPlayerController
+[2022.10.10-22.11.29:565][545]LogContentValidation: Display: Validating Blueprint /Game/HUD/BluePrints/InventoryPlayerController.InventoryPlayerController
+[2022.10.10-22.11.32:275][781]BlueprintLog: New page: Compile InventoryPlayerController
+[2022.10.10-22.11.32:298][781]LogClass: Warning: Type mismatch in PlayerInventoryComponent of InventoryPlayerController_C - Previous (BoolProperty) Current(ObjectProperty) for package:  FObjectReader
+[2022.10.10-22.11.32:362][781]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2022.10.10-22.14.55:251][443]BlueprintLog: New page: Compile InventoryPlayerController
+[2022.10.10-22.14.55:316][443]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2022.10.10-22.15.08:364][789]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/HUD/BluePrints/InventoryPlayerCharacter.InventoryPlayerCharacter
+[2022.10.10-22.15.08:365][789]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.10-22.17.00:708][ 49]LogViewport: Scene viewport resized to 1525x981, mode Windowed.
+[2022.10.10-22.18.09:335][402]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2022.10.10-22.18.48:459][975]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2022.10.10-22.20.03:985][697]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2022.10.10-22.20.03:988][697]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/DreamscapeSeries/DreamscapeMeadows/Maps/KingsOfParadise' took 0.058
+[2022.10.10-22.20.03:988][697]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/HUD/BluePrints/InventoryPlayerController] ([2] browsable assets)...
+[2022.10.10-22.20.03:988][697]OBJ SavePackage: Finished generating thumbnails for package [/Game/HUD/BluePrints/InventoryPlayerController]
+[2022.10.10-22.20.04:086][697]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/HUD/BluePrints/InventoryPlayerController_Auto6
+[2022.10.10-22.20.04:087][697]LogSavePackage: Moving 'G:/My Drive/Master Project/Game Launcher/Saved/InventoryPlayerController_Auto685E8779B4DB62EA2EF3004BD9FA93975.tmp' to 'G:/My Drive/Master Project/Game Launcher/Saved/Autosaves/Game/HUD/BluePrints/InventoryPlayerController_Auto6.uasset'
+[2022.10.10-22.20.04:091][697]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/HUD/BluePrints/InventoryPlayerCharacter] ([2] browsable assets)...
+[2022.10.10-22.20.04:103][697]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/HUD/BluePrints/InventoryPlayerCharacter.InventoryPlayerCharacter]
+[2022.10.10-22.20.04:103][697]OBJ SavePackage: Finished generating thumbnails for package [/Game/HUD/BluePrints/InventoryPlayerCharacter]
+[2022.10.10-22.20.04:134][697]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/HUD/BluePrints/InventoryPlayerCharacter_Auto6
+[2022.10.10-22.20.04:135][697]LogSavePackage: Moving 'G:/My Drive/Master Project/Game Launcher/Saved/InventoryPlayerCharacter_Auto66C5789274C25A71052226FBC05733511.tmp' to 'G:/My Drive/Master Project/Game Launcher/Saved/Autosaves/Game/HUD/BluePrints/InventoryPlayerCharacter_Auto6.uasset'
+[2022.10.10-22.20.04:138][697]LogFileHelpers: Auto-saving content packages took 0.151
+[2022.10.10-22.23.10:652][979]BlueprintLog: New page: Compile InventoryPlayerCharacter
+[2022.10.10-22.23.10:839][979]LogUObjectHash: Compacting FUObjectHashTables data took   2.04ms
+[2022.10.10-22.23.11:610][ 41]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HUD/BluePrints/InventoryPlayerCharacter" FILE="G:/My Drive/Master Project/Game Launcher/Content/HUD/BluePrints/InventoryPlayerCharacter.uasset" SILENT=true
+[2022.10.10-22.23.11:656][ 41]LogSavePackage: Moving output files for package: /Game/HUD/BluePrints/InventoryPlayerCharacter
+[2022.10.10-22.23.11:666][ 41]LogSavePackage: Moving 'G:/My Drive/Master Project/Game Launcher/Saved/InventoryPlayerCharacterEF52582F49529F3BF2E88C84DF573A69.tmp' to 'G:/My Drive/Master Project/Game Launcher/Content/HUD/BluePrints/InventoryPlayerCharacter.uasset'
+[2022.10.10-22.23.11:684][ 41]AssetCheck: New page: Asset Save: InventoryPlayerCharacter
+[2022.10.10-22.23.11:684][ 41]LogContentValidation: Display: Validating Blueprint /Game/HUD/BluePrints/InventoryPlayerCharacter.InventoryPlayerCharacter
+[2022.10.10-22.29.19:781][284]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HUD/BluePrints/InventoryPlayerController" FILE="G:/My Drive/Master Project/Game Launcher/Content/HUD/BluePrints/InventoryPlayerController.uasset" SILENT=true
+[2022.10.10-22.29.19:899][284]LogSavePackage: Moving output files for package: /Game/HUD/BluePrints/InventoryPlayerController
+[2022.10.10-22.29.19:904][284]LogSavePackage: Moving 'G:/My Drive/Master Project/Game Launcher/Saved/InventoryPlayerControllerAD9049D64E4831B4891FDB9AE81607B7.tmp' to 'G:/My Drive/Master Project/Game Launcher/Content/HUD/BluePrints/InventoryPlayerController.uasset'
+[2022.10.10-22.29.19:923][284]AssetCheck: New page: Asset Save: InventoryPlayerController
+[2022.10.10-22.29.19:923][284]LogContentValidation: Display: Validating Blueprint /Game/HUD/BluePrints/InventoryPlayerController.InventoryPlayerController
+[2022.10.10-22.29.20:569][354]BlueprintLog: New page: Compile InventoryPlayerController
+[2022.10.10-22.29.20:593][354]LogBlueprint: Error: [AssetLog] G:\My Drive\Master Project\Game Launcher\Content\HUD\BluePrints\InventoryPlayerController.uasset: [Compiler] The property associated with  Camera Boom  could not be found in '/Game/HUD/BluePrints/InventoryPlayerController.InventoryPlayerController_C'
+[2022.10.10-22.29.20:658][354]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2022.10.10-22.30.01:204][ 49]BlueprintLog: New page: Compile InventoryPlayerController
+[2022.10.10-22.30.01:208][ 49]LogBlueprint: Error: [AssetLog] G:\My Drive\Master Project\Game Launcher\Content\HUD\BluePrints\InventoryPlayerController.uasset: [Compiler] The property associated with  Camera Boom  could not be found in '/Game/HUD/BluePrints/InventoryPlayerController.InventoryPlayerController_C'
+[2022.10.10-22.30.01:272][ 49]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2022.10.10-22.30.20:363][306]BlueprintLog: New page: Compile InventoryPlayerCharacter
+[2022.10.10-22.30.20:448][306]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2022.10.10-22.30.21:996][453]BlueprintLog: New page: Compile InventoryPlayerController
+[2022.10.10-22.30.22:061][453]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2022.10.10-22.30.52:234][924]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2022.10.10-22.30.52:237][924]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/DreamscapeSeries/DreamscapeMeadows/Maps/KingsOfParadise' took 0.044
+[2022.10.10-22.30.52:237][924]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/HUD/BluePrints/InventoryPlayerController] ([2] browsable assets)...
+[2022.10.10-22.30.52:237][924]OBJ SavePackage: Finished generating thumbnails for package [/Game/HUD/BluePrints/InventoryPlayerController]
+[2022.10.10-22.30.52:368][924]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/HUD/BluePrints/InventoryPlayerController_Auto7
+[2022.10.10-22.30.52:370][924]LogSavePackage: Moving 'G:/My Drive/Master Project/Game Launcher/Saved/InventoryPlayerController_Auto7ADD8E8DB4E147BB1E4707F88A16535C6.tmp' to 'G:/My Drive/Master Project/Game Launcher/Saved/Autosaves/Game/HUD/BluePrints/InventoryPlayerController_Auto7.uasset'
+[2022.10.10-22.30.52:410][924]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/HUD/BluePrints/InventoryPlayerCharacter] ([2] browsable assets)...
+[2022.10.10-22.30.52:422][924]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/HUD/BluePrints/InventoryPlayerCharacter.InventoryPlayerCharacter]
+[2022.10.10-22.30.52:422][924]OBJ SavePackage: Finished generating thumbnails for package [/Game/HUD/BluePrints/InventoryPlayerCharacter]
+[2022.10.10-22.30.52:467][924]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/HUD/BluePrints/InventoryPlayerCharacter_Auto7
+[2022.10.10-22.30.52:468][924]LogSavePackage: Moving 'G:/My Drive/Master Project/Game Launcher/Saved/InventoryPlayerCharacter_Auto7697364214A6CF46666D4C3AE9FE3E998.tmp' to 'G:/My Drive/Master Project/Game Launcher/Saved/Autosaves/Game/HUD/BluePrints/InventoryPlayerCharacter_Auto7.uasset'
+[2022.10.10-22.30.52:471][924]LogFileHelpers: Auto-saving content packages took 0.235
+[2022.10.10-22.31.28:754][166]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HUD/BluePrints/InventoryPlayerCharacter" FILE="G:/My Drive/Master Project/Game Launcher/Content/HUD/BluePrints/InventoryPlayerCharacter.uasset" SILENT=true
+[2022.10.10-22.31.28:785][166]LogSavePackage: Moving output files for package: /Game/HUD/BluePrints/InventoryPlayerCharacter
+[2022.10.10-22.31.28:789][166]LogSavePackage: Moving 'G:/My Drive/Master Project/Game Launcher/Saved/InventoryPlayerCharacterD00D461141C05B76AF5F979E46A4F456.tmp' to 'G:/My Drive/Master Project/Game Launcher/Content/HUD/BluePrints/InventoryPlayerCharacter.uasset'
+[2022.10.10-22.31.28:811][166]AssetCheck: New page: Asset Save: InventoryPlayerCharacter
+[2022.10.10-22.31.28:811][166]LogContentValidation: Display: Validating Blueprint /Game/HUD/BluePrints/InventoryPlayerCharacter.InventoryPlayerCharacter
+[2022.10.10-22.31.57:169][701]LogSelectionDetails: Warning: NavigateToFunctionSource:  Unable to find source file and line number for 'USceneComponent::K2_AddLocalOffset' [Element not found.]
+[2022.10.10-22.32.09:708][127]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HUD/BluePrints/InventoryPlayerController" FILE="G:/My Drive/Master Project/Game Launcher/Content/HUD/BluePrints/InventoryPlayerController.uasset" SILENT=true
+[2022.10.10-22.32.09:823][127]LogSavePackage: Moving output files for package: /Game/HUD/BluePrints/InventoryPlayerController
+[2022.10.10-22.32.09:826][127]LogSavePackage: Moving 'G:/My Drive/Master Project/Game Launcher/Saved/InventoryPlayerControllerADADC8994831553697AEE9B4F94AE37E.tmp' to 'G:/My Drive/Master Project/Game Launcher/Content/HUD/BluePrints/InventoryPlayerController.uasset'
+[2022.10.10-22.32.09:845][127]AssetCheck: New page: Asset Save: InventoryPlayerController
+[2022.10.10-22.32.09:845][127]LogContentValidation: Display: Validating Blueprint /Game/HUD/BluePrints/InventoryPlayerController.InventoryPlayerController
+[2022.10.10-22.32.10:494][181]BlueprintLog: New page: Compile InventoryPlayerController
+[2022.10.10-22.32.10:562][181]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2022.10.10-22.37.02:154][656]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/HUD/BluePrints/HUDLayout.HUDLayout
+[2022.10.10-22.37.02:155][656]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.10-22.37.02:195][656]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.10-22.37.02:622][656]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.10.10-22.37.02:622][656]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.10.10-22.39.57:494][179]LogDerivedDataCache: C:/Users/sscor/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:02.442 and deleted 0 file(s) with total size 0 MiB.
+[2022.10.10-22.41.55:152][128]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2022.10.10-22.41.55:154][128]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/DreamscapeSeries/DreamscapeMeadows/Maps/KingsOfParadise' took 0.070
+[2022.10.10-22.41.55:155][128]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/HUD/BluePrints/HUDLayout] ([2] browsable assets)...
+[2022.10.10-22.41.55:157][128]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/HUD/BluePrints/HUDLayout.HUDLayout]
+[2022.10.10-22.41.55:157][128]OBJ SavePackage: Finished generating thumbnails for package [/Game/HUD/BluePrints/HUDLayout]
+[2022.10.10-22.41.55:157][128]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HUD/BluePrints/HUDLayout" FILE="G:/My Drive/Master Project/Game Launcher/Saved/Autosaves/Game/HUD/BluePrints/HUDLayout_Auto8.uasset" SILENT=false AUTOSAVING=true
+[2022.10.10-22.41.55:205][128]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/HUD/BluePrints/HUDLayout_Auto8
+[2022.10.10-22.41.55:206][128]LogSavePackage: Moving 'G:/My Drive/Master Project/Game Launcher/Saved/HUDLayout_Auto8B63791BD40A07BC9F016CE92C87D04DF.tmp' to 'G:/My Drive/Master Project/Game Launcher/Saved/Autosaves/Game/HUD/BluePrints/HUDLayout_Auto8.uasset'
+[2022.10.10-22.41.55:210][128]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/HUD/BluePrints/InventoryPlayerController] ([2] browsable assets)...
+[2022.10.10-22.41.55:210][128]OBJ SavePackage: Finished generating thumbnails for package [/Game/HUD/BluePrints/InventoryPlayerController]
+[2022.10.10-22.41.55:323][128]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/HUD/BluePrints/InventoryPlayerController_Auto8
+[2022.10.10-22.41.55:323][128]LogSavePackage: Moving 'G:/My Drive/Master Project/Game Launcher/Saved/InventoryPlayerController_Auto819D7A5524059D65A71571582D34E06E7.tmp' to 'G:/My Drive/Master Project/Game Launcher/Saved/Autosaves/Game/HUD/BluePrints/InventoryPlayerController_Auto8.uasset'
+[2022.10.10-22.41.55:327][128]LogFileHelpers: Auto-saving content packages took 0.172
+[2022.10.10-22.41.55:376][129]LogAutoSizeComments: Saved node cache to E:/UE_5.0/Engine/Plugins/Marketplace/AutoSizeComments/ASCCache/658A493D4D643F1DFCC3F4BCDEE3BA3E.json took   1.05ms
+[2022.10.10-22.42.54:617][489]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2022.10.10-22.42.54:633][489]LogContentBrowser: Creating deferred item: NewFolder
+[2022.10.10-22.42.54:644][490]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2022.10.10-22.42.56:483][558]LogContentBrowser: Attempting asset rename: NewFolder -> Demo
+[2022.10.10-22.42.56:487][558]LogContentBrowser: End creating deferred item NewFolder
+[2022.10.10-22.43.00:699][826]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.10.10-22.43.02:871][826]LogSlate: Window 'Pick Root Widget for New Widget Blueprint' being destroyed
+[2022.10.10-22.43.02:879][826]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2022.10.10-22.43.02:884][826]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2022.10.10-22.43.02:923][828]LogContentBrowser: Renaming the item being created (Deferred Item: NewWidgetBlueprint).
+[2022.10.10-22.43.10:884][128]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> InteractText
+[2022.10.10-22.43.10:892][128]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2022.10.10-22.43.14:033][360]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.10.10-22.43.19:900][360]LogSlate: Window 'Pick Root Widget for New Widget Blueprint' being destroyed
+[2022.10.10-22.43.19:908][360]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2022.10.10-22.43.19:914][360]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2022.10.10-22.43.19:926][361]LogContentBrowser: Renaming the item being created (Deferred Item: NewWidgetBlueprint).
+[2022.10.10-22.43.23:311][491]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> PlayerFrame
+[2022.10.10-22.43.23:317][491]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2022.10.10-22.43.24:636][541]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/HUD/BluePrints/Inventory/Demo/InteractText.InteractText
+[2022.10.10-22.43.24:636][541]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.10-22.43.24:671][541]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.10-22.43.25:074][541]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.10.10-22.43.25:074][541]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.10.10-22.44.56:837][ 27]LogSlate: Took 0.054701 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2022.10.10-22.46.04:082][ 79]LogSlate: Window 'Color Picker' being destroyed
+[2022.10.10-22.46.39:288][922]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HUD/BluePrints/Inventory/Demo/InteractText" FILE="G:/My Drive/Master Project/Game Launcher/Content/HUD/BluePrints/Inventory/Demo/InteractText.uasset" SILENT=true
+[2022.10.10-22.46.39:317][922]LogSavePackage: Moving output files for package: /Game/HUD/BluePrints/Inventory/Demo/InteractText
+[2022.10.10-22.46.39:318][922]LogSavePackage: Moving 'G:/My Drive/Master Project/Game Launcher/Saved/InteractTextCB8BBFA846CAC7995E1F44B94549F598.tmp' to 'G:/My Drive/Master Project/Game Launcher/Content/HUD/BluePrints/Inventory/Demo/InteractText.uasset'
+[2022.10.10-22.46.39:337][922]AssetCheck: New page: Asset Save: InteractText
+[2022.10.10-22.46.39:337][922]LogContentValidation: Display: Validating WidgetBlueprint /Game/HUD/BluePrints/Inventory/Demo/InteractText.InteractText
+[2022.10.10-22.46.40:065][  1]BlueprintLog: New page: Compile InteractText
+[2022.10.10-22.46.40:216][  1]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2022.10.10-22.48.39:363][217]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HUD/BluePrints/Inventory/Demo/InteractText" FILE="G:/My Drive/Master Project/Game Launcher/Content/HUD/BluePrints/Inventory/Demo/InteractText.uasset" SILENT=true
+[2022.10.10-22.48.39:405][217]LogSavePackage: Moving output files for package: /Game/HUD/BluePrints/Inventory/Demo/InteractText
+[2022.10.10-22.48.39:409][217]LogSavePackage: Moving 'G:/My Drive/Master Project/Game Launcher/Saved/InteractText137E3E0D423E526F5B893ABDE96FFFDE.tmp' to 'G:/My Drive/Master Project/Game Launcher/Content/HUD/BluePrints/Inventory/Demo/InteractText.uasset'
+[2022.10.10-22.48.39:429][217]AssetCheck: New page: Asset Save: InteractText
+[2022.10.10-22.48.39:429][217]LogContentValidation: Display: Validating WidgetBlueprint /Game/HUD/BluePrints/Inventory/Demo/InteractText.InteractText
+[2022.10.10-22.48.40:436][320]BlueprintLog: New page: Compile InteractText
+[2022.10.10-22.48.40:510][320]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2022.10.10-22.49.24:784][112]LogSlate: Window 'Color Picker' being destroyed
+[2022.10.10-22.49.39:255][192]BlueprintLog: New page: Compile InteractText
+[2022.10.10-22.49.39:329][192]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2022.10.10-22.49.40:248][259]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HUD/BluePrints/Inventory/Demo/InteractText" FILE="G:/My Drive/Master Project/Game Launcher/Content/HUD/BluePrints/Inventory/Demo/InteractText.uasset" SILENT=true
+[2022.10.10-22.49.40:287][259]LogSavePackage: Moving output files for package: /Game/HUD/BluePrints/Inventory/Demo/InteractText
+[2022.10.10-22.49.40:291][259]LogSavePackage: Moving 'G:/My Drive/Master Project/Game Launcher/Saved/InteractTextC1C903A1456D3E5C04AA30936E569A3F.tmp' to 'G:/My Drive/Master Project/Game Launcher/Content/HUD/BluePrints/Inventory/Demo/InteractText.uasset'
+[2022.10.10-22.49.40:309][259]AssetCheck: New page: Asset Save: InteractText
+[2022.10.10-22.49.40:309][259]LogContentValidation: Display: Validating WidgetBlueprint /Game/HUD/BluePrints/Inventory/Demo/InteractText.InteractText
+[2022.10.10-22.50.49:508][982]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.10.10-22.50.49:508][982]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.10.10-22.52.58:137][387]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.10.10-22.52.58:137][387]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.10.10-22.54.53:610][357]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HUD/BluePrints/Inventory/Demo/InteractText" FILE="G:/My Drive/Master Project/Game Launcher/Content/HUD/BluePrints/Inventory/Demo/InteractText.uasset" SILENT=true
+[2022.10.10-22.54.53:675][357]LogSavePackage: Moving output files for package: /Game/HUD/BluePrints/Inventory/Demo/InteractText
+[2022.10.10-22.54.53:679][357]LogSavePackage: Moving 'G:/My Drive/Master Project/Game Launcher/Saved/InteractText1F47D9444E3775EB5B867B985DBDFFE3.tmp' to 'G:/My Drive/Master Project/Game Launcher/Content/HUD/BluePrints/Inventory/Demo/InteractText.uasset'
+[2022.10.10-22.54.53:699][357]AssetCheck: New page: Asset Save: InteractText
+[2022.10.10-22.54.53:699][357]LogContentValidation: Display: Validating WidgetBlueprint /Game/HUD/BluePrints/Inventory/Demo/InteractText.InteractText
+[2022.10.10-22.55.12:816][487]BlueprintLog: New page: Compile InteractText
+[2022.10.10-22.55.12:849][487]LogBlueprint: Error: [AssetLog] G:\My Drive\Master Project\Game Launcher\Content\HUD\BluePrints\Inventory\Demo\InteractText.uasset: [Compiler] Binding: Property ' /Script/UMG.TextBlock:TextDelegate ' on Widget ' InteractText ': Binding: 'None' : 'None' was not found on 'Interact Text'.
+[2022.10.10-22.55.12:954][487]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2022.10.10-22.55.20:836][934]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2022.10.10-22.55.20:839][934]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/DreamscapeSeries/DreamscapeMeadows/Maps/KingsOfParadise' took 0.054
+[2022.10.10-22.55.20:842][934]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/HUD/BluePrints/Inventory/Demo/InteractText] ([2] browsable assets)...
+[2022.10.10-22.55.20:844][934]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/HUD/BluePrints/Inventory/Demo/InteractText.InteractText]
+[2022.10.10-22.55.20:844][934]OBJ SavePackage: Finished generating thumbnails for package [/Game/HUD/BluePrints/Inventory/Demo/InteractText]
+[2022.10.10-22.55.20:905][934]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/HUD/BluePrints/Inventory/Demo/InteractText_Auto9
+[2022.10.10-22.55.20:905][934]LogSavePackage: Moving 'G:/My Drive/Master Project/Game Launcher/Saved/InteractText_Auto90C8AF3464642B00663BCB9A47A94CE11.tmp' to 'G:/My Drive/Master Project/Game Launcher/Saved/Autosaves/Game/HUD/BluePrints/Inventory/Demo/InteractText_Auto9.uasset'
+[2022.10.10-22.55.20:909][934]LogFileHelpers: Auto-saving content packages took 0.070
+[2022.10.10-23.05.21:413][418]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2022.10.10-23.05.21:417][418]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/DreamscapeSeries/DreamscapeMeadows/Maps/KingsOfParadise' took 0.065
+[2022.10.10-23.05.21:418][418]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/HUD/BluePrints/Inventory/Demo/InteractText] ([2] browsable assets)...
+[2022.10.10-23.05.21:420][418]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/HUD/BluePrints/Inventory/Demo/InteractText.InteractText]
+[2022.10.10-23.05.21:421][418]OBJ SavePackage: Finished generating thumbnails for package [/Game/HUD/BluePrints/Inventory/Demo/InteractText]
+[2022.10.10-23.05.21:489][418]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/HUD/BluePrints/Inventory/Demo/InteractText_Auto0
+[2022.10.10-23.05.21:489][418]LogSavePackage: Moving 'G:/My Drive/Master Project/Game Launcher/Saved/InteractText_Auto067116AEE44B6479F986E3696AF7DEBD0.tmp' to 'G:/My Drive/Master Project/Game Launcher/Saved/Autosaves/Game/HUD/BluePrints/Inventory/Demo/InteractText_Auto0.uasset'
+[2022.10.10-23.05.21:494][418]LogFileHelpers: Auto-saving content packages took 0.077
+[2022.10.10-23.05.21:546][419]LogAutoSizeComments: Saved node cache to E:/UE_5.0/Engine/Plugins/Marketplace/AutoSizeComments/ASCCache/658A493D4D643F1DFCC3F4BCDEE3BA3E.json took   1.04ms
+[2022.10.10-23.09.13:606][ 46]BlueprintLog: New page: Compile HUDLayout
+[2022.10.10-23.09.13:676][ 46]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2022.10.10-23.10.19:037][648]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.10.10-23.10.19:037][648]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.10.10-23.10.35:935][619]BlueprintLog: New page: Compile InteractText
+[2022.10.10-23.10.35:939][619]LogBlueprint: Error: [AssetLog] G:\My Drive\Master Project\Game Launcher\Content\HUD\BluePrints\Inventory\Demo\InteractText.uasset: [Compiler] Binding: Property ' /Script/UMG.TextBlock:TextDelegate ' on Widget ' InteractText ': Binding: 'None' : 'None' was not found on 'Interact Text'.
+[2022.10.10-23.10.36:059][619]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2022.10.10-23.10.40:416][109]LogBlueprint: Warning: Unknown type of hyperlinked object (InteractText), cannot focus it
+[2022.10.10-23.11.10:795][779]LogBlueprint: Warning: Unknown type of hyperlinked object (InteractText), cannot focus it
+[2022.10.10-23.11.11:878][909]LogBlueprint: Warning: Unknown type of hyperlinked object (InteractText), cannot focus it
+[2022.10.10-23.11.47:328][408]BlueprintLog: New page: Compile InteractText
+[2022.10.10-23.11.47:332][408]LogBlueprint: Error: [AssetLog] G:\My Drive\Master Project\Game Launcher\Content\HUD\BluePrints\Inventory\Demo\InteractText.uasset: [Compiler] Binding: Property ' /Script/UMG.TextBlock:TextDelegate ' on Widget ' InteractText ': Binding: 'None' : 'None' was not found on 'Interact Text'.
+[2022.10.10-23.11.47:429][408]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2022.10.10-23.11.53:661][135]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.10.10-23.11.53:661][135]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.10.10-23.12.40:478][539]BlueprintLog: New page: Compile InteractText
+[2022.10.10-23.12.40:481][539]LogClass: Warning: Type mismatch in Message of InteractText_C - Previous (BoolProperty) Current(TextProperty) for package:  FObjectReader
+[2022.10.10-23.12.40:584][539]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2022.10.10-23.12.41:639][656]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.10.10-23.12.41:639][656]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.10.10-23.12.47:038][243]BlueprintLog: New page: Compile InteractText
+[2022.10.10-23.12.47:135][243]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2022.10.10-23.12.47:753][285]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HUD/BluePrints/Inventory/Demo/InteractText" FILE="G:/My Drive/Master Project/Game Launcher/Content/HUD/BluePrints/Inventory/Demo/InteractText.uasset" SILENT=true
+[2022.10.10-23.12.47:822][285]LogSavePackage: Moving output files for package: /Game/HUD/BluePrints/Inventory/Demo/InteractText
+[2022.10.10-23.12.47:827][285]LogSavePackage: Moving 'G:/My Drive/Master Project/Game Launcher/Saved/InteractText61C12035419C39EBBC6BF3ACE9F2CBF7.tmp' to 'G:/My Drive/Master Project/Game Launcher/Content/HUD/BluePrints/Inventory/Demo/InteractText.uasset'
+[2022.10.10-23.12.47:841][285]LogAutoSizeComments: Saved node cache to E:/UE_5.0/Engine/Plugins/Marketplace/AutoSizeComments/ASCCache/658A493D4D643F1DFCC3F4BCDEE3BA3E.json took   1.08ms
+[2022.10.10-23.12.47:847][285]AssetCheck: New page: Asset Save: InteractText
+[2022.10.10-23.12.47:847][285]LogContentValidation: Display: Validating WidgetBlueprint /Game/HUD/BluePrints/Inventory/Demo/InteractText.InteractText
+[2022.10.10-23.12.51:860][748]BlueprintLog: New page: Compile HUDLayout
+[2022.10.10-23.12.51:920][748]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2022.10.10-23.13.05:428][267]LogEditorTransaction: Undo Move Anchor
+[2022.10.10-23.13.32:793][502]BlueprintLog: New page: Compile InteractText
+[2022.10.10-23.13.32:916][502]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2022.10.10-23.13.34:047][597]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HUD/BluePrints/Inventory/Demo/InteractText" FILE="G:/My Drive/Master Project/Game Launcher/Content/HUD/BluePrints/Inventory/Demo/InteractText.uasset" SILENT=true
+[2022.10.10-23.13.34:116][597]LogSavePackage: Moving output files for package: /Game/HUD/BluePrints/Inventory/Demo/InteractText
+[2022.10.10-23.13.34:119][597]LogSavePackage: Moving 'G:/My Drive/Master Project/Game Launcher/Saved/InteractText1A9385EE4EE0BFBDB336A9884232D3C1.tmp' to 'G:/My Drive/Master Project/Game Launcher/Content/HUD/BluePrints/Inventory/Demo/InteractText.uasset'
+[2022.10.10-23.13.34:132][597]LogAutoSizeComments: Saved node cache to E:/UE_5.0/Engine/Plugins/Marketplace/AutoSizeComments/ASCCache/658A493D4D643F1DFCC3F4BCDEE3BA3E.json took   1.07ms
+[2022.10.10-23.13.34:138][597]AssetCheck: New page: Asset Save: InteractText
+[2022.10.10-23.13.34:138][597]LogContentValidation: Display: Validating WidgetBlueprint /Game/HUD/BluePrints/Inventory/Demo/InteractText.InteractText
+[2022.10.10-23.15.02:960][714]BlueprintLog: New page: Compile HUDLayout
+[2022.10.10-23.15.03:022][714]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2022.10.10-23.15.04:083][813]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HUD/BluePrints/HUDLayout" FILE="G:/My Drive/Master Project/Game Launcher/Content/HUD/BluePrints/HUDLayout.uasset" SILENT=true
+[2022.10.10-23.15.04:111][813]LogSavePackage: Moving output files for package: /Game/HUD/BluePrints/HUDLayout
+[2022.10.10-23.15.04:115][813]LogSavePackage: Moving 'G:/My Drive/Master Project/Game Launcher/Saved/HUDLayoutE1AF89D049121704D2DA9A8F372AD33D.tmp' to 'G:/My Drive/Master Project/Game Launcher/Content/HUD/BluePrints/HUDLayout.uasset'
+[2022.10.10-23.15.04:133][813]AssetCheck: New page: Asset Save: HUDLayout
+[2022.10.10-23.15.04:133][813]LogContentValidation: Display: Validating WidgetBlueprint /Game/HUD/BluePrints/HUDLayout.HUDLayout
+[2022.10.10-23.16.00:032][853]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HUD/BluePrints/InventoryPlayerController" FILE="G:/My Drive/Master Project/Game Launcher/Content/HUD/BluePrints/InventoryPlayerController.uasset" SILENT=true
+[2022.10.10-23.16.00:154][853]LogSavePackage: Moving output files for package: /Game/HUD/BluePrints/InventoryPlayerController
+[2022.10.10-23.16.00:158][853]LogSavePackage: Moving 'G:/My Drive/Master Project/Game Launcher/Saved/InventoryPlayerController2C45487946D5DA53312287B53621F48E.tmp' to 'G:/My Drive/Master Project/Game Launcher/Content/HUD/BluePrints/InventoryPlayerController.uasset'
+[2022.10.10-23.16.00:211][853]LogAutoSizeComments: Saved node cache to E:/UE_5.0/Engine/Plugins/Marketplace/AutoSizeComments/ASCCache/658A493D4D643F1DFCC3F4BCDEE3BA3E.json took  17.21ms
+[2022.10.10-23.16.00:217][853]AssetCheck: New page: Asset Save: InventoryPlayerController
+[2022.10.10-23.16.00:217][853]LogContentValidation: Display: Validating Blueprint /Game/HUD/BluePrints/InventoryPlayerController.InventoryPlayerController
+[2022.10.10-23.16.00:989][943]BlueprintLog: New page: Compile InventoryPlayerController
+[2022.10.10-23.16.01:076][943]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2022.10.10-23.17.49:088][457]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2022.10.10-23.17.49:090][457]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/DreamscapeSeries/DreamscapeMeadows/Maps/KingsOfParadise' took 0.067
+[2022.10.10-23.17.49:091][457]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/HUD/BluePrints/InventoryPlayerController] ([2] browsable assets)...
+[2022.10.10-23.17.49:091][457]OBJ SavePackage: Finished generating thumbnails for package [/Game/HUD/BluePrints/InventoryPlayerController]
+[2022.10.10-23.17.49:223][457]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/HUD/BluePrints/InventoryPlayerController_Auto1
+[2022.10.10-23.17.49:224][457]LogSavePackage: Moving 'G:/My Drive/Master Project/Game Launcher/Saved/InventoryPlayerController_Auto18E9AF53E4629510A91C61989716CDF19.tmp' to 'G:/My Drive/Master Project/Game Launcher/Saved/Autosaves/Game/HUD/BluePrints/InventoryPlayerController_Auto1.uasset'
+[2022.10.10-23.17.49:228][457]LogFileHelpers: Auto-saving content packages took 0.138
+[2022.10.10-23.17.49:276][458]LogAutoSizeComments: Saved node cache to E:/UE_5.0/Engine/Plugins/Marketplace/AutoSizeComments/ASCCache/658A493D4D643F1DFCC3F4BCDEE3BA3E.json took  18.01ms
+[2022.10.10-23.18.47:610][ 39]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/HUD/BluePrints/UsableActorInterface.UsableActorInterface
+[2022.10.10-23.18.47:611][ 39]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.10-23.19.13:520][483]BlueprintLog: New page: Compile UsableActorInterface
+[2022.10.10-23.19.13:589][483]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2022.10.10-23.19.14:142][532]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HUD/BluePrints/UsableActorInterface" FILE="G:/My Drive/Master Project/Game Launcher/Content/HUD/BluePrints/UsableActorInterface.uasset" SILENT=true
+[2022.10.10-23.19.14:172][532]LogSavePackage: Moving output files for package: /Game/HUD/BluePrints/UsableActorInterface
+[2022.10.10-23.19.14:177][532]LogSavePackage: Moving 'G:/My Drive/Master Project/Game Launcher/Saved/UsableActorInterface7B30C3354A198C8D35BB93BDD7774456.tmp' to 'G:/My Drive/Master Project/Game Launcher/Content/HUD/BluePrints/UsableActorInterface.uasset'
+[2022.10.10-23.19.14:195][532]AssetCheck: New page: Asset Save: UsableActorInterface
+[2022.10.10-23.19.14:195][532]LogContentValidation: Display: Validating Blueprint /Game/HUD/BluePrints/UsableActorInterface.UsableActorInterface
+[2022.10.10-23.19.16:312][777]LogWorld: UWorld::CleanupWorld for World_32, bSessionEnded=true, bCleanupResources=true
+[2022.10.10-23.19.16:312][777]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.10-23.19.16:364][777]LogWorld: UWorld::CleanupWorld for World_31, bSessionEnded=true, bCleanupResources=true
+[2022.10.10-23.19.16:364][777]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.10-23.19.18:268][988]LogWorld: UWorld::CleanupWorld for World_30, bSessionEnded=true, bCleanupResources=true
+[2022.10.10-23.19.18:268][988]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.10-23.19.18:311][988]LogWorld: UWorld::CleanupWorld for World_29, bSessionEnded=true, bCleanupResources=true
+[2022.10.10-23.19.18:311][988]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.10-23.20.16:718][578]BlueprintLog: New page: Compile InventoryPlayerController
+[2022.10.10-23.20.16:817][578]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2022.10.10-23.26.02:134][970]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.10.10-23.26.05:234][970]LogSlate: Window 'Pick Parent Class' being destroyed
+[2022.10.10-23.26.05:243][970]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2022.10.10-23.26.05:249][970]LogContentBrowser: Creating deferred item: NewBlueprint
+[2022.10.10-23.26.05:261][971]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2022.10.10-23.26.32:381][836]LogContentBrowser: Attempting asset rename: NewBlueprint -> Usable_Actor
+[2022.10.10-23.26.32:389][836]LogContentBrowser: End creating deferred item NewBlueprint
+[2022.10.10-23.26.33:779][883]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/HUD/BluePrints/Inventory/Demo/Usable_Actor.Usable_Actor
+[2022.10.10-23.26.33:779][883]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.10-23.26.34:377][883]LogViewport: Scene viewport resized to 1525x981, mode Windowed.
+[2022.10.10-23.28.05:271][297]LogSubobjectSubsystem: Warning: Cannot remove subobject 'DefaultSceneRoot' because it is the default scene root!
+[2022.10.10-23.29.05:678][342]LogLinker: Warning: [AssetLog] G:\My Drive\Master Project\Game Launcher\Content\DreamscapeSeries\Stylized_Egypt\Meshes\props\SM_wood_box_01.uasset: Failed to load '/Game/Stylized_Egypt/Materials/props_materials/MI_wood_box_01_Inst': Can't find file.
+[2022.10.10-23.29.05:679][342]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/Stylized_Egypt/Materials/props_materials/MI_wood_box_01_Inst'
+[2022.10.10-23.29.16:597][257]LogLinker: Warning: [AssetLog] G:\My Drive\Master Project\Game Launcher\Content\DreamscapeSeries\Stylized_Egypt\Materials\props_materials\MI_wood_box_01_Inst.uasset: Failed to load '/Game/Stylized_Egypt/Materials/props_materials/M_props': Can't find file.
+[2022.10.10-23.29.16:597][257]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/Stylized_Egypt/Materials/props_materials/M_props'
+[2022.10.10-23.31.12:181][301]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2022.10.10-23.31.12:183][301]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/DreamscapeSeries/DreamscapeMeadows/Maps/KingsOfParadise' took 0.155
+[2022.10.10-23.31.12:185][301]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/HUD/BluePrints/InventoryPlayerController] ([2] browsable assets)...
+[2022.10.10-23.31.12:185][301]OBJ SavePackage: Finished generating thumbnails for package [/Game/HUD/BluePrints/InventoryPlayerController]
+[2022.10.10-23.31.12:323][301]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/HUD/BluePrints/InventoryPlayerController_Auto2
+[2022.10.10-23.31.12:324][301]LogSavePackage: Moving 'G:/My Drive/Master Project/Game Launcher/Saved/InventoryPlayerController_Auto2F40EF0D04A6C2FAA8E9F909A401D0B9C.tmp' to 'G:/My Drive/Master Project/Game Launcher/Saved/Autosaves/Game/HUD/BluePrints/InventoryPlayerController_Auto2.uasset'
+[2022.10.10-23.31.12:328][301]LogFileHelpers: Auto-saving content packages took 0.144
+[2022.10.10-23.31.12:360][302]LogAutoSizeComments: Saved node cache to E:/UE_5.0/Engine/Plugins/Marketplace/AutoSizeComments/ASCCache/658A493D4D643F1DFCC3F4BCDEE3BA3E.json took   1.12ms
+[2022.10.10-23.39.57:464][817]LogDerivedDataCache: C:/Users/sscor/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:02.174 and deleted 0 file(s) with total size 0 MiB.
+[2022.10.10-23.46.59:569][209]LogWorld: UWorld::CleanupWorld for World_40, bSessionEnded=true, bCleanupResources=true
+[2022.10.10-23.46.59:570][209]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.10-23.47.52:447][856]LogSlate: Window 'Usable_Actor' being destroyed
+[2022.10.10-23.50.13:565][811]BlueprintLog: New page: Compile Usable_Actor
+[2022.10.10-23.50.13:682][811]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2022.10.10-23.52.31:243][979]BlueprintLog: New page: Compile Usable_Actor
+[2022.10.10-23.52.31:326][979]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2022.10.10-23.53.41:014][611]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HUD/BluePrints/Inventory/Demo/Usable_Actor" FILE="G:/My Drive/Master Project/Game Launcher/Content/HUD/BluePrints/Inventory/Demo/Usable_Actor.uasset" SILENT=true
+[2022.10.10-23.53.41:067][611]LogSavePackage: Moving output files for package: /Game/HUD/BluePrints/Inventory/Demo/Usable_Actor
+[2022.10.10-23.53.41:068][611]LogSavePackage: Moving 'G:/My Drive/Master Project/Game Launcher/Saved/Usable_Actor5ED19D7C4B7554F9A1E8D4A10777FBD8.tmp' to 'G:/My Drive/Master Project/Game Launcher/Content/HUD/BluePrints/Inventory/Demo/Usable_Actor.uasset'
+[2022.10.10-23.53.41:087][611]AssetCheck: New page: Asset Save: Usable_Actor
+[2022.10.10-23.53.41:087][611]LogContentValidation: Display: Validating Blueprint /Game/HUD/BluePrints/Inventory/Demo/Usable_Actor.Usable_Actor
+[2022.10.10-23.53.43:207][842]BlueprintLog: New page: Compile Usable_Actor
+[2022.10.10-23.53.43:297][842]LogUObjectHash: Compacting FUObjectHashTables data took   2.38ms
+[2022.10.10-23.55.28:488][352]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/HUD/BluePrints/UsableActorInterface.UsableActorInterface
+[2022.10.10-23.55.28:488][352]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.10-23.55.56:696][945]LogUObjectHash: Compacting FUObjectHashTables data took   3.41ms
+[2022.10.10-23.55.56:700][945]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/DreamscapeSeries/DreamscapeMeadows/Maps/KingsOfParadise' took 0.079
+[2022.10.10-23.55.56:701][945]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/HUD/BluePrints/Inventory/Demo/Usable_Actor] ([2] browsable assets)...
+[2022.10.10-23.55.56:764][945]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/HUD/BluePrints/Inventory/Demo/Usable_Actor.Usable_Actor]
+[2022.10.10-23.55.56:764][945]OBJ SavePackage: Finished generating thumbnails for package [/Game/HUD/BluePrints/Inventory/Demo/Usable_Actor]
+[2022.10.10-23.55.56:821][945]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/HUD/BluePrints/Inventory/Demo/Usable_Actor_Auto3
+[2022.10.10-23.55.56:822][945]LogSavePackage: Moving 'G:/My Drive/Master Project/Game Launcher/Saved/Usable_Actor_Auto3BB57EBBD47B5DB55323FFB93434791D0.tmp' to 'G:/My Drive/Master Project/Game Launcher/Saved/Autosaves/Game/HUD/BluePrints/Inventory/Demo/Usable_Actor_Auto3.uasset'
+[2022.10.10-23.55.56:827][945]LogFileHelpers: Auto-saving content packages took 0.127
+[2022.10.10-23.59.06:068][ 57]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.10.10-23.59.06:068][ 57]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.10.10-23.59.15:760][152]LogContentBrowser: Deferred new asset file creation: UsableActorInterface_Child
+[2022.10.10-23.59.15:775][152]LogContentBrowser: Creating deferred item: UsableActorInterface_Child
+[2022.10.10-23.59.15:787][153]LogContentBrowser: Renaming the item being created (Deferred Item: UsableActorInterface_Child).
+[2022.10.10-23.59.31:898][746]LogContentBrowser: Attempting asset rename: UsableActorInterface_Child -> Usable_Actor_2
+[2022.10.10-23.59.31:905][746]LogContentBrowser: End creating deferred item UsableActorInterface_Child
+[2022.10.10-23.59.33:368][798]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/HUD/BluePrints/Usable_Actor_2.Usable_Actor_2
+[2022.10.10-23.59.33:369][798]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.10-23.59.50:879][815]LogWorld: UWorld::CleanupWorld for World_44, bSessionEnded=true, bCleanupResources=true
+[2022.10.10-23.59.50:879][815]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.10-23.59.57:165][ 54]LogUObjectHash: Compacting FUObjectHashTables data took   2.50ms
+[2022.10.10-23.59.59:074][ 54]LogSlate: Window 'Delete Assets' being destroyed
+[2022.10.10-23.59.59:165][ 54]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2022.10.11-00.00.44:780][443]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.10.11-00.00.44:780][443]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.10.11-00.00.56:456][320]LogSlate: Window 'Reference Viewer' being destroyed
+[2022.10.11-00.04.09:129][712]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.10.11-00.05.06:050][389]BlueprintLog: New page: Compile Usable_Actor
+[2022.10.11-00.05.06:147][389]LogUObjectHash: Compacting FUObjectHashTables data took   2.22ms
+[2022.10.11-00.05.12:923][162]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.10.11-00.05.40:048][319]BlueprintLog: New page: Compile UsableActorInterface
+[2022.10.11-00.05.40:117][319]LogUObjectHash: Compacting FUObjectHashTables data took   2.58ms
+[2022.10.11-00.05.41:441][465]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HUD/BluePrints/UsableActorInterface" FILE="G:/My Drive/Master Project/Game Launcher/Content/HUD/BluePrints/UsableActorInterface.uasset" SILENT=true
+[2022.10.11-00.05.41:472][465]LogSavePackage: Moving output files for package: /Game/HUD/BluePrints/UsableActorInterface
+[2022.10.11-00.05.41:476][465]LogSavePackage: Moving 'G:/My Drive/Master Project/Game Launcher/Saved/UsableActorInterface554864774D7AD711C7A49092B6EDA603.tmp' to 'G:/My Drive/Master Project/Game Launcher/Content/HUD/BluePrints/UsableActorInterface.uasset'
+[2022.10.11-00.05.41:495][465]AssetCheck: New page: Asset Save: UsableActorInterface
+[2022.10.11-00.05.41:495][465]LogContentValidation: Display: Validating Blueprint /Game/HUD/BluePrints/UsableActorInterface.UsableActorInterface
+[2022.10.11-00.05.43:188][645]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.10.11-00.06.45:685][745]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.10.11-00.06.45:685][745]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.10.11-00.06.47:071][888]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.10.11-00.06.47:071][888]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.10.11-00.06.52:605][494]LogUObjectGlobals: Reloading 1 Package(s):
+	Asset Name: /Game/HUD/BluePrints/UsableActorInterface
+[2022.10.11-00.06.52:672][494]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2022.10.11-00.06.52:733][494]LogUObjectGlobals: Warning: ReloadPackage failed to find a replacement object for 'UsableActorInterface:GetUseActionText.K2Node_CallFunction_0' in the new package '/Game/HUD/BluePrints/UsableActorInterface'. Any existing references to this object will be nulled out.
+[2022.10.11-00.06.52:734][494]LogUObjectGlobals: Warning: ReloadPackage failed to find a replacement object for 'UsableActorInterface:GetUseActionText.K2Node_FormatText_0' in the new package '/Game/HUD/BluePrints/UsableActorInterface'. Any existing references to this object will be nulled out.
+[2022.10.11-00.06.52:785][494]LogActorComponent: UnregisterComponent: (/Engine/Transient.DirectionalLightComponent_54) Not registered. Aborting.
+[2022.10.11-00.06.52:785][494]LogActorComponent: UnregisterComponent: (/Engine/Transient.SkyLightComponent_36) Not registered. Aborting.
+[2022.10.11-00.06.52:785][494]LogActorComponent: UnregisterComponent: (/Engine/Transient.LineBatchComponent_153) Not registered. Aborting.
+[2022.10.11-00.06.52:785][494]LogWorld: UWorld::CleanupWorld for World_43, bSessionEnded=true, bCleanupResources=true
+[2022.10.11-00.06.52:785][494]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.11-00.06.52:912][494]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2022.10.11-00.06.53:991][494]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2022.10.11-00.06.53:994][494]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/HUD/BluePrints/UsableActorInterface.UsableActorInterface
+[2022.10.11-00.06.53:994][494]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.11-00.06.54:510][494]LogUObjectGlobals: Warning: ReloadPackage failed to purge the old package '/Game/HUD/BluePrints/UsableActorInterface_DEADPACKAGE_1'. This is unexpected, and likely means that it was still externally referenced.
+[2022.10.11-00.06.55:395][494]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2022.10.11-00.06.55:403][494]LogWindows: Windows GetLastError: The operation completed successfully. (0)

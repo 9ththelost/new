@@ -1,0 +1,1484 @@
+﻿Log file open, 09/22/22 18:42:02
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogProfilingDebugging: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogWindows: Started CrashReportClient (pid=4068)
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: Dreamscape
+LogCore: UnrealTraceServer: Trace store launch successful
+LogCsvProfiler: Display: Metadata set : platform="Windows"
+LogCsvProfiler: Display: Metadata set : config="Development"
+LogCsvProfiler: Display: Metadata set : buildversion="++UE5+Release-5.0-CL-20979098"
+LogCsvProfiler: Display: Metadata set : engineversion="5.0.3-20979098+++UE5+Release-5.0"
+LogCsvProfiler: Display: Metadata set : commandline="" "G:\My Drive\GameProject\Kings Of Paradise\Game Launcher\Dreamscape.uproject"""
+LogCsvProfiler: Display: Metadata set : os="Windows 11 (21H2) [10.0.22000.856] "
+LogCsvProfiler: Display: Metadata set : cpu="GenuineIntel|Intel(R) Core(TM) i9-9900K CPU @ 3.60GHz"
+LogCsvProfiler: Display: Metadata set : pgoenabled="0"
+LogCsvProfiler: Display: Metadata set : loginid="3d5124784b81c1c49f7548af38a3a8e0"
+LogCsvProfiler: Display: Metadata set : llm="0"
+LogPlatformFile: Not using cached read wrapper
+LogStats: Stats thread started at 0.260621
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +0:00, Platform Override: ''
+LogInit: Session CrashGUID >====================================================
+         Session CrashGUID >   UECC-Windows-1CFC6A884853F8F187F1F6A0C34A8DE2
+         Session CrashGUID >====================================================
+LogConfig: Display: Loading IOS ini files took 0.12 seconds
+LogConfig: Display: Loading VulkanPC ini files took 0.13 seconds
+LogConfig: Display: Loading Android ini files took 0.13 seconds
+LogConfig: Display: Loading Mac ini files took 0.13 seconds
+LogConfig: Display: Loading HoloLens ini files took 0.14 seconds
+LogPluginManager: Mounting Engine plugin Bridge
+LogConfig: Display: Loading Unix ini files took 0.17 seconds
+LogConfig: Display: Loading Windows ini files took 0.17 seconds
+LogConfig: Display: Loading TVOS ini files took 0.17 seconds
+LogConfig: Display: Loading Linux ini files took 0.18 seconds
+LogConfig: Display: Loading LinuxArm64 ini files took 0.18 seconds
+LogPluginManager: Mounting Engine plugin FastBuildController
+LogPluginManager: Mounting Engine plugin MeshPainting
+LogPluginManager: Mounting Engine plugin XGEController
+LogPluginManager: Mounting Engine plugin Paper2D
+LogPluginManager: Mounting Engine plugin AISupport
+LogPluginManager: Mounting Engine plugin EnvironmentQueryEditor
+LogPluginManager: Mounting Engine plugin BlendSpaceMotionAnalysis
+LogPluginManager: Mounting Engine plugin AnimationModifierLibrary
+LogPluginManager: Mounting Engine plugin IKRig
+LogPluginManager: Mounting Engine plugin ControlRig
+LogPluginManager: Mounting Engine plugin ControlRigSpline
+LogPluginManager: Mounting Engine plugin Niagara
+LogPluginManager: Mounting Engine plugin AssetManagerEditor
+LogPluginManager: Mounting Engine plugin BlueprintMaterialTextureNodes
+LogPluginManager: Mounting Engine plugin CryptoKeys
+LogPluginManager: Mounting Engine plugin CurveEditorTools
+LogPluginManager: Mounting Engine plugin DataValidation
+LogPluginManager: Mounting Engine plugin EditorDebugTools
+LogPluginManager: Mounting Engine plugin FacialAnimation
+LogPluginManager: Mounting Engine plugin EditorScriptingUtilities
+LogPluginManager: Mounting Engine plugin GameplayTagsEditor
+LogPluginManager: Mounting Engine plugin MacGraphicsSwitching
+LogPluginManager: Mounting Engine plugin GeometryMode
+LogPluginManager: Mounting Engine plugin MaterialAnalyzer
+LogPluginManager: Mounting Engine plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting Engine plugin PluginBrowser
+LogPluginManager: Mounting Engine plugin ModelingToolsEditorMode
+LogPluginManager: Mounting Engine plugin SequencerAnimTools
+LogPluginManager: Mounting Engine plugin WorldPartitionHLODUtilities
+LogPluginManager: Mounting Engine plugin SpeedTreeImporter
+LogPluginManager: Mounting Engine plugin StylusInput
+LogPluginManager: Mounting Engine plugin AnimationSharing
+LogPluginManager: Mounting Engine plugin AlembicImporter
+LogPluginManager: Mounting Engine plugin CLionSourceCodeAccess
+LogPluginManager: Mounting Engine plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting Engine plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting Engine plugin GitSourceControl
+LogPluginManager: Mounting Engine plugin NullSourceCodeAccess
+LogPluginManager: Mounting Engine plugin PlasticSourceControl
+LogPluginManager: Mounting Engine plugin PerforceSourceControl
+LogPluginManager: Mounting Engine plugin PixWinPlugin
+LogPluginManager: Mounting Engine plugin PluginUtils
+LogPluginManager: Mounting Engine plugin PropertyAccessNode
+LogPluginManager: Mounting Engine plugin SubversionSourceControl
+LogPluginManager: Mounting Engine plugin TraceDataFilters
+LogPluginManager: Mounting Engine plugin TextureFormatOodle
+LogPluginManager: Mounting Engine plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin RiderSourceCodeAccess
+LogPluginManager: Mounting Engine plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting Engine plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin CameraShakePreviewer
+LogPluginManager: Mounting Engine plugin UObjectPlugin
+LogPluginManager: Mounting Engine plugin AutomationUtils
+LogPluginManager: Mounting Engine plugin BackChannel
+LogPluginManager: Mounting Engine plugin GameplayCameras
+LogPluginManager: Mounting Engine plugin DatasmithContent
+LogPluginManager: Mounting Engine plugin AndroidMedia
+LogPluginManager: Mounting Engine plugin VariantManagerContent
+LogPluginManager: Mounting Engine plugin ChaosCloth
+LogPluginManager: Mounting Engine plugin OodleNetwork
+LogPluginManager: Mounting Engine plugin ChaosClothEditor
+LogPluginManager: Mounting Engine plugin ChaosEditor
+LogPluginManager: Mounting Engine plugin ChaosNiagara
+LogPluginManager: Mounting Engine plugin CharacterAI
+LogPluginManager: Mounting Engine plugin FullBodyIK
+LogPluginManager: Mounting Engine plugin TcpMessaging
+LogPluginManager: Mounting Engine plugin AvfMedia
+LogPluginManager: Mounting Engine plugin UdpMessaging
+LogPluginManager: Mounting Engine plugin ChaosSolverPlugin
+LogPluginManager: Mounting Engine plugin ImgMedia
+LogPluginManager: Mounting Engine plugin MediaCompositing
+LogPluginManager: Mounting Engine plugin MediaPlayerEditor
+LogPluginManager: Mounting Engine plugin WmfMedia
+LogPluginManager: Mounting Engine plugin WebMMedia
+LogPluginManager: Mounting Engine plugin GeometryCollectionPlugin
+LogPluginManager: Mounting Engine plugin GeometryFlow
+LogPluginManager: Mounting Engine plugin OnlineBase
+LogPluginManager: Mounting Engine plugin OnlineSubsystem
+LogPluginManager: Mounting Engine plugin ActorSequence
+LogPluginManager: Mounting Engine plugin OnlineSubsystemNull
+LogPluginManager: Mounting Engine plugin LevelSequenceEditor
+LogPluginManager: Mounting Engine plugin MatineeToLevelSequence
+LogPluginManager: Mounting Engine plugin OnlineSubsystemUtils
+LogPluginManager: Mounting Engine plugin TemplateSequence
+LogPluginManager: Mounting Engine plugin SequencerScripting
+LogPluginManager: Mounting Engine plugin MeshLODToolset
+LogPluginManager: Mounting Engine plugin MeshModelingToolsetExp
+LogPluginManager: Mounting Engine plugin Landmass
+LogPluginManager: Mounting Engine plugin OpenImageDenoise
+LogPluginManager: Mounting Engine plugin PlanarCut
+LogPluginManager: Mounting Engine plugin PlatformCrypto
+LogPluginManager: Mounting Engine plugin PythonScriptPlugin
+LogPluginManager: Mounting Engine plugin LauncherChunkInstaller
+LogPluginManager: Mounting Engine plugin ProxyLODPlugin
+LogPluginManager: Mounting Engine plugin SkeletalReduction
+LogPluginManager: Mounting Engine plugin Water
+LogPluginManager: Mounting Engine plugin ActorLayerUtilities
+LogPluginManager: Mounting Engine plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin AndroidFileServer
+LogPluginManager: Mounting Engine plugin AndroidPermission
+LogPluginManager: Mounting Engine plugin AndroidMoviePlayer
+LogPluginManager: Mounting Engine plugin AppleImageUtils
+LogPluginManager: Mounting Engine plugin AppleMoviePlayer
+LogPluginManager: Mounting Engine plugin ArchVisCharacter
+LogPluginManager: Mounting Engine plugin AssetTags
+LogPluginManager: Mounting Engine plugin AudioCapture
+LogPluginManager: Mounting Engine plugin CableComponent
+LogPluginManager: Mounting Engine plugin AudioSynesthesia
+LogPluginManager: Mounting Engine plugin CustomMeshComponent
+LogPluginManager: Mounting Engine plugin ChunkDownloader
+LogPluginManager: Mounting Engine plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin GeometryCache
+LogPluginManager: Mounting Engine plugin GeometryProcessing
+LogPluginManager: Mounting Engine plugin GoogleCloudMessaging
+LogPluginManager: Mounting Engine plugin HairStrands
+LogPluginManager: Mounting Engine plugin GooglePAD
+LogPluginManager: Mounting Engine plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin LocationServicesBPLibrary
+LogPluginManager: Mounting Engine plugin MeshModelingToolset
+LogPluginManager: Mounting Engine plugin MobilePatchingUtils
+LogPluginManager: Mounting Engine plugin ProceduralMeshComponent
+LogPluginManager: Mounting Engine plugin PropertyAccessEditor
+LogPluginManager: Mounting Engine plugin ResonanceAudio
+LogPluginManager: Mounting Engine plugin SignificanceManager
+LogPluginManager: Mounting Engine plugin RuntimePhysXCooking
+LogPluginManager: Mounting Engine plugin SoundFields
+LogPluginManager: Mounting Engine plugin Synthesis
+LogPluginManager: Mounting Engine plugin WebMMoviePlayer
+LogPluginManager: Mounting Engine plugin WindowsMoviePlayer
+LogPluginManager: Mounting Engine plugin WindowsDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting Engine plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting Engine plugin OnlineServices
+LogPluginManager: Mounting Engine plugin OnlineSubsystemIOS
+LogPluginManager: Mounting Engine plugin Interchange
+LogPluginManager: Mounting Engine plugin InterchangeEditor
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Bridge/Content/' mounted to '/Bridge/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/2D/Paper2D/Content/' mounted to '/Paper2D/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/IKRig/Content/' mounted to '/IKRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRig/Content/' mounted to '/ControlRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRigSpline/Content/' mounted to '/ControlRigSpline/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/FX/Niagara/Content/' mounted to '/Niagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/GeometryMode/Content/' mounted to '/GeometryMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/ModelingToolsEditorMode/Content/' mounted to '/ModelingToolsEditorMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/SpeedTreeImporter/Content/' mounted to '/SpeedTreeImporter/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Developer/AnimationSharing/Content/' mounted to '/AnimationSharing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Enterprise/DatasmithContent/Content/' mounted to '/DatasmithContent/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosClothEditor/Content/' mounted to '/ChaosClothEditor/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosNiagara/Content/' mounted to '/ChaosNiagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/FullBodyIK/Content/' mounted to '/FullBodyIK/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosSolverPlugin/Content/' mounted to '/ChaosSolverPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Media/MediaCompositing/Content/' mounted to '/MediaCompositing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryCollectionPlugin/Content/' mounted to '/GeometryCollectionPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryFlow/Content/' mounted to '/GeometryFlow/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/MovieScene/SequencerScripting/Content/' mounted to '/SequencerScripting/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshLODToolset/Content/' mounted to '/MeshLODToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshModelingToolsetExp/Content/' mounted to '/MeshModelingToolsetExp/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/Landmass/Content/' mounted to '/Landmass/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/PythonScriptPlugin/Content/' mounted to '/PythonScriptPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/Water/Content/' mounted to '/Water/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/AudioSynesthesia/Content/' mounted to '/AudioSynesthesia/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/GeometryProcessing/Content/' mounted to '/GeometryProcessing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/HairStrands/Content/' mounted to '/HairStrands/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/MeshModelingToolset/Content/' mounted to '/MeshModelingToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/ResonanceAudio/Content/' mounted to '/ResonanceAudio/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/Synthesis/Content/' mounted to '/Synthesis/'
+SourceControl: Source control is disabled
+SourceControl: Source control is disabled
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: Created online subsystem instance for: NULL
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE5+Release-5.0-CL-20979098
+LogInit: Engine Version: 5.0.3-20979098+++UE5+Release-5.0
+LogInit: Compatible Engine Version: 5.0.0-19505902+++UE5+Release-5.0
+LogInit: Net CL: 19505902
+LogInit: OS: Windows 11 (21H2) [10.0.22000.856] (), CPU: Intel(R) Core(TM) i9-9900K CPU @ 3.60GHz, GPU: NVIDIA GeForce RTX 2070 SUPER
+LogInit: Compiled (64-bit): Jul  7 2022 02:16:06
+LogInit: Compiled with Visual C++: 19.29.30138.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE5+Release-5.0
+LogInit: Command Line: 
+LogInit: Base Directory: E:/Apps/Unreal Engine 5/UE_5.0/Engine/Binaries/Win64/
+LogInit: Allocator: Mimalloc
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 34
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 20
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 59
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 3
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   UE5-Main (697DD581-E64F-41AB-AA4A-51ECBEB7B628): 59
+LogDevObjectVersion:   UE5-Release (D89B5E42-24BD-4D46-8412-ACA8DF641779): 36
+LogDevObjectVersion:   UE5-PrivateFrosty (59DA5D52-1232-4948-B878-597870B8E98B): 8
+LogDevObjectVersion:   UE5-Dev-Cooker (26075A32-730F-4708-88E9-8C32F1599D05): 0
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogDevObjectVersion:   UE5-Dev-LWCRendering (30D58BE3-95EA-4282-A6E3-B159D8EBB06A): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: CVar [[con.DebugLateDefault:1]] deferred - dummy variable created
+LogConfig: CVar [[con.DebugLateCheat:1]] deferred - dummy variable created
+LogConfig: CVar [[r.DetectAndWarnOfBadDrivers:0]] deferred - dummy variable created
+LogConfig: CVar [[LogNamedEventFilters:Frame *]] deferred - dummy variable created
+LogConfig: CVar [[framepro.ScopeMinTimeMicroseconds:10]] deferred - dummy variable created
+LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
+[2022.09.22-17.42.03:186][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [Engine]
+[2022.09.22-17.42.03:186][  0]LogConfig: CVar [[VisualizeCalibrationColorMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationColor.PPM_DefaultCalibrationColor]] deferred - dummy variable created
+[2022.09.22-17.42.03:186][  0]LogConfig: CVar [[VisualizeCalibrationGrayscaleMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationGrayscale.PPM_DefaultCalibrationGrayscale]] deferred - dummy variable created
+[2022.09.22-17.42.03:186][  0]LogConfig: CVar [[MaxSkinBones:(Default=65536,PerPlatform=(("Mobile", 256)))]] deferred - dummy variable created
+[2022.09.22-17.42.03:186][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [Engine]
+[2022.09.22-17.42.03:186][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [Engine]
+[2022.09.22-17.42.03:186][  0]LogConfig: CVar [[s.MaxPackageSummarySize:16384]] deferred - dummy variable created
+[2022.09.22-17.42.03:186][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__SoundBase]] deferred - dummy variable created
+[2022.09.22-17.42.03:186][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__MaterialInterface]] deferred - dummy variable created
+[2022.09.22-17.42.03:186][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__DeviceProfileManager]] deferred - dummy variable created
+[2022.09.22-17.42.03:186][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [Engine]
+[2022.09.22-17.42.03:186][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [Engine]
+[2022.09.22-17.42.03:186][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Average",ToolTip="Simulates average internet conditions")]] deferred - dummy variable created
+[2022.09.22-17.42.03:186][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Bad",ToolTip="Simulates laggy internet conditions")]] deferred - dummy variable created
+[2022.09.22-17.42.03:186][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [Engine]
+[2022.09.22-17.42.03:187][  0]LogConfig: CVar [[DefaultPVRTCQuality:1]] deferred - dummy variable created
+[2022.09.22-17.42.03:187][  0]LogConfig: CVar [[DefaultASTCQualityBySpeed:1]] deferred - dummy variable created
+[2022.09.22-17.42.03:187][  0]LogConfig: CVar [[DefaultASTCQualityBySize:3]] deferred - dummy variable created
+[2022.09.22-17.42.03:187][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:WidgetBlueprint]] deferred - dummy variable created
+[2022.09.22-17.42.03:187][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GroupActor]] deferred - dummy variable created
+[2022.09.22-17.42.03:187][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MetaData]] deferred - dummy variable created
+[2022.09.22-17.42.03:187][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ObjectRedirector]] deferred - dummy variable created
+[2022.09.22-17.42.03:187][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NavMeshRenderingComponent]] deferred - dummy variable created
+[2022.09.22-17.42.03:187][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ReflectionCaptureComponent]] deferred - dummy variable created
+[2022.09.22-17.42.03:187][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:TextRenderComponent]] deferred - dummy variable created
+[2022.09.22-17.42.03:187][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:Font]] deferred - dummy variable created
+[2022.09.22-17.42.03:187][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:InterpCurveEdSetup]] deferred - dummy variable created
+[2022.09.22-17.42.03:187][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MaterialExpression]] deferred - dummy variable created
+[2022.09.22-17.42.03:187][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MatineeActorCameraAnim]] deferred - dummy variable created
+[2022.09.22-17.42.03:187][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraEmitter]] deferred - dummy variable created
+[2022.09.22-17.42.03:187][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraScript]] deferred - dummy variable created
+[2022.09.22-17.42.03:187][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleEmitter]] deferred - dummy variable created
+[2022.09.22-17.42.03:187][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleLODLevel]] deferred - dummy variable created
+[2022.09.22-17.42.03:187][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleModule]] deferred - dummy variable created
+[2022.09.22-17.42.03:187][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SubUVAnimation]] deferred - dummy variable created
+[2022.09.22-17.42.03:187][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SoundNode]] deferred - dummy variable created
+[2022.09.22-17.42.03:187][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GameplayEffectUIData]] deferred - dummy variable created
+[2022.09.22-17.42.03:187][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:WidgetBlueprint]] deferred - dummy variable created
+[2022.09.22-17.42.03:187][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:GroupActor]] deferred - dummy variable created
+[2022.09.22-17.42.03:187][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MetaData]] deferred - dummy variable created
+[2022.09.22-17.42.03:187][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:ObjectRedirector]] deferred - dummy variable created
+[2022.09.22-17.42.03:187][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:InterpCurveEdSetup]] deferred - dummy variable created
+[2022.09.22-17.42.03:187][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MatineeActorCameraAnim]] deferred - dummy variable created
+[2022.09.22-17.42.03:187][  0]LogConfig: CVar [[VersionedIntRValues:r.AllowStaticLighting]] deferred - dummy variable created
+[2022.09.22-17.42.03:187][  0]LogConfig: CVar [[VersionedIntRValues:r.GBuffer]] deferred - dummy variable created
+[2022.09.22-17.42.03:187][  0]LogConfig: CVar [[VersionedIntRValues:r.VelocityOutputPass]] deferred - dummy variable created
+[2022.09.22-17.42.03:187][  0]LogConfig: CVar [[VersionedIntRValues:r.SelectiveBasePassOutputs]] deferred - dummy variable created
+[2022.09.22-17.42.03:187][  0]LogConfig: CVar [[VersionedIntRValues:r.DBuffer]] deferred - dummy variable created
+[2022.09.22-17.42.03:187][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Symbols]] deferred - dummy variable created
+[2022.09.22-17.42.03:187][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.GenerateSymbols]] deferred - dummy variable created
+[2022.09.22-17.42.03:187][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.WriteSymbols]] deferred - dummy variable created
+[2022.09.22-17.42.03:187][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.AllowUniqueSymbols]] deferred - dummy variable created
+[2022.09.22-17.42.03:187][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.ExtraData]] deferred - dummy variable created
+[2022.09.22-17.42.03:187][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Optimize]] deferred - dummy variable created
+[2022.09.22-17.42.03:187][  0]LogConfig: CVar [[VersionedIntRValues:r.CompileShadersForDevelopment]] deferred - dummy variable created
+[2022.09.22-17.42.03:187][  0]LogConfig: CVar [[VersionedIntRValues:r.MobileHDR]] deferred - dummy variable created
+[2022.09.22-17.42.03:187][  0]LogConfig: CVar [[VersionedIntRValues:r.UsePreExposure]] deferred - dummy variable created
+[2022.09.22-17.42.03:189][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [Scalability]
+[2022.09.22-17.42.03:189][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [Scalability]
+[2022.09.22-17.42.03:189][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [Scalability]
+[2022.09.22-17.42.03:189][  0]LogConfig: Applying CVar settings from Section [GlobalIlluminationQuality@3] File [Scalability]
+[2022.09.22-17.42.03:189][  0]LogConfig: Applying CVar settings from Section [ReflectionQuality@3] File [Scalability]
+[2022.09.22-17.42.03:189][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [Scalability]
+[2022.09.22-17.42.03:189][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [Scalability]
+[2022.09.22-17.42.03:189][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [Scalability]
+[2022.09.22-17.42.03:189][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [Scalability]
+[2022.09.22-17.42.03:189][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [Scalability]
+[2022.09.22-17.42.03:189][  0]LogConfig: CVar [[r.HairStrands.Interpolation.UseSingleGuide:0]] deferred - dummy variable created
+[2022.09.22-17.42.03:207][  0]LogD3D12RHI: Aftermath initialized
+[2022.09.22-17.42.03:207][  0]LogD3D12RHI: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+[2022.09.22-17.42.03:321][  0]LogD3D12RHI: Found D3D12 adapter 0: NVIDIA GeForce RTX 2070 SUPER (Max supported Feature Level 12_1, shader model 6.6)
+[2022.09.22-17.42.03:321][  0]LogD3D12RHI: Adapter has 8012MB of dedicated video memory, 0MB of dedicated system memory, and 16340MB of shared system memory, 2 output[s]
+[2022.09.22-17.42.03:332][  0]LogD3D12RHI: Found D3D12 adapter 1: Microsoft Basic Render Driver (Max supported Feature Level 12_1, shader model 6.2)
+[2022.09.22-17.42.03:332][  0]LogD3D12RHI: Adapter has 0MB of dedicated video memory, 0MB of dedicated system memory, and 16340MB of shared system memory, 0 output[s]
+[2022.09.22-17.42.03:332][  0]LogD3D12RHI: Chosen D3D12 Adapter Id = 0
+[2022.09.22-17.42.03:332][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2022.09.22-17.42.03:332][  0]LogDeviceProfileManager: Applying CVar settings loaded from the selected device profile: [WindowsEditor]
+[2022.09.22-17.42.03:332][  0]LogHAL: Display: Platform has ~ 32 GB [34268999680 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2022.09.22-17.42.03:332][  0]LogDeviceProfileManager: Going up to parent DeviceProfile [Windows]
+[2022.09.22-17.42.03:332][  0]LogDeviceProfileManager: Going up to parent DeviceProfile []
+[2022.09.22-17.42.03:333][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2022.09.22-17.42.03:333][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [Engine]
+[2022.09.22-17.42.03:333][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [G:/My Drive/GameProject/Kings Of Paradise/Game Launcher/Saved/Config/WindowsEditor/Editor.ini]
+[2022.09.22-17.42.03:333][  0]LogInit: Computer: DESKTOP-H65RU1C
+[2022.09.22-17.42.03:333][  0]LogInit: User: Newuser
+[2022.09.22-17.42.03:333][  0]LogInit: CPU Page size=4096, Cores=8
+[2022.09.22-17.42.03:333][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2022.09.22-17.42.03:333][  0]LogMemory: Memory total: Physical=31.9GB (32GB approx)
+[2022.09.22-17.42.03:333][  0]LogMemory: Platform Memory Stats for WindowsEditor
+[2022.09.22-17.42.03:333][  0]LogMemory: Process Physical Memory: 283.66 MB used, 292.84 MB peak
+[2022.09.22-17.42.03:333][  0]LogMemory: Process Virtual Memory: 247.47 MB used, 247.47 MB peak
+[2022.09.22-17.42.03:333][  0]LogMemory: Physical Memory: 9197.45 MB used,  23484.02 MB free, 32681.46 MB total
+[2022.09.22-17.42.03:333][  0]LogMemory: Virtual Memory: 12832.39 MB used,  24713.08 MB free, 37545.46 MB total
+[2022.09.22-17.42.03:333][  0]LogCsvProfiler: Display: Metadata set : extradevelopmentmemorymb="0"
+[2022.09.22-17.42.03:338][  0]LogWindows: WindowsPlatformFeatures enabled
+[2022.09.22-17.42.03:353][  0]LogInit: Physics initialised using underlying interface: Chaos
+[2022.09.22-17.42.03:357][  0]LogInit: Using OS detected language (en-GB).
+[2022.09.22-17.42.03:357][  0]LogInit: Using OS detected locale (en-GB).
+[2022.09.22-17.42.03:358][  0]LogTextLocalizationManager: No specific localization for 'en-GB' exists, so 'en' will be used for the language.
+[2022.09.22-17.42.03:489][  0]LogInit: Setting process to per monitor DPI aware
+[2022.09.22-17.42.03:501][  0]LogWindowsTextInputMethodSystem: Available input methods:
+[2022.09.22-17.42.03:501][  0]LogWindowsTextInputMethodSystem:   - English (United Kingdom) - (Keyboard).
+[2022.09.22-17.42.03:502][  0]LogWindowsTextInputMethodSystem: Activated input method: English (United Kingdom) - (Keyboard).
+[2022.09.22-17.42.03:527][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2022.09.22-17.42.03:527][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2022.09.22-17.42.03:626][  0]LogD3D12RHI: InitD3DDevice: -D3DDebug = off -D3D12GPUValidation = off
+[2022.09.22-17.42.03:629][  0]LogD3D12RHI: [Aftermath] Aftermath crash dumping enabled
+[2022.09.22-17.42.03:629][  0]LogD3D12RHI: Emitting draw events for PIX profiling.
+[2022.09.22-17.42.03:684][  0]LogD3D12RHI: [Aftermath] Aftermath enabled and primed
+[2022.09.22-17.42.03:684][  0]LogD3D12RHI: [Aftermath] Aftermath resource tracking enabled
+[2022.09.22-17.42.03:684][  0]LogD3D12RHI: ID3D12Device1 is supported.
+[2022.09.22-17.42.03:684][  0]LogD3D12RHI: ID3D12Device2 is supported.
+[2022.09.22-17.42.03:684][  0]LogD3D12RHI: ID3D12Device3 is supported.
+[2022.09.22-17.42.03:684][  0]LogD3D12RHI: ID3D12Device4 is supported.
+[2022.09.22-17.42.03:684][  0]LogD3D12RHI: ID3D12Device5 is supported.
+[2022.09.22-17.42.03:684][  0]LogD3D12RHI: ID3D12Device6 is supported.
+[2022.09.22-17.42.03:684][  0]LogD3D12RHI: ID3D12Device7 is supported.
+[2022.09.22-17.42.03:684][  0]LogD3D12RHI: D3D12 ray tracing tier 1.0 is supported.
+[2022.09.22-17.42.03:684][  0]LogD3D12RHI: D3D12 ray tracing tier 1.1 is supported.
+[2022.09.22-17.42.03:684][  0]LogD3D12RHI: Mesh shader tier 1.0 is supported
+[2022.09.22-17.42.03:684][  0]LogD3D12RHI: AtomicInt64OnTypedResource is supported
+[2022.09.22-17.42.03:684][  0]LogD3D12RHI: AtomicInt64OnGroupShared is supported
+[2022.09.22-17.42.03:684][  0]LogD3D12RHI: AtomicInt64OnDescriptorHeapResource is supported
+[2022.09.22-17.42.03:684][  0]LogD3D12RHI: Shader Model 6.6 atomic64 is supported
+[2022.09.22-17.42.03:748][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for 3D Queue 0
+[2022.09.22-17.42.03:753][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for Copy Queue 0
+[2022.09.22-17.42.03:769][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for Compute Queue 0
+[2022.09.22-17.42.03:794][  0]LogD3D12RHI: Display: Not using pipeline state disk cache per r.D3D12.PSO.DiskCache=0
+[2022.09.22-17.42.03:794][  0]LogD3D12RHI: Display: Not using driver-optimized pipeline state disk cache per r.D3D12.PSO.DriverOptimizedDiskCache=0
+[2022.09.22-17.42.03:826][  0]LogD3D12RHI:     GPU DeviceId: 0x1e84 (for the marketing name, search the web for "GPU Device Id")
+[2022.09.22-17.42.03:826][  0]LogWindows: Attached monitors:
+[2022.09.22-17.42.03:826][  0]LogWindows:     resolution: 2560x1440, work area: (0, 0) -> (2560, 1392), device: '\\.\DISPLAY1' [PRIMARY]
+[2022.09.22-17.42.03:826][  0]LogWindows:     resolution: 1920x1080, work area: (2560, 0) -> (4480, 1080), device: '\\.\DISPLAY2'
+[2022.09.22-17.42.03:826][  0]LogWindows: Found 2 attached monitors.
+[2022.09.22-17.42.03:826][  0]LogWindows: EnumDisplayDevices:
+[2022.09.22-17.42.03:826][  0]LogWindows:    0. 'NVIDIA GeForce RTX 2070 SUPER' (P:1 D:1), name: '\\.\DISPLAY1'
+[2022.09.22-17.42.03:826][  0]LogWindows:    1. 'NVIDIA GeForce RTX 2070 SUPER' (P:0 D:1), name: '\\.\DISPLAY2'
+[2022.09.22-17.42.03:826][  0]LogWindows:    2. 'NVIDIA GeForce RTX 2070 SUPER' (P:0 D:0), name: '\\.\DISPLAY3'
+[2022.09.22-17.42.03:826][  0]LogWindows:    3. 'NVIDIA GeForce RTX 2070 SUPER' (P:0 D:0), name: '\\.\DISPLAY4'
+[2022.09.22-17.42.03:827][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2022.09.22-17.42.03:827][  0]LogD3D12RHI:     Adapter Name: NVIDIA GeForce RTX 2070 SUPER
+[2022.09.22-17.42.03:827][  0]LogD3D12RHI:   Driver Version: 511.79 (internal:30.0.15.1179, unified:511.79)
+[2022.09.22-17.42.03:827][  0]LogD3D12RHI:      Driver Date: 2-10-2022
+[2022.09.22-17.42.03:827][  0]LogRHI: Texture pool is 4563 MB (70% of 6519 MB)
+[2022.09.22-17.42.03:827][  0]LogD3D12RHI: Async texture creation enabled
+[2022.09.22-17.42.03:827][  0]LogD3D12RHI: RHI has support for 64 bit atomics
+[2022.09.22-17.42.03:838][  0]LogRHI: GeForceNow SDK initialized: 0
+[2022.09.22-17.42.06:680][  0]Message dialog closed, result: Ok, title: WARNING: Known issues with graphics driver, text: The installed version of the NVIDIA graphics driver has known issues in D3D12.
+Please install either the latest or the recommended driver version or switch to a different rendering API.
+
+https://www.nvidia.com/en-us/geforce/drivers/
+
+NVIDIA GeForce RTX 2070 SUPER
+Installed: 511.79
+Recommended: 516.25
+[2022.09.22-17.42.06:687][  0]LogTurnkeySupport: Running Turnkey SDK detection: ' -ScriptsForProject="G:/My Drive/GameProject/Kings Of Paradise/Game Launcher/Dreamscape.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="G:/My Drive/GameProject/Kings Of Paradise/Game Launcher/Intermediate/TurnkeyReport_0.log" -log="G:/My Drive/GameProject/Kings Of Paradise/Game Launcher/Intermediate/TurnkeyLog_0.log" -project="G:/My Drive/GameProject/Kings Of Paradise/Game Launcher/Dreamscape.uproject"  -platform=all'
+[2022.09.22-17.42.06:687][  0]LogMonitoredProcess: Running Serialized UAT: [ cmd.exe /c ""E:/Apps/Unreal Engine 5/UE_5.0/Engine/Build/BatchFiles/RunUAT.bat"  -ScriptsForProject="G:/My Drive/GameProject/Kings Of Paradise/Game Launcher/Dreamscape.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="G:/My Drive/GameProject/Kings Of Paradise/Game Launcher/Intermediate/TurnkeyReport_0.log" -log="G:/My Drive/GameProject/Kings Of Paradise/Game Launcher/Intermediate/TurnkeyLog_0.log" -project="G:/My Drive/GameProject/Kings Of Paradise/Game Launcher/Dreamscape.uproject"  -platform=all" ]
+[2022.09.22-17.42.06:713][  0]LogTextureFormatETC2: Display: ETC2 Texture loading DLL: TextureConverter.dll
+[2022.09.22-17.42.06:721][  0]LogTextureFormatOodle: Display: Oodle Texture TFO init; latest sdk version = 2.9.5
+[2022.09.22-17.42.06:721][  0]LogTextureFormatOodle: Display: Oodle Texture loading DLL: oo2tex_win64_2.9.5.dll
+[2022.09.22-17.42.06:726][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2022.09.22-17.42.06:726][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2022.09.22-17.42.06:726][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2022.09.22-17.42.06:726][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2022.09.22-17.42.06:726][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2022.09.22-17.42.06:726][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2022.09.22-17.42.06:726][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2022.09.22-17.42.06:726][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2022.09.22-17.42.06:726][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2022.09.22-17.42.06:726][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2022.09.22-17.42.06:744][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLens'
+[2022.09.22-17.42.06:744][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLensClient'
+[2022.09.22-17.42.06:748][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2022.09.22-17.42.06:748][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2022.09.22-17.42.06:751][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2022.09.22-17.42.06:751][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxEditor'
+[2022.09.22-17.42.06:751][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2022.09.22-17.42.06:751][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2022.09.22-17.42.06:754][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64'
+[2022.09.22-17.42.06:754][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Server'
+[2022.09.22-17.42.06:754][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Client'
+[2022.09.22-17.42.06:757][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2022.09.22-17.42.06:757][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2022.09.22-17.42.06:763][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2022.09.22-17.42.06:763][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsEditor'
+[2022.09.22-17.42.06:763][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2022.09.22-17.42.06:763][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2022.09.22-17.42.06:763][  0]LogTargetPlatformManager: Display: Building Assets For WindowsEditor
+[2022.09.22-17.42.06:770][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2022.09.22-17.42.06:773][  0]LogTargetPlatformManager: Unable to find audio format BINKA from hinted modules, loading all potential format modules to find it
+[2022.09.22-17.42.06:773][  0]LogTargetPlatformManager: Loaded format module AudioFormatADPCM
+[2022.09.22-17.42.06:773][  0]LogTargetPlatformManager:   ADPCM
+[2022.09.22-17.42.06:773][  0]LogTargetPlatformManager:   PCM
+[2022.09.22-17.42.06:776][  0]LogTargetPlatformManager: Loaded format module AudioFormatBink
+[2022.09.22-17.42.06:776][  0]LogTargetPlatformManager:   BINKA
+[2022.09.22-17.42.06:776][  0]LogTargetPlatformManager: Loaded format module AudioFormatOgg
+[2022.09.22-17.42.06:776][  0]LogTargetPlatformManager:   OGG
+[2022.09.22-17.42.06:776][  0]LogTargetPlatformManager: Loaded format module AudioFormatOpus
+[2022.09.22-17.42.06:776][  0]LogTargetPlatformManager:   OPUS
+[2022.09.22-17.42.06:815][  0]LogTurnkeySupport: Completed SDK detection: ExitCode = 0
+[2022.09.22-17.42.06:815][  0]LogTargetPlatformManager: Unable to find shader format SF_METAL from hinted modules, loading all potential format modules to find it
+[2022.09.22-17.42.06:821][  0]LogTargetPlatformManager: Loaded format module MetalShaderFormat
+[2022.09.22-17.42.06:821][  0]LogTargetPlatformManager:   SF_METAL
+[2022.09.22-17.42.06:821][  0]LogTargetPlatformManager:   SF_METAL_MRT
+[2022.09.22-17.42.06:821][  0]LogTargetPlatformManager:   SF_METAL_TVOS
+[2022.09.22-17.42.06:821][  0]LogTargetPlatformManager:   SF_METAL_MRT_TVOS
+[2022.09.22-17.42.06:821][  0]LogTargetPlatformManager:   SF_METAL_SM5
+[2022.09.22-17.42.06:821][  0]LogTargetPlatformManager:   SF_METAL_MACES3_1
+[2022.09.22-17.42.06:821][  0]LogTargetPlatformManager:   SF_METAL_MRT_MAC
+[2022.09.22-17.42.06:821][  0]LogTargetPlatformManager: Loaded format module ShaderFormatD3D
+[2022.09.22-17.42.06:821][  0]LogTargetPlatformManager:   PCD3D_SM6
+[2022.09.22-17.42.06:821][  0]LogTargetPlatformManager:   PCD3D_SM5
+[2022.09.22-17.42.06:821][  0]LogTargetPlatformManager:   PCD3D_ES31
+[2022.09.22-17.42.06:821][  0]LogTargetPlatformManager:   D3D_ES3_1_HOLOLENS
+[2022.09.22-17.42.06:821][  0]LogTargetPlatformManager: Loaded format module ShaderFormatOpenGL
+[2022.09.22-17.42.06:821][  0]LogTargetPlatformManager:   GLSL_150_ES31
+[2022.09.22-17.42.06:821][  0]LogTargetPlatformManager:   GLSL_ES3_1_ANDROID
+[2022.09.22-17.42.06:824][  0]LogTargetPlatformManager: Loaded format module ShaderFormatVectorVM
+[2022.09.22-17.42.06:824][  0]LogTargetPlatformManager:   VVM_1_0
+[2022.09.22-17.42.06:824][  0]LogTargetPlatformManager: Loaded format module VulkanShaderFormat
+[2022.09.22-17.42.06:824][  0]LogTargetPlatformManager:   SF_VULKAN_SM5
+[2022.09.22-17.42.06:824][  0]LogTargetPlatformManager:   SF_VULKAN_ES31_ANDROID
+[2022.09.22-17.42.06:824][  0]LogTargetPlatformManager:   SF_VULKAN_ES31
+[2022.09.22-17.42.06:824][  0]LogTargetPlatformManager:   SF_VULKAN_SM5_ANDROID
+[2022.09.22-17.42.06:824][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2022.09.22-17.42.06:824][  0]LogShaderCompilers: Display: Compiling shader autogen file: G:/My Drive/GameProject/Kings Of Paradise/Game Launcher/Intermediate/ShaderAutogen/PCD3D_SM5/AutogenShaderHeaders.ush
+[2022.09.22-17.42.06:829][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2022.09.22-17.42.06:830][  0]LogShaderCompilers: Display: Compiling shader autogen file: G:/My Drive/GameProject/Kings Of Paradise/Game Launcher/Intermediate/ShaderAutogen/PCD3D_ES31/AutogenShaderHeaders.ush
+[2022.09.22-17.42.06:834][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2022.09.22-17.42.06:836][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file G:/My Drive/GameProject/Kings Of Paradise/Game Launcher/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2022.09.22-17.42.06:836][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchy Hierarchy.
+[2022.09.22-17.42.06:837][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file G:/My Drive/GameProject/Kings Of Paradise/Game Launcher/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.09.22-17.42.06:837][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchy Hierarchy.
+[2022.09.22-17.42.06:852][  0]LogDerivedDataCache: Display: ../../../Engine/DerivedDataCache/Compressed.ddp: Opened pak cache for reading. (1230 MiB)
+[2022.09.22-17.42.06:852][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.09.22-17.42.06:852][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchy Hierarchy.
+[2022.09.22-17.42.06:861][  0]LogDerivedDataCache: Speed tests for C:/Users/New user/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.01 seconds
+[2022.09.22-17.42.06:861][  0]LogDerivedDataCache: Display: Performance to C:/Users/New user/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.02ms. RandomReadSpeed=1273.20MBs, RandomWriteSpeed=129.82MBs. Assigned SpeedClass 'Local'
+[2022.09.22-17.42.06:861][  0]LogDerivedDataCache: Using Local data cache path C:/Users/New user/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2022.09.22-17.42.06:861][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2022.09.22-17.42.06:862][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchy Hierarchy.
+[2022.09.22-17.42.06:879][  0]LogVirtualization: VirtualizationSystem name found in ini file: None
+[2022.09.22-17.42.06:879][  0]LogVirtualization: FNullVirtualizationSystem mounted, virtualization will be disabled
+[2022.09.22-17.42.06:879][  0]LogShaderCompilers: Guid format shader working directory is -7 characters bigger than the processId version (G:/My Drive/GameProject/Kings Of Paradise/Game Launcher/Intermediate/Shaders/WorkingDirectory/31952/).
+[2022.09.22-17.42.06:879][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/New user/AppData/Local/Temp/UnrealShaderWorkingDir/3131E742415F494FB91E43A9D1502DA9/'.
+[2022.09.22-17.42.06:879][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2022.09.22-17.42.06:879][  0]LogShaderCompilers: Display: Using Local Shader Compiler with 8 workers.
+[2022.09.22-17.42.08:054][  0]LogSlate: Using FreeType 2.10.0
+[2022.09.22-17.42.08:054][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2022.09.22-17.42.08:107][  0]LogAssetRegistry: FAssetRegistry took 0.0204 seconds to start up
+[2022.09.22-17.42.08:111][  0]LogEditorDomain: Display: EditorDomain is Disabled
+[2022.09.22-17.42.08:276][  0]LogSerialization: UsePackageTrailer: 'false'
+[2022.09.22-17.42.08:277][  0]LogTexture: Display: Texture Encode Speed: FinalIfAvailable (editor).
+[2022.09.22-17.42.09:034][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2022.09.22-17.42.09:034][  0]LogDeviceProfileManager: Active device profile: [000007694E505780][0000076945860000 50] WindowsEditor
+[2022.09.22-17.42.09:034][  0]LogDeviceProfileManager: Profiles: [000007694E505940][000007694586A000 50] Windows, [000007694E505780][0000076945860000 50] WindowsEditor, [000007694E502BC0][0000076945865000 50] WindowsServer, [000007694E505240][0000076945862800 50] WindowsClient, [000007694E503100][000007694277A000 50] IOS, [000007694E504D00][00000769468AC800 50] iPadAir2, [000007694E506740][000007694E770000 50] IPadPro, [000007694E506AC0][000007694E772800 50] iPadAir3, [000007694E504980][000007694E777800 50] iPadAir4, [000007694E506C80][000007694E77A000 50] iPadMini4, [000007694E506580][000007694E77C800 50] iPadMini5, [000007694E502840][000007692A725000 50] iPadMini6, [000007694E509A00][000007694E742800 50] iPhone6S, [000007694E509840][000007694E740000 50] iPhone7, [000007694E5094C0][000007694E745000 50] iPodTouch7, [000007694E508F80][000007694E74A000 50] iPhone6SPlus, [000007694E5039C0][000007694E74C800 50] iPhone7Plus, [000007694E504EC0][000007694E775000 50] iPhoneSE, [000007694E507000][000007694E747800 50] iPhone8, [000007694E501DC0][000007694E780000 50] iPhone8Plus, [000007694E504B40][000007694E785000 50] iPhoneX, [000007694E5063C0][000007694E787800 50] iPhoneXS, [000007694E509140][000007694E78A000 50] iPhoneXSMax, [000007694E5047C0][000007694E78C800 50] iPhoneXR, [000007694E5040C0][0000076945867800 50] iPhone11, [000007694E507C40][000007694E760000 50] iPhone11Pro, [000007694E509680][000007694E765000 50] iPhone11ProMax, [000007694E508C00][000007694E767800 50] iPhoneSE2, [000007694E508DC0][000007694E76A000 50] iPhone12Mini, [000007694E509300][000007694E76C800 50] iPhone12, [000007694E508340][000007694E782800 50] iPhone12Pro, [000007694E504280][000007694E7B0000 50] iPhone12ProMax, [000007694E507540][000007694E7B5000 50] iPhone13Mini, [000007694E505080][000007694E7B7800 50] iPhone13, [000007694E502140][000007694E7BA000 50] iPhone13Pro, [000007694E502300][000007694E7BC800 50] iPhone13ProMax, [000007694E506200][000007694E762800 50] iPadPro105, [000007694E508500][000007694E7C0000 50] iPadPro129, [000007694E506040][000007694E7C5000 50] iPadPro97, [000007694E502A00][000007694E7C7800 50] iPadPro2_129, [000007694E503800][000007694E7CA000 50] iPad5, [000007694E509BC0][000007694E7CC800 50] iPad6, [000007694E501500][000007694E7B2800 50] iPad7, [000007694E5071C0][000007694E7D0000 50] iPad8, [000007694E505E80][000007694E7D5000 50] iPad9, [000007694E508180][000007694E7D7800 50] iPadPro11, [000007694E504600][000007694E7DA000 50] iPadPro2_11, [000007694E505CC0][000007694E7DC800 50] iPadPro3_11, [000007694E503480][000007694E7C2800 50] iPadPro3_129, [000007694E504440][000007694E710000 50] iPadPro4_129, [000007694E5086C0][000007694E715000 50] iPadPro5_129, [000007694E507E00][000007694E717800 50] AppleTV, [000007694E508A40][000007694E71A000 50] AppleTV4K, [000007694E503F00][000007694E71C800 50] TVOS, [000007694E50BB40][0000076950020000 50] Mac, [000007694E50BEC0][0000076950022800 50] MacEditor, [000007694E5078C0][0000076950027800 50] MacClient, [000007694E50B7C0][000007695002A000 50] MacServer, [000007694E501180][000007694E7D2800 50] Linux, [000007694E507A80][000007694E712800 50] LinuxEditor, [000007694E507380][000007695002C800 50] LinuxArm64Editor, [000007694E50C080][000007694E7F0000 50] LinuxArm64, [000007694E50C400][000007694E7F5000 50] LinuxClient, [000007694E50B600][000007694E7F7800 50] LinuxArm64Client, [000007694E50B440][000007694E7FA000 50] LinuxServer, [000007694E5032C0][000007694E7FC800 50] LinuxArm64Server, [000007694E50AB80][0000076950025000 50] Android, [000007694E506E40][0000076950010000 50] Android_Preview_OpenGL, [000007694E50A2C0][0000076950015000 50] Android_Preview_Vulkan, [000007694E503B80][0000076950017800 50] Android_Low, [000007694E50A480][000007695001A000 50] Android_Mid, [000007694E50C780][000007695001C800 50] Android_High, [000007694E509D80][000007694E7F2800 50] Android_Default, [000007694E50A800][0000076950030000 50] Android_Adreno4xx, [000007694E50BD00][0000076950035000 50] Android_Adreno5xx_Low, [000007694E50CB00][0000076950037800 50] Android_Adreno5xx, [000007694E505400][000007695003A000 50] Android_Adreno6xx, [000007694E503D40][000007695003C800 50] Android_Adreno6xx_Vulkan, [000007694E509F40][0000076950012800 50] Android_Adreno7xx, [000007694E50A100][0000076950040000 50] Android_Adreno7xx_Vulkan, [000007694E507FC0][0000076950045000 50] Android_Mali_T6xx, [000007694E50A9C0][0000076950047800 50] Android_Mali_T7xx, [000007694E50B980][000007695004A000 50] Android_Mali_T8xx, [000007694E502F40][000007695004C800 50] Android_Mali_G71, [000007694E50B0C0][0000076950032800 50] Android_Mali_G72, [000007694E5024C0][000007694E730000 50] Android_Mali_G72_Vulkan, [000007694E50CCC0][000007694E735000 50] Android_Mali_G76, [000007694E50D3C0][000007694E737800 50] Android_Mali_G76_Vulkan, [000007694E50D040][000007694E73A000 50] Android_Mali_G77, [000007694E50CE80][000007694E73C800 50] Android_Mali_G77_Vulkan, [000007694E501C00][0000076950042800 50] Android_Mali_G78, [000007694E50AF00][0000076950050000 50] Android_Mali_G78_Vulkan, [000007694E50D200][0000076950055000 50] Android_Mali_G710, [000007694E50D580][0000076950057800 50] Android_Mali_G710_Vulkan, [000007694E50C5C0][000007695005A000 50] Android_Xclipse_920, [000007694E50DC80][000007695005C800 50] Android_Xclipse_920_Vulkan, [000007694E50E380][000007694E732800 50] Android_Vulkan_SM5, [000007694E507700][0000076950060000 50] Android_PowerVR_G6xxx, [000007694E50C240][0000076950065000 50] Android_PowerVR_GT7xxx, [000007694E501F80][0000076950067800 50] Android_PowerVR_GE8xxx, [000007694E501340][000007695006A000 50] Android_PowerVR_GM9xxx, [000007694E5055C0][000007695006C800 50] Android_PowerVR_GM9xxx_Vulkan, [000007694E50C940][0000076950052800 50] Android_TegraK1, [000007694E50EC40][0000076950070000 50] Android_Unknown_Vulkan, [000007694E50F340][0000076950075000 50] Oculus_Quest, [000007694E50EFC0][0000076950077800 50] Oculus_Quest2, [000007694E50EE00][000007695007A000 50] HoloLens, 
+[2022.09.22-17.42.09:034][  0]LogCsvProfiler: Display: Metadata set : deviceprofile="WindowsEditor"
+[2022.09.22-17.42.09:065][  0]LogTexture: Display: Oodle Texture Encode Speed settings: Fast: RDO Off Lambda=0, Effort=Normal Final: RDO Off Lambda=0, Effort=Normal
+[2022.09.22-17.42.09:227][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2022.09.22-17.42.09:227][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2022.09.22-17.42.09:227][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2022.09.22-17.42.09:227][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2022.09.22-17.42.09:227][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2022.09.22-17.42.09:241][  0]LogNetVersion: Dreamscape 1.0.0, NetCL: 19505902, EngineNetVer: 23, GameNetVer: 0 (Checksum: 1489301819)
+[2022.09.22-17.42.09:338][  0]LogSlate: Border
+[2022.09.22-17.42.09:338][  0]LogSlate: BreadcrumbButton
+[2022.09.22-17.42.09:338][  0]LogSlate: Default
+[2022.09.22-17.42.09:338][  0]LogSlate: Icons.Save
+[2022.09.22-17.42.09:338][  0]LogSlate: Icons.Toolbar.Settings
+[2022.09.22-17.42.09:338][  0]LogSlate: ListView
+[2022.09.22-17.42.09:338][  0]LogSlate: SoftwareCursor_CardinalCross
+[2022.09.22-17.42.09:338][  0]LogSlate: SoftwareCursor_Grab
+[2022.09.22-17.42.09:338][  0]LogSlate: TableView.DarkRow
+[2022.09.22-17.42.09:338][  0]LogSlate: TableView.Row
+[2022.09.22-17.42.09:338][  0]LogSlate: TreeView
+[2022.09.22-17.42.09:527][  0]SourceControl: Source control is disabled
+[2022.09.22-17.42.09:543][  0]SourceControl: Source control is disabled
+[2022.09.22-17.42.09:543][  0]SourceControl: Source control is disabled
+[2022.09.22-17.42.09:634][  0]LogUObjectArray: 20823 objects as part of root set at end of initial load.
+[2022.09.22-17.42.09:634][  0]LogUObjectAllocator: 5780872 out of 0 bytes used by permanent object pool.
+[2022.09.22-17.42.09:634][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2022.09.22-17.42.09:812][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: 3FB763774D2B9F9906E82BB01712B369 | Instance: F6E1D1B2491B3A8B8264ED8700F54FC2 (DESKTOP-H65RU1C-31952).
+[2022.09.22-17.42.09:992][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2022.09.22-17.42.09:997][  0]LogUdpMessaging: Warning: Invalid UDP Messaging Static Endpoint ':0'
+[2022.09.22-17.42.09:997][  0]LogUdpMessaging: Initializing bridge on interface 25.66.55.253:0 to multicast group 230.0.0.1:6666.
+[2022.09.22-17.42.10:000][  0]LogUdpMessaging: Initializing tunnel on interface 25.67.234.74:0 to multicast group 230.0.0.1:6666.
+[2022.09.22-17.42.10:000][  0]FUdpSocketBuilder: Failed to bind UdpMessageUnicastSocket to 25.67.234.74:0. Error code 21.
+[2022.09.22-17.42.10:000][  0]LogUdpMessaging: Error: UdpMessageTunnel failed to create unicast socket on 25.67.234.74:0
+[2022.09.22-17.42.10:000][  0]FUdpSocketBuilder: Failed to bind UdpMessageMulticastSocket to 25.67.234.74:6666. Error code 21.
+[2022.09.22-17.42.10:000][  0]LogUdpMessaging: Error: UdpMessageTunnel failed to create multicast socket on 25.67.234.74:0, joined to 230.0.0.1:6666
+[2022.09.22-17.42.10:016][  0]LogPython: Using Python 3.9.7
+[2022.09.22-17.42.11:009][  0]SourceControl: Source control is disabled
+[2022.09.22-17.42.11:012][  0]SourceControl: Source control is disabled
+[2022.09.22-17.42.11:015][  0]SourceControl: Source control is disabled
+[2022.09.22-17.42.11:021][  0]LogUProjectInfo: Found projects:
+[2022.09.22-17.42.11:028][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2022.09.22-17.42.11:030][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2022.09.22-17.42.11:030][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2022.09.22-17.42.11:145][  0]LogOpenImageDenoise: OIDN starting up
+[2022.09.22-17.42.11:158][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2022.09.22-17.42.11:181][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.09.22-17.42.11:181][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.09.22-17.42.11:274][  0]LogCollectionManager: Loaded 0 collections in 0.001350 seconds
+[2022.09.22-17.42.11:350][  0]LogFileCache: Scanning file cache for directory 'G:/My Drive/GameProject/Kings Of Paradise/Game Launcher/Saved/Collections/' took 0.00s
+[2022.09.22-17.42.11:350][  0]LogFileCache: Scanning file cache for directory 'G:/My Drive/GameProject/Kings Of Paradise/Game Launcher/Content/Developers/Newuser/Collections/' took 0.00s
+[2022.09.22-17.42.11:350][  0]LogFileCache: Scanning file cache for directory 'G:/My Drive/GameProject/Kings Of Paradise/Game Launcher/Content/Collections/' took 0.00s
+[2022.09.22-17.42.11:601][  0]LogEngine: Initializing Engine...
+[2022.09.22-17.42.11:609][  0]LogStylusInput: Initializing StylusInput subsystem.
+[2022.09.22-17.42.11:610][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.001 s
+[2022.09.22-17.42.11:797][  0]LogInit: Initializing FReadOnlyCVARCache
+[2022.09.22-17.42.11:798][  0]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.09.22-17.42.11:805][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.09.22-17.42.11:821][  0]LogAIModule: Creating AISystem for world Untitled
+[2022.09.22-17.42.11:834][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2022.09.22-17.42.11:848][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2022.09.22-17.42.11:848][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2022.09.22-17.42.11:848][  0]LogAudio: Display: Registering Engine Module Parameter Interfaces...
+[2022.09.22-17.42.11:849][  0]LogAudio: Display: Audio Device Manager Initialized
+[2022.09.22-17.42.11:849][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2022.09.22-17.42.11:849][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.09.22-17.42.11:849][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.09.22-17.42.11:849][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.09.22-17.42.11:849][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.09.22-17.42.11:849][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.09.22-17.42.11:849][  0]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.09.22-17.42.11:849][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.09.22-17.42.11:849][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.09.22-17.42.11:849][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.09.22-17.42.11:849][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.09.22-17.42.11:849][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.09.22-17.42.11:855][  0]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.09.22-17.42.11:894][  0]LogAudioMixer: Display: Using Audio Hardware Device Headphones (4- Astro A50 Game)
+[2022.09.22-17.42.11:894][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.09.22-17.42.11:895][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.09.22-17.42.11:895][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.09.22-17.42.11:896][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=1
+[2022.09.22-17.42.11:896][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2022.09.22-17.42.11:897][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2022.09.22-17.42.11:897][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=1
+[2022.09.22-17.42.11:897][  0]LogInit: FAudioDevice initialized.
+[2022.09.22-17.42.11:897][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2022.09.22-17.42.11:897][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2022.09.22-17.42.11:897][  0]LogInit: Texture streaming: Enabled
+[2022.09.22-17.42.11:918][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 5.0.3-20979098+++UE5+Release-5.0
+[2022.09.22-17.42.11:925][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2022.09.22-17.42.11:938][  0]LogCsvProfiler: Display: Metadata set : largeworldcoordinates="1"
+[2022.09.22-17.42.11:945][  0]LogLiveCoding: Display: Starting LiveCoding
+[2022.09.22-17.42.11:945][  0]LogLiveCoding: Display: LiveCodingConsole Arguments: UnrealEditor Win64 Development
+[2022.09.22-17.42.12:887][  0]LogLiveCoding: Display: First instance in process group "UE_Dreamscape_0xa747e3f7", spawning console
+[2022.09.22-17.42.12:887][  0]LogLiveCoding: Display: Waiting for server
+[2022.09.22-17.42.12:887][  0]LogLiveCoding: Display: Successfully initialized, removing startup thread
+[2022.09.22-17.42.13:249][  0]LogInit: Transaction tracking system initialized
+[2022.09.22-17.42.13:300][  0]BlueprintLog: New page: Editor Load
+[2022.09.22-17.42.13:429][  0]LocalizationService: Localization service is disabled
+[2022.09.22-17.42.13:468][  0]TimingProfiler: Initialize
+[2022.09.22-17.42.13:468][  0]TimingProfiler: OnSessionChanged
+[2022.09.22-17.42.13:468][  0]LoadingProfiler: Initialize
+[2022.09.22-17.42.13:468][  0]LoadingProfiler: OnSessionChanged
+[2022.09.22-17.42.13:468][  0]NetworkingProfiler: Initialize
+[2022.09.22-17.42.13:468][  0]NetworkingProfiler: OnSessionChanged
+[2022.09.22-17.42.13:468][  0]MemoryProfiler: Initialize
+[2022.09.22-17.42.13:468][  0]MemoryProfiler: OnSessionChanged
+[2022.09.22-17.42.13:619][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2022.09.22-17.42.13:619][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2022.09.22-17.42.13:619][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2022.09.22-17.42.14:004][  0]LogFileCache: Scanning file cache for directory 'G:/My Drive/GameProject/Kings Of Paradise/Game Launcher/Content/' took 0.22s
+[2022.09.22-17.42.14:004][  0]LogLevelSequenceEditor: LevelSequenceEditor subsystem initialized.
+[2022.09.22-17.42.14:074][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2022.09.22-17.42.14:075][  0]SourceControl: Source control is disabled
+[2022.09.22-17.42.14:075][  0]LogUnrealEdMisc: Loading editor; pre map load, took 12.391
+[2022.09.22-17.42.14:075][  0]Cmd: MAP LOAD FILE="G:/My Drive/GameProject/Kings Of Paradise/Game Launcher/Content/DreamscapeSeries/DreamscapeMeadows/Maps/KingsOfParadise.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.09.22-17.42.14:082][  0]LightingResults: New page: Lighting Build
+[2022.09.22-17.42.14:086][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2022.09.22-17.42.14:086][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.22-17.42.14:086][  0]MapCheck: New page: Map Check
+[2022.09.22-17.42.14:086][  0]LightingResults: New page: Lighting Build
+[2022.09.22-17.42.14:092][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.09.22-17.42.14:094][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2022.09.22-17.42.22:891][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'KingsOfParadise'.
+[2022.09.22-17.42.22:891][  0]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.09.22-17.42.22:891][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.09.22-17.42.22:891][  0]LogAIModule: Creating AISystem for world KingsOfParadise
+[2022.09.22-17.42.28:592][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.09.22-17.42.28:603][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2022.09.22-17.42.28:604][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.09.22-17.42.28:605][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 1.214ms to complete.
+[2022.09.22-17.42.28:605][  0]LogFileHelpers: Loading map 'KingsOfParadise' took 14.530
+[2022.09.22-17.42.28:614][  0]LogUnrealEdMisc: Total Editor Startup Time, took 26.930
+[2022.09.22-17.42.28:614][  0]LogShaderCompilers: Display: ================================================
+[2022.09.22-17.42.28:614][  0]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.09.22-17.42.28:614][  0]LogShaderCompilers: Display: Total job queries 0, among them cache hits 0 (0.00%)
+[2022.09.22-17.42.28:614][  0]LogShaderCompilers: Display: Tracking 0 distinct input hashes that result in 0 distinct outputs (0.00%)
+[2022.09.22-17.42.28:614][  0]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.00%
+[2022.09.22-17.42.28:614][  0]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2022.09.22-17.42.28:614][  0]LogShaderCompilers: Display: Shaders Compiled: 0
+[2022.09.22-17.42.28:614][  0]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2022.09.22-17.42.28:614][  0]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2022.09.22-17.42.28:614][  0]LogShaderCompilers: Display: ================================================
+[2022.09.22-17.42.29:051][  0]LogSlate: The tab "TopLeftModeTab" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2022.09.22-17.42.29:051][  0]LogSlate: The tab "TopLeftModeTab" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2022.09.22-17.42.29:051][  0]LogSlate: The tab "TopLeftModeTab" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2022.09.22-17.42.29:051][  0]LogSlate: The tab "TopLeftModeTab" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2022.09.22-17.42.29:051][  0]LogSlate: The tab "TopLeftModeTab" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2022.09.22-17.42.29:051][  0]LogSlate: The tab "TopLeftModeTab" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2022.09.22-17.42.29:051][  0]LogSlate: The tab "TopLeftModeTab" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2022.09.22-17.42.29:051][  0]LogSlate: The tab "TopLeftModeTab" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2022.09.22-17.42.29:051][  0]LogSlate: The tab "TopLeftModeTab" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2022.09.22-17.42.29:051][  0]LogSlate: The tab "TopLeftModeTab" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2022.09.22-17.42.29:051][  0]LogSlate: The tab "TopLeftModeTab" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2022.09.22-17.42.29:051][  0]LogSlate: The tab "TopLeftModeTab" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2022.09.22-17.42.29:051][  0]LogSlate: The tab "TopLeftModeTab" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2022.09.22-17.42.29:051][  0]LogSlate: The tab "TopLeftModeTab" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2022.09.22-17.42.29:051][  0]LogSlate: The tab "TopLeftModeTab" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2022.09.22-17.42.29:051][  0]LogSlate: The tab "TopLeftModeTab" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2022.09.22-17.42.29:051][  0]LogSlate: The tab "TopLeftModeTab" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2022.09.22-17.42.29:051][  0]LogSlate: The tab "TopLeftModeTab" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2022.09.22-17.42.29:051][  0]LogSlate: The tab "TopLeftModeTab" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2022.09.22-17.42.29:059][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.22-17.42.29:062][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.22-17.42.29:063][  0]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find Color 'InvertedForeground'.'
+[2022.09.22-17.42.29:071][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.22-17.42.29:076][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.22-17.42.29:088][  0]LogPakFile: Display: Mounted Pak file 'E:/Apps/Unreal Engine 5/UE_5.0/FeaturePacks/StarterContent.upack', mount point: 'root:/'
+[2022.09.22-17.42.29:088][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.09.22-17.42.29:089][  0]LogPakFile: Display: Mounted Pak file 'E:/Apps/Unreal Engine 5/UE_5.0/FeaturePacks/TP_FirstPerson.upack', mount point: 'root:/'
+[2022.09.22-17.42.29:089][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.09.22-17.42.29:090][  0]LogPakFile: Display: Mounted Pak file 'E:/Apps/Unreal Engine 5/UE_5.0/FeaturePacks/TP_FirstPersonBP.upack', mount point: 'root:/'
+[2022.09.22-17.42.29:090][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.09.22-17.42.29:091][  0]LogPakFile: Display: Mounted Pak file 'E:/Apps/Unreal Engine 5/UE_5.0/FeaturePacks/TP_HandheldARBP.upack', mount point: 'root:/'
+[2022.09.22-17.42.29:091][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.09.22-17.42.29:092][  0]LogPakFile: Display: Mounted Pak file 'E:/Apps/Unreal Engine 5/UE_5.0/FeaturePacks/TP_ThirdPerson.upack', mount point: 'root:/'
+[2022.09.22-17.42.29:092][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.09.22-17.42.29:093][  0]LogPakFile: Display: Mounted Pak file 'E:/Apps/Unreal Engine 5/UE_5.0/FeaturePacks/TP_ThirdPersonBP.upack', mount point: 'root:/'
+[2022.09.22-17.42.29:093][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.09.22-17.42.29:094][  0]LogPakFile: Display: Mounted Pak file 'E:/Apps/Unreal Engine 5/UE_5.0/FeaturePacks/TP_TopDown.upack', mount point: 'root:/'
+[2022.09.22-17.42.29:094][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.09.22-17.42.29:094][  0]LogPakFile: Display: Mounted Pak file 'E:/Apps/Unreal Engine 5/UE_5.0/FeaturePacks/TP_TopDownBP.upack', mount point: 'root:/'
+[2022.09.22-17.42.29:094][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.09.22-17.42.29:095][  0]LogPakFile: Display: Mounted Pak file 'E:/Apps/Unreal Engine 5/UE_5.0/FeaturePacks/TP_VehicleAdvBP.upack', mount point: 'root:/'
+[2022.09.22-17.42.29:096][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.09.22-17.42.29:096][  0]LogPakFile: Display: Mounted Pak file 'E:/Apps/Unreal Engine 5/UE_5.0/FeaturePacks/TP_VirtualRealityBP.upack', mount point: 'root:/'
+[2022.09.22-17.42.29:096][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.09.22-17.42.29:097][  0]LogFeaturePack: Error: Error in Feature pack E:/Apps/Unreal Engine 5/UE_5.0/FeaturePacks/TP_VirtualRealityBP.upack. Failed to parse manifest: Invalid Json Token. Line: 43 Ch: 4
+[2022.09.22-17.42.29:227][  0]LogSlate: Took 0.000208 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.09.22-17.42.29:229][  0]LogSlate: Took 0.000186 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2022.09.22-17.42.29:230][  0]LogSlate: Took 0.000120 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2022.09.22-17.42.29:231][  0]LogSlate: Took 0.000114 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2022.09.22-17.42.29:232][  0]LogSlate: Took 0.000090 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2022.09.22-17.42.29:283][  0]LogStall: Startup...
+[2022.09.22-17.42.29:285][  0]LogStall: Startup complete.
+[2022.09.22-17.42.29:292][  0]LogLoad: (Engine Initialization) Total time: 27.61 seconds
+[2022.09.22-17.42.29:292][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2022.09.22-17.42.29:352][  0]LogAssetRegistry: Asset discovery search completed in 21.2464 seconds
+[2022.09.22-17.42.29:366][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000002 seconds (updated 0 objects)
+[2022.09.22-17.42.29:649][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2022.09.22-17.42.29:773][  0]LogViewport: Scene viewport resized to 2038x705, mode Windowed.
+[2022.09.22-17.42.30:601][  2]LogSlate: Took 0.000293 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.09.22-17.42.30:825][  2]LogSlate: Took 0.000204 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.09.22-17.42.37:555][451]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/DreamscapeSeries/DreamscapeMeadows/Meshes/Rocks/SM_RockFormation_05.SM_RockFormation_05
+[2022.09.22-17.42.37:555][451]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/DreamscapeSeries/DreamscapeMeadows/Meshes/Rocks/SM_RockFormation_05.SM_RockFormation_05
+[2022.09.22-17.42.37:564][451]LogActorFactory: Actor Factory spawned StaticMesh /Game/DreamscapeSeries/DreamscapeMeadows/Meshes/Rocks/SM_RockFormation_05.SM_RockFormation_05 as actor: StaticMeshActor /Game/DreamscapeSeries/DreamscapeMeadows/Maps/KingsOfParadise.KingsOfParadise:PersistentLevel.StaticMeshActor_32
+[2022.09.22-17.42.38:011][493]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/DreamscapeSeries/DreamscapeMeadows/Meshes/Rocks/SM_RockFormation_05.SM_RockFormation_05
+[2022.09.22-17.42.38:011][493]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/DreamscapeSeries/DreamscapeMeadows/Meshes/Rocks/SM_RockFormation_05.SM_RockFormation_05
+[2022.09.22-17.42.38:012][493]LogActorFactory: Actor Factory spawned StaticMesh /Game/DreamscapeSeries/DreamscapeMeadows/Meshes/Rocks/SM_RockFormation_05.SM_RockFormation_05 as actor: StaticMeshActor /Game/DreamscapeSeries/DreamscapeMeadows/Maps/KingsOfParadise.KingsOfParadise:PersistentLevel.StaticMeshActor_61
+[2022.09.22-17.42.42:520][895]Cmd: DELETE
+[2022.09.22-17.42.42:520][895]Cmd: ACTOR DELETE
+[2022.09.22-17.42.42:557][895]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.09.22-17.42.42:565][895]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2022.09.22-17.42.42:566][895]LogEditorActor: Deleted 1 Actors (0.045 secs)
+[2022.09.22-17.42.51:485][799]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.09.22-17.42.51:486][799]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.09.22-17.42.52:241][884]LogContentBrowser: Deferred new asset file creation: SM_RockFormation_06
+[2022.09.22-17.42.52:309][884]LogContentBrowser: Creating deferred item: SM_RockFormation_06
+[2022.09.22-17.42.52:317][885]LogContentBrowser: Renaming the item being created (Deferred Item: SM_RockFormation_06).
+[2022.09.22-17.42.53:175][964]LogContentBrowser: Attempting asset rename: SM_RockFormation_06 -> SM_RockFormation_06
+[2022.09.22-17.42.53:197][964]LogContentBrowser: End creating deferred item SM_RockFormation_06
+[2022.09.22-17.42.54:396][ 66]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/DreamscapeSeries/DreamscapeMeadows/Meshes/Rocks/SM_RockFormation_06.SM_RockFormation_06
+[2022.09.22-17.42.54:467][ 66]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.09.22-17.42.54:710][ 66]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Engine/EditorMeshes/AssetViewer/Floor_Mesh) ...
+[2022.09.22-17.42.55:180][ 66]LogViewport: Scene viewport resized to 1217x767, mode Windowed.
+[2022.09.22-17.42.58:289][356]LogSlate: Took 0.000133 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.09.22-17.43.29:249][112]LogSlate: Window 'SM_RockFormation_06' being destroyed
+[2022.09.22-17.43.29:252][112]LogSlate: Window 'SM_RockFormation_06' being destroyed
+[2022.09.22-17.43.29:434][112]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2022.09.22-17.43.29:434][112]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.22-17.43.32:354][386]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/DreamscapeSeries/DreamscapeMeadows/Meshes/Rocks/SM_RockFormation_06.SM_RockFormation_06
+[2022.09.22-17.43.32:354][386]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/DreamscapeSeries/DreamscapeMeadows/Meshes/Rocks/SM_RockFormation_06.SM_RockFormation_06
+[2022.09.22-17.43.32:355][386]LogActorFactory: Actor Factory spawned StaticMesh /Game/DreamscapeSeries/DreamscapeMeadows/Meshes/Rocks/SM_RockFormation_06.SM_RockFormation_06 as actor: StaticMeshActor /Game/DreamscapeSeries/DreamscapeMeadows/Maps/KingsOfParadise.KingsOfParadise:PersistentLevel.StaticMeshActor_113
+[2022.09.22-17.43.32:904][437]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/DreamscapeSeries/DreamscapeMeadows/Meshes/Rocks/SM_RockFormation_06.SM_RockFormation_06
+[2022.09.22-17.43.32:904][437]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/DreamscapeSeries/DreamscapeMeadows/Meshes/Rocks/SM_RockFormation_06.SM_RockFormation_06
+[2022.09.22-17.43.32:905][437]LogActorFactory: Actor Factory spawned StaticMesh /Game/DreamscapeSeries/DreamscapeMeadows/Meshes/Rocks/SM_RockFormation_06.SM_RockFormation_06 as actor: StaticMeshActor /Game/DreamscapeSeries/DreamscapeMeadows/Maps/KingsOfParadise.KingsOfParadise:PersistentLevel.StaticMeshActor_315
+[2022.09.22-17.43.34:405][569]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.09.22-17.43.34:406][569]PIE: New page: PIE session: KingsOfParadise (22 Sep 2022, 19:43:34)
+[2022.09.22-17.43.34:408][569]LogOnline: OSS: Created online subsystem instance for: NULL
+[2022.09.22-17.43.34:408][569]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2022.09.22-17.43.34:409][569]LogPlayLevel: Creating play world package: /Game/DreamscapeSeries/DreamscapeMeadows/Maps/UEDPIE_0_KingsOfParadise
+[2022.09.22-17.43.34:547][569]LogPlayLevel: PIE: StaticDuplicateObject took: (0.138672s)
+[2022.09.22-17.43.34:547][569]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/DreamscapeSeries/DreamscapeMeadows/Maps/KingsOfParadise.KingsOfParadise to /Game/DreamscapeSeries/DreamscapeMeadows/Maps/UEDPIE_0_KingsOfParadise.KingsOfParadise (0.138743s)
+[2022.09.22-17.43.34:547][569]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.09.22-17.43.34:548][569]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.09.22-17.43.34:548][569]LogAIModule: Creating AISystem for world KingsOfParadise
+[2022.09.22-17.43.34:548][569]LogPlayLevel: PIE: World Init took: (0.000763s)
+[2022.09.22-17.43.34:556][569]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2022.09.22-17.43.34:557][569]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2022.09.22-17.43.34:558][569]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.09.22-17.43.34:558][569]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.09.22-17.43.34:558][569]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.09.22-17.43.34:558][569]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.09.22-17.43.34:558][569]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.09.22-17.43.34:558][569]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.09.22-17.43.34:558][569]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.09.22-17.43.34:558][569]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.09.22-17.43.34:558][569]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.09.22-17.43.34:558][569]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.09.22-17.43.34:558][569]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.09.22-17.43.34:560][569]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.09.22-17.43.34:579][569]LogAudioMixer: Display: Using Audio Hardware Device Headphones (4- Astro A50 Game)
+[2022.09.22-17.43.34:579][569]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.09.22-17.43.34:580][569]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.09.22-17.43.34:580][569]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.09.22-17.43.34:580][569]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2022.09.22-17.43.34:580][569]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2022.09.22-17.43.34:581][569]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2022.09.22-17.43.34:581][569]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2022.09.22-17.43.34:581][569]LogInit: FAudioDevice initialized.
+[2022.09.22-17.43.34:581][569]LogAudio: Display: Audio Device (ID: 2) registered with world 'KingsOfParadise'.
+[2022.09.22-17.43.35:254][569]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2022.09.22-17.43.35:276][569]LogWorld: Bringing World /Game/DreamscapeSeries/DreamscapeMeadows/Maps/UEDPIE_0_KingsOfParadise.KingsOfParadise up for play (max tick rate 0) at 2022.09.22-18.43.35
+[2022.09.22-17.43.35:277][569]LogWorld: Bringing up level for play took: 0.022942
+[2022.09.22-17.43.35:278][569]LogOnline: OSS: Created online subsystem instance for: :Context_4
+[2022.09.22-17.43.35:292][569]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2022.09.22-17.43.35:292][569]PIE: Server logged in
+[2022.09.22-17.43.35:293][569]PIE: Play in editor total start time 0.887 seconds.
+[2022.09.22-17.43.39:171][924]LogD3D12RHI: OnlineHeap RollOver Detected. Increase the heap size to prevent creation of additional heaps
+[2022.09.22-17.43.41:329][132]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.22-17.43.41:330][132]LogWorld: BeginTearingDown for /Game/DreamscapeSeries/DreamscapeMeadows/Maps/UEDPIE_0_KingsOfParadise
+[2022.09.22-17.43.41:330][132]LogWorld: UWorld::CleanupWorld for KingsOfParadise, bSessionEnded=true, bCleanupResources=true
+[2022.09.22-17.43.41:332][132]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.22-17.43.41:343][132]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.09.22-17.43.41:345][132]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.22-17.43.41:352][132]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.09.22-17.43.41:353][132]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2022.09.22-17.43.41:354][132]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2022.09.22-17.43.41:357][132]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.22-17.43.41:367][132]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2022.09.22-17.43.41:442][133]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2022.09.22-17.43.55:743][381]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/DreamscapeSeries/DreamscapeMeadows/Meshes/Rocks/SM_RockFormation_06.SM_RockFormation_06
+[2022.09.22-17.43.55:743][381]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/DreamscapeSeries/DreamscapeMeadows/Meshes/Rocks/SM_RockFormation_06.SM_RockFormation_06
+[2022.09.22-17.43.55:744][381]LogActorFactory: Actor Factory spawned StaticMesh /Game/DreamscapeSeries/DreamscapeMeadows/Meshes/Rocks/SM_RockFormation_06.SM_RockFormation_06 as actor: StaticMeshActor /Game/DreamscapeSeries/DreamscapeMeadows/Maps/KingsOfParadise.KingsOfParadise:PersistentLevel.StaticMeshActor_424
+[2022.09.22-17.43.56:280][422]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/DreamscapeSeries/DreamscapeMeadows/Meshes/Rocks/SM_RockFormation_06.SM_RockFormation_06
+[2022.09.22-17.43.56:280][422]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/DreamscapeSeries/DreamscapeMeadows/Meshes/Rocks/SM_RockFormation_06.SM_RockFormation_06
+[2022.09.22-17.43.56:281][422]LogActorFactory: Actor Factory spawned StaticMesh /Game/DreamscapeSeries/DreamscapeMeadows/Meshes/Rocks/SM_RockFormation_06.SM_RockFormation_06 as actor: StaticMeshActor /Game/DreamscapeSeries/DreamscapeMeadows/Maps/KingsOfParadise.KingsOfParadise:PersistentLevel.StaticMeshActor_442
+[2022.09.22-17.44.10:849][614]LogDerivedDataCache: C:/Users/New user/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:03.985 and deleted 0 file(s) with total size 0 MiB.
+[2022.09.22-17.44.23:413][766]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.09.22-17.44.23:413][766]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.09.22-17.44.25:202][939]LogContentBrowser: Deferred new asset file creation: SM_Rock_04
+[2022.09.22-17.44.25:230][939]LogContentBrowser: Creating deferred item: SM_Rock_04
+[2022.09.22-17.44.25:239][940]LogContentBrowser: Renaming the item being created (Deferred Item: SM_Rock_04).
+[2022.09.22-17.44.28:520][250]LogContentBrowser: Attempting asset rename: SM_Rock_04 -> SM_Rock_04
+[2022.09.22-17.44.28:560][250]LogContentBrowser: End creating deferred item SM_Rock_04
+[2022.09.22-17.44.31:360][478]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.09.22-17.44.31:360][478]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.09.22-17.44.33:147][629]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/DreamscapeSeries/DreamscapeMountains/Meshes/Stones/Rocks/SM_Rock_04.SM_Rock_04
+[2022.09.22-17.44.33:179][629]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.09.22-17.44.33:521][629]LogViewport: Scene viewport resized to 1217x767, mode Windowed.
+[2022.09.22-17.44.45:926][495]LogStaticMesh: Display: Building static mesh SM_Rock_04...
+[2022.09.22-17.44.45:926][495]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/DreamscapeSeries/DreamscapeMountains/Meshes/Stones/Rocks/SM_Rock_04) ...
+[2022.09.22-17.44.46:196][495]LogStaticMesh: Built static mesh [0.25s] /Game/DreamscapeSeries/DreamscapeMountains/Meshes/Stones/Rocks/SM_Rock_04.SM_Rock_04
+[2022.09.22-17.45.12:773][319]LogSlate: Window 'SM_Rock_04' being destroyed
+[2022.09.22-17.45.12:778][319]LogSlate: Window 'SM_Rock_04' being destroyed
+[2022.09.22-17.45.12:955][319]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2022.09.22-17.45.12:955][319]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.22-17.45.17:914][781]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/DreamscapeSeries/DreamscapeMountains/Meshes/Stones/Rocks/SM_Rock_04.SM_Rock_04
+[2022.09.22-17.45.17:914][781]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/DreamscapeSeries/DreamscapeMountains/Meshes/Stones/Rocks/SM_Rock_04.SM_Rock_04
+[2022.09.22-17.45.17:915][781]LogActorFactory: Actor Factory spawned StaticMesh /Game/DreamscapeSeries/DreamscapeMountains/Meshes/Stones/Rocks/SM_Rock_04.SM_Rock_04 as actor: StaticMeshActor /Game/DreamscapeSeries/DreamscapeMeadows/Maps/KingsOfParadise.KingsOfParadise:PersistentLevel.StaticMeshActor_463
+[2022.09.22-17.45.19:555][898]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/DreamscapeSeries/DreamscapeMountains/Meshes/Stones/Rocks/SM_Rock_04.SM_Rock_04
+[2022.09.22-17.45.19:555][898]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/DreamscapeSeries/DreamscapeMountains/Meshes/Stones/Rocks/SM_Rock_04.SM_Rock_04
+[2022.09.22-17.45.19:556][898]LogActorFactory: Actor Factory spawned StaticMesh /Game/DreamscapeSeries/DreamscapeMountains/Meshes/Stones/Rocks/SM_Rock_04.SM_Rock_04 as actor: StaticMeshActor /Game/DreamscapeSeries/DreamscapeMeadows/Maps/KingsOfParadise.KingsOfParadise:PersistentLevel.StaticMeshActor_469
+[2022.09.22-17.45.32:055][ 34]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/DreamscapeSeries/DreamscapeMountains/Meshes/Stones/Rocks/SM_Rock_06.SM_Rock_06
+[2022.09.22-17.45.32:055][ 34]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/DreamscapeSeries/DreamscapeMountains/Meshes/Stones/Rocks/SM_Rock_06.SM_Rock_06
+[2022.09.22-17.45.32:056][ 34]LogActorFactory: Actor Factory spawned StaticMesh /Game/DreamscapeSeries/DreamscapeMountains/Meshes/Stones/Rocks/SM_Rock_06.SM_Rock_06 as actor: StaticMeshActor /Game/DreamscapeSeries/DreamscapeMeadows/Maps/KingsOfParadise.KingsOfParadise:PersistentLevel.StaticMeshActor_471
+[2022.09.22-17.45.32:573][ 78]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/DreamscapeSeries/DreamscapeMountains/Meshes/Stones/Rocks/SM_Rock_06.SM_Rock_06
+[2022.09.22-17.45.32:573][ 78]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/DreamscapeSeries/DreamscapeMountains/Meshes/Stones/Rocks/SM_Rock_06.SM_Rock_06
+[2022.09.22-17.45.32:574][ 78]LogActorFactory: Actor Factory spawned StaticMesh /Game/DreamscapeSeries/DreamscapeMountains/Meshes/Stones/Rocks/SM_Rock_06.SM_Rock_06 as actor: StaticMeshActor /Game/DreamscapeSeries/DreamscapeMeadows/Maps/KingsOfParadise.KingsOfParadise:PersistentLevel.StaticMeshActor_478
+[2022.09.22-17.45.33:304][141]Cmd: DELETE
+[2022.09.22-17.45.33:304][141]Cmd: ACTOR DELETE
+[2022.09.22-17.45.33:318][141]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.09.22-17.45.33:327][141]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2022.09.22-17.45.33:330][141]LogEditorActor: Deleted 1 Actors (0.025 secs)
+[2022.09.22-17.45.35:011][293]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/DreamscapeSeries/DreamscapeMountains/Meshes/Stones/Rocks/SM_Rock_09.SM_Rock_09
+[2022.09.22-17.45.35:011][293]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/DreamscapeSeries/DreamscapeMountains/Meshes/Stones/Rocks/SM_Rock_09.SM_Rock_09
+[2022.09.22-17.45.35:011][293]LogActorFactory: Actor Factory spawned StaticMesh /Game/DreamscapeSeries/DreamscapeMountains/Meshes/Stones/Rocks/SM_Rock_09.SM_Rock_09 as actor: StaticMeshActor /Game/DreamscapeSeries/DreamscapeMeadows/Maps/KingsOfParadise.KingsOfParadise:PersistentLevel.StaticMeshActor_484
+[2022.09.22-17.45.36:637][432]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/DreamscapeSeries/DreamscapeMountains/Meshes/Stones/Rocks/SM_Rock_09.SM_Rock_09
+[2022.09.22-17.45.36:637][432]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/DreamscapeSeries/DreamscapeMountains/Meshes/Stones/Rocks/SM_Rock_09.SM_Rock_09
+[2022.09.22-17.45.36:638][432]LogActorFactory: Actor Factory spawned StaticMesh /Game/DreamscapeSeries/DreamscapeMountains/Meshes/Stones/Rocks/SM_Rock_09.SM_Rock_09 as actor: StaticMeshActor /Game/DreamscapeSeries/DreamscapeMeadows/Maps/KingsOfParadise.KingsOfParadise:PersistentLevel.StaticMeshActor_488
+[2022.09.22-17.45.52:472][717]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/DreamscapeSeries/DreamscapeMountains/Meshes/Stones/Rocks/SM_Rock_09.SM_Rock_09
+[2022.09.22-17.45.52:509][717]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.09.22-17.45.52:861][717]LogViewport: Scene viewport resized to 1217x767, mode Windowed.
+[2022.09.22-17.46.01:912][268]LogStaticMesh: Display: Building static mesh SM_Rock_09...
+[2022.09.22-17.46.01:912][268]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/DreamscapeSeries/DreamscapeMountains/Meshes/Stones/Rocks/SM_Rock_09) ...
+[2022.09.22-17.46.02:518][268]LogStaticMesh: Built static mesh [0.58s] /Game/DreamscapeSeries/DreamscapeMountains/Meshes/Stones/Rocks/SM_Rock_09.SM_Rock_09
+[2022.09.22-17.46.03:706][335]LogMeshUtilities: Finished distance field build in 1.2s - 126x126x98 sparse distance field, 1.5Mb total, 0.0Mb always loaded, 54% occupied, 838 triangles, SM_Rock_09
+[2022.09.22-17.46.08:585][638]LogSlate: Window 'SM_Rock_09' being destroyed
+[2022.09.22-17.46.08:589][638]LogSlate: Window 'SM_Rock_09' being destroyed
+[2022.09.22-17.46.08:835][638]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2022.09.22-17.46.08:835][638]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.22-17.46.24:831][ 66]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/DreamscapeSeries/DreamscapeMountains/Meshes/Stones/Rocks/SM_Rock_11.SM_Rock_11
+[2022.09.22-17.46.24:831][ 66]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/DreamscapeSeries/DreamscapeMountains/Meshes/Stones/Rocks/SM_Rock_11.SM_Rock_11
+[2022.09.22-17.46.24:832][ 66]LogActorFactory: Actor Factory spawned StaticMesh /Game/DreamscapeSeries/DreamscapeMountains/Meshes/Stones/Rocks/SM_Rock_11.SM_Rock_11 as actor: StaticMeshActor /Game/DreamscapeSeries/DreamscapeMeadows/Maps/KingsOfParadise.KingsOfParadise:PersistentLevel.StaticMeshActor_496
+[2022.09.22-17.46.26:205][182]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/DreamscapeSeries/DreamscapeMountains/Meshes/Stones/Rocks/SM_Rock_11.SM_Rock_11
+[2022.09.22-17.46.26:205][182]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/DreamscapeSeries/DreamscapeMountains/Meshes/Stones/Rocks/SM_Rock_11.SM_Rock_11
+[2022.09.22-17.46.26:205][182]LogActorFactory: Actor Factory spawned StaticMesh /Game/DreamscapeSeries/DreamscapeMountains/Meshes/Stones/Rocks/SM_Rock_11.SM_Rock_11 as actor: StaticMeshActor /Game/DreamscapeSeries/DreamscapeMeadows/Maps/KingsOfParadise.KingsOfParadise:PersistentLevel.StaticMeshActor_502
+[2022.09.22-17.46.34:156][836]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.09.22-17.46.34:156][836]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.09.22-17.46.35:070][921]LogContentBrowser: Deferred new asset file creation: SM_Rock_15
+[2022.09.22-17.46.35:082][921]LogContentBrowser: Creating deferred item: SM_Rock_15
+[2022.09.22-17.46.35:093][922]LogContentBrowser: Renaming the item being created (Deferred Item: SM_Rock_15).
+[2022.09.22-17.46.49:734][330]LogContentBrowser: Attempting asset rename: SM_Rock_15 -> SM_Rock_15
+[2022.09.22-17.46.49:761][330]LogContentBrowser: End creating deferred item SM_Rock_15
+[2022.09.22-17.46.55:303][815]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.09.22-17.46.55:303][815]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.09.22-17.46.55:533][834]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.09.22-17.46.55:533][834]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.09.22-17.46.56:593][928]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/DreamscapeSeries/DreamscapeMountains/Meshes/Stones/Rocks/SM_Rock_15.SM_Rock_15
+[2022.09.22-17.46.56:625][928]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.09.22-17.46.57:130][928]LogViewport: Scene viewport resized to 1217x767, mode Windowed.
+[2022.09.22-17.47.04:878][432]LogStaticMesh: Display: Building static mesh SM_Rock_15...
+[2022.09.22-17.47.04:878][432]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/DreamscapeSeries/DreamscapeMountains/Meshes/Stones/Rocks/SM_Rock_15) ...
+[2022.09.22-17.47.05:364][432]LogStaticMesh: Built static mesh [0.46s] /Game/DreamscapeSeries/DreamscapeMountains/Meshes/Stones/Rocks/SM_Rock_15.SM_Rock_15
+[2022.09.22-17.47.06:796][519]LogMeshUtilities: Finished distance field build in 1.5s - 126x126x126 sparse distance field, 1.9Mb total, 0.1Mb always loaded, 52% occupied, 691 triangles, SM_Rock_15
+[2022.09.22-17.47.19:393][370]LogSlate: Window 'SM_Rock_15' being destroyed
+[2022.09.22-17.47.19:397][370]LogSlate: Window 'SM_Rock_15' being destroyed
+[2022.09.22-17.47.19:607][370]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2022.09.22-17.47.19:607][370]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.22-17.47.23:878][730]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.09.22-17.47.23:878][730]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.09.22-17.47.24:703][795]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.09.22-17.47.24:703][795]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.09.22-17.47.25:520][871]LogContentBrowser: Deferred new asset file creation: SM_Rock_16
+[2022.09.22-17.47.25:529][871]LogContentBrowser: Creating deferred item: SM_Rock_16
+[2022.09.22-17.47.25:539][872]LogContentBrowser: Renaming the item being created (Deferred Item: SM_Rock_16).
+[2022.09.22-17.47.26:371][952]LogContentBrowser: Attempting asset rename: SM_Rock_16 -> SM_Rock_16
+[2022.09.22-17.47.26:384][952]LogContentBrowser: End creating deferred item SM_Rock_16
+[2022.09.22-17.47.27:462][ 35]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.09.22-17.47.27:462][ 35]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.09.22-17.47.27:962][ 79]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.09.22-17.47.27:962][ 79]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.09.22-17.47.30:059][269]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.09.22-17.47.30:059][269]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.09.22-17.47.37:896][992]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.09.22-17.47.37:896][992]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.09.22-17.47.39:284][123]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.09.22-17.47.39:284][123]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.09.22-17.47.54:714][553]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.09.22-17.47.54:714][553]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.09.22-17.47.56:224][695]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.09.22-17.47.56:224][695]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.09.22-17.49.06:648][352]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.09.22-17.49.06:648][352]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.09.22-17.49.07:178][390]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/DreamscapeSeries/DreamscapeMountains/Meshes/Stones/Rocks/SM_Rock_16.SM_Rock_16
+[2022.09.22-17.49.07:207][390]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.09.22-17.49.07:515][390]LogViewport: Scene viewport resized to 1217x767, mode Windowed.
+[2022.09.22-17.49.38:187][406]LogSlate: Window 'SM_Rock_16' being destroyed
+[2022.09.22-17.49.38:190][406]LogSlate: Window 'SM_Rock_16' being destroyed
+[2022.09.22-17.49.39:258][406]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2022.09.22-17.49.39:258][406]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.22-17.49.41:154][569]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2022.09.22-17.49.42:258][569]LogSlate: Window 'Delete Assets' being destroyed
+[2022.09.22-17.49.42:285][569]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2022.09.22-17.49.42:293][569]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2022.09.22-17.49.42:301][569]LogUObjectHash: Compacting FUObjectHashTables data took   0.19ms
+[2022.09.22-17.49.43:857][694]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/DreamscapeSeries/DreamscapeMountains/Meshes/Stones/Rocks/SM_Rock_14.SM_Rock_14
+[2022.09.22-17.49.43:885][694]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.09.22-17.49.44:411][694]LogViewport: Scene viewport resized to 1217x767, mode Windowed.
+[2022.09.22-17.49.50:123][ 83]LogSlate: Window 'SM_Rock_14' being destroyed
+[2022.09.22-17.49.50:127][ 83]LogSlate: Window 'SM_Rock_14' being destroyed
+[2022.09.22-17.49.50:365][ 83]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2022.09.22-17.49.50:365][ 83]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.22-17.49.53:846][388]Cmd: DELETE
+[2022.09.22-17.49.53:846][388]Cmd: ACTOR DELETE
+[2022.09.22-17.49.53:859][388]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.09.22-17.49.53:867][388]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2022.09.22-17.49.53:869][388]LogEditorActor: Deleted 1 Actors (0.023 secs)
+[2022.09.22-17.49.58:703][823]Cmd: EDIT COPY
+[2022.09.22-17.49.58:894][839]Cmd: EDIT PASTE
+[2022.09.22-17.50.39:229][  1]Cmd: EDIT COPY
+[2022.09.22-17.50.39:398][ 18]Cmd: EDIT PASTE
+[2022.09.22-17.50.44:548][464]Cmd: DELETE
+[2022.09.22-17.50.44:548][464]Cmd: ACTOR DELETE
+[2022.09.22-17.50.44:561][464]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.09.22-17.50.44:568][464]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2022.09.22-17.50.44:571][464]LogEditorActor: Deleted 1 Actors (0.024 secs)
+[2022.09.22-17.50.47:608][718]Cmd: EDIT COPY
+[2022.09.22-17.50.47:791][726]Cmd: EDIT PASTE
+[2022.09.22-17.51.12:613][739]Cmd: DELETE
+[2022.09.22-17.51.12:613][739]Cmd: ACTOR DELETE
+[2022.09.22-17.51.12:626][739]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.09.22-17.51.12:634][739]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2022.09.22-17.51.12:636][739]LogEditorActor: Deleted 1 Actors (0.023 secs)
+[2022.09.22-17.51.24:172][759]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/DreamscapeSeries/DreamscapeTower/Meshes/Stones/Cliffs/SM_Cliff_01.SM_Cliff_01
+[2022.09.22-17.51.24:172][759]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/DreamscapeSeries/DreamscapeTower/Meshes/Stones/Cliffs/SM_Cliff_01.SM_Cliff_01
+[2022.09.22-17.51.24:173][759]LogActorFactory: Actor Factory spawned StaticMesh /Game/DreamscapeSeries/DreamscapeTower/Meshes/Stones/Cliffs/SM_Cliff_01.SM_Cliff_01 as actor: StaticMeshActor /Game/DreamscapeSeries/DreamscapeMeadows/Maps/KingsOfParadise.KingsOfParadise:PersistentLevel.StaticMeshActor_521
+[2022.09.22-17.51.24:636][795]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/DreamscapeSeries/DreamscapeTower/Meshes/Stones/Cliffs/SM_Cliff_01.SM_Cliff_01
+[2022.09.22-17.51.24:636][795]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/DreamscapeSeries/DreamscapeTower/Meshes/Stones/Cliffs/SM_Cliff_01.SM_Cliff_01
+[2022.09.22-17.51.24:637][795]LogActorFactory: Actor Factory spawned StaticMesh /Game/DreamscapeSeries/DreamscapeTower/Meshes/Stones/Cliffs/SM_Cliff_01.SM_Cliff_01 as actor: StaticMeshActor /Game/DreamscapeSeries/DreamscapeMeadows/Maps/KingsOfParadise.KingsOfParadise:PersistentLevel.StaticMeshActor_529
+[2022.09.22-17.51.26:803][977]Cmd: DELETE
+[2022.09.22-17.51.26:803][977]Cmd: ACTOR DELETE
+[2022.09.22-17.51.26:817][977]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.09.22-17.51.26:824][977]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2022.09.22-17.51.26:826][977]LogEditorActor: Deleted 1 Actors (0.023 secs)
+[2022.09.22-17.51.32:930][536]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/DreamscapeSeries/DreamscapeTower/Meshes/Stones/Cliffs/SM_Cliff_06.SM_Cliff_06
+[2022.09.22-17.51.32:930][536]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/DreamscapeSeries/DreamscapeTower/Meshes/Stones/Cliffs/SM_Cliff_06.SM_Cliff_06
+[2022.09.22-17.51.32:930][536]LogActorFactory: Actor Factory spawned StaticMesh /Game/DreamscapeSeries/DreamscapeTower/Meshes/Stones/Cliffs/SM_Cliff_06.SM_Cliff_06 as actor: StaticMeshActor /Game/DreamscapeSeries/DreamscapeMeadows/Maps/KingsOfParadise.KingsOfParadise:PersistentLevel.StaticMeshActor_534
+[2022.09.22-17.51.33:511][588]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/DreamscapeSeries/DreamscapeTower/Meshes/Stones/Cliffs/SM_Cliff_06.SM_Cliff_06
+[2022.09.22-17.51.33:511][588]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/DreamscapeSeries/DreamscapeTower/Meshes/Stones/Cliffs/SM_Cliff_06.SM_Cliff_06
+[2022.09.22-17.51.33:512][588]LogActorFactory: Actor Factory spawned StaticMesh /Game/DreamscapeSeries/DreamscapeTower/Meshes/Stones/Cliffs/SM_Cliff_06.SM_Cliff_06 as actor: StaticMeshActor /Game/DreamscapeSeries/DreamscapeMeadows/Maps/KingsOfParadise.KingsOfParadise:PersistentLevel.StaticMeshActor_539
+[2022.09.22-17.51.33:950][626]Cmd: DELETE
+[2022.09.22-17.51.33:950][626]Cmd: ACTOR DELETE
+[2022.09.22-17.51.33:964][626]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.09.22-17.51.33:971][626]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2022.09.22-17.51.33:972][626]LogEditorActor: Deleted 1 Actors (0.022 secs)
+[2022.09.22-17.51.38:950][ 78]Cmd: EDIT COPY
+[2022.09.22-17.51.39:165][ 98]Cmd: EDIT PASTE
+[2022.09.22-17.51.50:697][ 58]Cmd: DELETE
+[2022.09.22-17.51.50:697][ 58]Cmd: ACTOR DELETE
+[2022.09.22-17.51.50:713][ 58]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.09.22-17.51.50:720][ 58]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2022.09.22-17.51.50:723][ 58]LogEditorActor: Deleted 1 Actors (0.026 secs)
+[2022.09.22-17.51.54:180][373]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/DreamscapeSeries/DreamscapeTower/Meshes/Stones/Cliffs/SM_Cliff_03.SM_Cliff_03
+[2022.09.22-17.51.54:180][373]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/DreamscapeSeries/DreamscapeTower/Meshes/Stones/Cliffs/SM_Cliff_03.SM_Cliff_03
+[2022.09.22-17.51.54:180][373]LogActorFactory: Actor Factory spawned StaticMesh /Game/DreamscapeSeries/DreamscapeTower/Meshes/Stones/Cliffs/SM_Cliff_03.SM_Cliff_03 as actor: StaticMeshActor /Game/DreamscapeSeries/DreamscapeMeadows/Maps/KingsOfParadise.KingsOfParadise:PersistentLevel.StaticMeshActor_543
+[2022.09.22-17.51.56:358][586]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/DreamscapeSeries/DreamscapeTower/Meshes/Stones/Cliffs/SM_Cliff_03.SM_Cliff_03
+[2022.09.22-17.51.56:358][586]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/DreamscapeSeries/DreamscapeTower/Meshes/Stones/Cliffs/SM_Cliff_03.SM_Cliff_03
+[2022.09.22-17.51.56:359][586]LogActorFactory: Actor Factory spawned StaticMesh /Game/DreamscapeSeries/DreamscapeTower/Meshes/Stones/Cliffs/SM_Cliff_03.SM_Cliff_03 as actor: StaticMeshActor /Game/DreamscapeSeries/DreamscapeMeadows/Maps/KingsOfParadise.KingsOfParadise:PersistentLevel.StaticMeshActor_546
+[2022.09.22-17.52.22:715][450]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/DreamscapeSeries/DreamscapeTower/Meshes/Stones/Cliffs/SM_Cliff_08.SM_Cliff_08
+[2022.09.22-17.52.22:715][450]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/DreamscapeSeries/DreamscapeTower/Meshes/Stones/Cliffs/SM_Cliff_08.SM_Cliff_08
+[2022.09.22-17.52.22:715][450]LogActorFactory: Actor Factory spawned StaticMesh /Game/DreamscapeSeries/DreamscapeTower/Meshes/Stones/Cliffs/SM_Cliff_08.SM_Cliff_08 as actor: StaticMeshActor /Game/DreamscapeSeries/DreamscapeMeadows/Maps/KingsOfParadise.KingsOfParadise:PersistentLevel.StaticMeshActor_548
+[2022.09.22-17.52.23:795][546]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/DreamscapeSeries/DreamscapeTower/Meshes/Stones/Cliffs/SM_Cliff_08.SM_Cliff_08
+[2022.09.22-17.52.23:795][546]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/DreamscapeSeries/DreamscapeTower/Meshes/Stones/Cliffs/SM_Cliff_08.SM_Cliff_08
+[2022.09.22-17.52.23:796][546]LogActorFactory: Actor Factory spawned StaticMesh /Game/DreamscapeSeries/DreamscapeTower/Meshes/Stones/Cliffs/SM_Cliff_08.SM_Cliff_08 as actor: StaticMeshActor /Game/DreamscapeSeries/DreamscapeMeadows/Maps/KingsOfParadise.KingsOfParadise:PersistentLevel.StaticMeshActor_550
+[2022.09.22-17.52.36:706][739]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/DreamscapeSeries/DreamscapeTower/Meshes/Stones/Cliffs/SM_Cliff_01.SM_Cliff_01
+[2022.09.22-17.52.36:706][739]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/DreamscapeSeries/DreamscapeTower/Meshes/Stones/Cliffs/SM_Cliff_01.SM_Cliff_01
+[2022.09.22-17.52.36:706][739]LogActorFactory: Actor Factory spawned StaticMesh /Game/DreamscapeSeries/DreamscapeTower/Meshes/Stones/Cliffs/SM_Cliff_01.SM_Cliff_01 as actor: StaticMeshActor /Game/DreamscapeSeries/DreamscapeMeadows/Maps/KingsOfParadise.KingsOfParadise:PersistentLevel.StaticMeshActor_552
+[2022.09.22-17.52.37:588][820]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/DreamscapeSeries/DreamscapeTower/Meshes/Stones/Cliffs/SM_Cliff_01.SM_Cliff_01
+[2022.09.22-17.52.37:588][820]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/DreamscapeSeries/DreamscapeTower/Meshes/Stones/Cliffs/SM_Cliff_01.SM_Cliff_01
+[2022.09.22-17.52.37:589][820]LogActorFactory: Actor Factory spawned StaticMesh /Game/DreamscapeSeries/DreamscapeTower/Meshes/Stones/Cliffs/SM_Cliff_01.SM_Cliff_01 as actor: StaticMeshActor /Game/DreamscapeSeries/DreamscapeMeadows/Maps/KingsOfParadise.KingsOfParadise:PersistentLevel.StaticMeshActor_553
+[2022.09.22-17.52.41:252][159]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/DreamscapeSeries/DreamscapeTower/Meshes/Stones/Cliffs/SM_Cliff_04.SM_Cliff_04
+[2022.09.22-17.52.41:252][159]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/DreamscapeSeries/DreamscapeTower/Meshes/Stones/Cliffs/SM_Cliff_04.SM_Cliff_04
+[2022.09.22-17.52.41:253][159]LogActorFactory: Actor Factory spawned StaticMesh /Game/DreamscapeSeries/DreamscapeTower/Meshes/Stones/Cliffs/SM_Cliff_04.SM_Cliff_04 as actor: StaticMeshActor /Game/DreamscapeSeries/DreamscapeMeadows/Maps/KingsOfParadise.KingsOfParadise:PersistentLevel.StaticMeshActor_557
+[2022.09.22-17.52.41:822][209]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/DreamscapeSeries/DreamscapeTower/Meshes/Stones/Cliffs/SM_Cliff_04.SM_Cliff_04
+[2022.09.22-17.52.41:822][209]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/DreamscapeSeries/DreamscapeTower/Meshes/Stones/Cliffs/SM_Cliff_04.SM_Cliff_04
+[2022.09.22-17.52.41:823][209]LogActorFactory: Actor Factory spawned StaticMesh /Game/DreamscapeSeries/DreamscapeTower/Meshes/Stones/Cliffs/SM_Cliff_04.SM_Cliff_04 as actor: StaticMeshActor /Game/DreamscapeSeries/DreamscapeMeadows/Maps/KingsOfParadise.KingsOfParadise:PersistentLevel.StaticMeshActor_561
+[2022.09.22-17.52.51:505][112]Cmd: EDIT COPY
+[2022.09.22-17.52.52:777][229]Cmd: TRANSACTION UNDO
+[2022.09.22-17.52.52:777][229]LogEditorTransaction: Undo Move Elements
+[2022.09.22-17.52.53:703][286]Cmd: EDIT PASTE
+[2022.09.22-17.52.56:363][513]Cmd: TRANSACTION UNDO
+[2022.09.22-17.52.56:363][513]LogEditorTransaction: Undo Move Elements
+[2022.09.22-17.53.20:890][572]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/DreamscapeSeries/DreamscapeTower/Meshes/Stones/Cliffs/SM_Cliff_05.SM_Cliff_05
+[2022.09.22-17.53.20:890][572]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/DreamscapeSeries/DreamscapeTower/Meshes/Stones/Cliffs/SM_Cliff_05.SM_Cliff_05
+[2022.09.22-17.53.20:890][572]LogActorFactory: Actor Factory spawned StaticMesh /Game/DreamscapeSeries/DreamscapeTower/Meshes/Stones/Cliffs/SM_Cliff_05.SM_Cliff_05 as actor: StaticMeshActor /Game/DreamscapeSeries/DreamscapeMeadows/Maps/KingsOfParadise.KingsOfParadise:PersistentLevel.StaticMeshActor_569
+[2022.09.22-17.53.22:873][730]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/DreamscapeSeries/DreamscapeTower/Meshes/Stones/Cliffs/SM_Cliff_05.SM_Cliff_05
+[2022.09.22-17.53.22:873][730]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/DreamscapeSeries/DreamscapeTower/Meshes/Stones/Cliffs/SM_Cliff_05.SM_Cliff_05
+[2022.09.22-17.53.22:874][730]LogActorFactory: Actor Factory spawned StaticMesh /Game/DreamscapeSeries/DreamscapeTower/Meshes/Stones/Cliffs/SM_Cliff_05.SM_Cliff_05 as actor: StaticMeshActor /Game/DreamscapeSeries/DreamscapeMeadows/Maps/KingsOfParadise.KingsOfParadise:PersistentLevel.StaticMeshActor_573
+[2022.09.22-17.53.27:028][ 83]Cmd: DELETE
+[2022.09.22-17.53.27:028][ 83]Cmd: ACTOR DELETE
+[2022.09.22-17.53.27:043][ 83]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.09.22-17.53.27:050][ 83]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2022.09.22-17.53.27:054][ 83]LogEditorActor: Deleted 1 Actors (0.025 secs)
+[2022.09.22-17.53.28:129][174]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/DreamscapeSeries/DreamscapeTower/Meshes/Stones/Cliffs/SM_Cliff_05.SM_Cliff_05
+[2022.09.22-17.53.28:129][174]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/DreamscapeSeries/DreamscapeTower/Meshes/Stones/Cliffs/SM_Cliff_05.SM_Cliff_05
+[2022.09.22-17.53.28:130][174]LogActorFactory: Actor Factory spawned StaticMesh /Game/DreamscapeSeries/DreamscapeTower/Meshes/Stones/Cliffs/SM_Cliff_05.SM_Cliff_05 as actor: StaticMeshActor /Game/DreamscapeSeries/DreamscapeMeadows/Maps/KingsOfParadise.KingsOfParadise:PersistentLevel.StaticMeshActor_600
+[2022.09.22-17.53.28:464][203]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/DreamscapeSeries/DreamscapeTower/Meshes/Stones/Cliffs/SM_Cliff_05.SM_Cliff_05
+[2022.09.22-17.53.28:464][203]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/DreamscapeSeries/DreamscapeTower/Meshes/Stones/Cliffs/SM_Cliff_05.SM_Cliff_05
+[2022.09.22-17.53.28:465][203]LogActorFactory: Actor Factory spawned StaticMesh /Game/DreamscapeSeries/DreamscapeTower/Meshes/Stones/Cliffs/SM_Cliff_05.SM_Cliff_05 as actor: StaticMeshActor /Game/DreamscapeSeries/DreamscapeMeadows/Maps/KingsOfParadise.KingsOfParadise:PersistentLevel.StaticMeshActor_602
+[2022.09.22-17.53.39:262][141]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.09.22-17.53.39:262][141]PIE: New page: PIE session: KingsOfParadise (22 Sep 2022, 19:53:39)
+[2022.09.22-17.53.39:295][141]LogPlayLevel: Creating play world package: /Game/DreamscapeSeries/DreamscapeMeadows/Maps/UEDPIE_0_KingsOfParadise
+[2022.09.22-17.53.39:401][141]LogPlayLevel: PIE: StaticDuplicateObject took: (0.105844s)
+[2022.09.22-17.53.39:401][141]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/DreamscapeSeries/DreamscapeMeadows/Maps/KingsOfParadise.KingsOfParadise to /Game/DreamscapeSeries/DreamscapeMeadows/Maps/UEDPIE_0_KingsOfParadise.KingsOfParadise (0.105937s)
+[2022.09.22-17.53.39:401][141]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.09.22-17.53.39:401][141]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.09.22-17.53.39:402][141]LogAIModule: Creating AISystem for world KingsOfParadise
+[2022.09.22-17.53.39:402][141]LogPlayLevel: PIE: World Init took: (0.000825s)
+[2022.09.22-17.53.39:410][141]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2022.09.22-17.53.39:412][141]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2022.09.22-17.53.39:412][141]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.09.22-17.53.39:412][141]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.09.22-17.53.39:412][141]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.09.22-17.53.39:412][141]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.09.22-17.53.39:412][141]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.09.22-17.53.39:412][141]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.09.22-17.53.39:412][141]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.09.22-17.53.39:412][141]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.09.22-17.53.39:412][141]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.09.22-17.53.39:412][141]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.09.22-17.53.39:412][141]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.09.22-17.53.39:414][141]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.09.22-17.53.39:434][141]LogAudioMixer: Display: Using Audio Hardware Device Headphones (4- Astro A50 Game)
+[2022.09.22-17.53.39:434][141]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.09.22-17.53.39:434][141]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.09.22-17.53.39:434][141]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.09.22-17.53.39:435][141]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2022.09.22-17.53.39:435][141]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2022.09.22-17.53.39:436][141]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2022.09.22-17.53.39:436][141]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2022.09.22-17.53.39:436][141]LogInit: FAudioDevice initialized.
+[2022.09.22-17.53.39:436][141]LogAudio: Display: Audio Device (ID: 3) registered with world 'KingsOfParadise'.
+[2022.09.22-17.53.39:447][141]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2022.09.22-17.53.39:470][141]LogWorld: Bringing World /Game/DreamscapeSeries/DreamscapeMeadows/Maps/UEDPIE_0_KingsOfParadise.KingsOfParadise up for play (max tick rate 0) at 2022.09.22-18.53.39
+[2022.09.22-17.53.39:470][141]LogWorld: Bringing up level for play took: 0.023393
+[2022.09.22-17.53.39:472][141]LogOnline: OSS: Created online subsystem instance for: :Context_10
+[2022.09.22-17.53.39:509][141]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2022.09.22-17.53.39:509][141]PIE: Server logged in
+[2022.09.22-17.53.39:510][141]PIE: Play in editor total start time 0.248 seconds.
+[2022.09.22-17.53.43:106][473]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.22-17.53.43:106][473]LogWorld: BeginTearingDown for /Game/DreamscapeSeries/DreamscapeMeadows/Maps/UEDPIE_0_KingsOfParadise
+[2022.09.22-17.53.43:106][473]LogWorld: UWorld::CleanupWorld for KingsOfParadise, bSessionEnded=true, bCleanupResources=true
+[2022.09.22-17.53.43:109][473]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.22-17.53.43:119][473]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.09.22-17.53.43:121][473]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.22-17.53.43:131][473]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.09.22-17.53.43:131][473]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2022.09.22-17.53.43:133][473]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2022.09.22-17.53.43:136][473]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.22-17.53.43:142][473]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2022.09.22-17.53.43:221][474]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2022.09.22-17.53.51:006][186]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/DreamscapeSeries/DreamscapeTower/Meshes/Stones/Cliffs/SM_Cliff_05.SM_Cliff_05
+[2022.09.22-17.53.51:006][186]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/DreamscapeSeries/DreamscapeTower/Meshes/Stones/Cliffs/SM_Cliff_05.SM_Cliff_05
+[2022.09.22-17.53.51:006][186]LogActorFactory: Actor Factory spawned StaticMesh /Game/DreamscapeSeries/DreamscapeTower/Meshes/Stones/Cliffs/SM_Cliff_05.SM_Cliff_05 as actor: StaticMeshActor /Game/DreamscapeSeries/DreamscapeMeadows/Maps/KingsOfParadise.KingsOfParadise:PersistentLevel.StaticMeshActor_604
+[2022.09.22-17.53.51:936][270]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/DreamscapeSeries/DreamscapeTower/Meshes/Stones/Cliffs/SM_Cliff_05.SM_Cliff_05
+[2022.09.22-17.53.51:936][270]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/DreamscapeSeries/DreamscapeTower/Meshes/Stones/Cliffs/SM_Cliff_05.SM_Cliff_05
+[2022.09.22-17.53.51:937][270]LogActorFactory: Actor Factory spawned StaticMesh /Game/DreamscapeSeries/DreamscapeTower/Meshes/Stones/Cliffs/SM_Cliff_05.SM_Cliff_05 as actor: StaticMeshActor /Game/DreamscapeSeries/DreamscapeMeadows/Maps/KingsOfParadise.KingsOfParadise:PersistentLevel.StaticMeshActor_606
+[2022.09.22-17.53.52:760][345]Cmd: DELETE
+[2022.09.22-17.53.52:760][345]Cmd: ACTOR DELETE
+[2022.09.22-17.53.52:774][345]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.09.22-17.53.52:782][345]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2022.09.22-17.53.52:784][345]LogEditorActor: Deleted 1 Actors (0.024 secs)
+[2022.09.22-17.53.54:470][502]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/DreamscapeSeries/DreamscapeTower/Meshes/Stones/Cliffs/SM_Cliff_02.SM_Cliff_02
+[2022.09.22-17.53.54:470][502]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/DreamscapeSeries/DreamscapeTower/Meshes/Stones/Cliffs/SM_Cliff_02.SM_Cliff_02
+[2022.09.22-17.53.54:471][502]LogActorFactory: Actor Factory spawned StaticMesh /Game/DreamscapeSeries/DreamscapeTower/Meshes/Stones/Cliffs/SM_Cliff_02.SM_Cliff_02 as actor: StaticMeshActor /Game/DreamscapeSeries/DreamscapeMeadows/Maps/KingsOfParadise.KingsOfParadise:PersistentLevel.StaticMeshActor_610
+[2022.09.22-17.53.54:840][534]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/DreamscapeSeries/DreamscapeTower/Meshes/Stones/Cliffs/SM_Cliff_02.SM_Cliff_02
+[2022.09.22-17.53.54:840][534]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/DreamscapeSeries/DreamscapeTower/Meshes/Stones/Cliffs/SM_Cliff_02.SM_Cliff_02
+[2022.09.22-17.53.54:841][534]LogActorFactory: Actor Factory spawned StaticMesh /Game/DreamscapeSeries/DreamscapeTower/Meshes/Stones/Cliffs/SM_Cliff_02.SM_Cliff_02 as actor: StaticMeshActor /Game/DreamscapeSeries/DreamscapeMeadows/Maps/KingsOfParadise.KingsOfParadise:PersistentLevel.StaticMeshActor_611
+[2022.09.22-17.54.00:654][ 76]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/DreamscapeSeries/DreamscapeTower/Meshes/Stones/Cliffs/SM_Cliff_04.SM_Cliff_04
+[2022.09.22-17.54.00:654][ 76]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/DreamscapeSeries/DreamscapeTower/Meshes/Stones/Cliffs/SM_Cliff_04.SM_Cliff_04
+[2022.09.22-17.54.00:655][ 76]LogActorFactory: Actor Factory spawned StaticMesh /Game/DreamscapeSeries/DreamscapeTower/Meshes/Stones/Cliffs/SM_Cliff_04.SM_Cliff_04 as actor: StaticMeshActor /Game/DreamscapeSeries/DreamscapeMeadows/Maps/KingsOfParadise.KingsOfParadise:PersistentLevel.StaticMeshActor_612
+[2022.09.22-17.54.01:092][113]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/DreamscapeSeries/DreamscapeTower/Meshes/Stones/Cliffs/SM_Cliff_04.SM_Cliff_04
+[2022.09.22-17.54.01:092][113]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/DreamscapeSeries/DreamscapeTower/Meshes/Stones/Cliffs/SM_Cliff_04.SM_Cliff_04
+[2022.09.22-17.54.01:093][113]LogActorFactory: Actor Factory spawned StaticMesh /Game/DreamscapeSeries/DreamscapeTower/Meshes/Stones/Cliffs/SM_Cliff_04.SM_Cliff_04 as actor: StaticMeshActor /Game/DreamscapeSeries/DreamscapeMeadows/Maps/KingsOfParadise.KingsOfParadise:PersistentLevel.StaticMeshActor_616
+[2022.09.22-17.54.15:442][409]Cmd: EDIT COPY
+[2022.09.22-17.54.15:641][428]Cmd: EDIT PASTE
+[2022.09.22-17.54.30:365][711]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.09.22-17.54.30:365][711]PIE: New page: PIE session: KingsOfParadise (22 Sep 2022, 19:54:30)
+[2022.09.22-17.54.30:385][711]LogPlayLevel: Creating play world package: /Game/DreamscapeSeries/DreamscapeMeadows/Maps/UEDPIE_0_KingsOfParadise
+[2022.09.22-17.54.30:491][711]LogPlayLevel: PIE: StaticDuplicateObject took: (0.105118s)
+[2022.09.22-17.54.30:491][711]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/DreamscapeSeries/DreamscapeMeadows/Maps/KingsOfParadise.KingsOfParadise to /Game/DreamscapeSeries/DreamscapeMeadows/Maps/UEDPIE_0_KingsOfParadise.KingsOfParadise (0.105206s)
+[2022.09.22-17.54.30:491][711]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.09.22-17.54.30:491][711]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.09.22-17.54.30:491][711]LogAIModule: Creating AISystem for world KingsOfParadise
+[2022.09.22-17.54.30:492][711]LogPlayLevel: PIE: World Init took: (0.000725s)
+[2022.09.22-17.54.30:500][711]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2022.09.22-17.54.30:503][711]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2022.09.22-17.54.30:503][711]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.09.22-17.54.30:503][711]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.09.22-17.54.30:503][711]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.09.22-17.54.30:503][711]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.09.22-17.54.30:503][711]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.09.22-17.54.30:503][711]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.09.22-17.54.30:503][711]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.09.22-17.54.30:503][711]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.09.22-17.54.30:503][711]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.09.22-17.54.30:503][711]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.09.22-17.54.30:504][711]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.09.22-17.54.30:505][711]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.09.22-17.54.30:524][711]LogAudioMixer: Display: Using Audio Hardware Device Headphones (4- Astro A50 Game)
+[2022.09.22-17.54.30:524][711]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.09.22-17.54.30:524][711]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.09.22-17.54.30:524][711]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.09.22-17.54.30:525][711]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2022.09.22-17.54.30:525][711]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=4
+[2022.09.22-17.54.30:526][711]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2022.09.22-17.54.30:526][711]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2022.09.22-17.54.30:526][711]LogInit: FAudioDevice initialized.
+[2022.09.22-17.54.30:526][711]LogAudio: Display: Audio Device (ID: 4) registered with world 'KingsOfParadise'.
+[2022.09.22-17.54.30:536][711]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2022.09.22-17.54.30:558][711]LogWorld: Bringing World /Game/DreamscapeSeries/DreamscapeMeadows/Maps/UEDPIE_0_KingsOfParadise.KingsOfParadise up for play (max tick rate 0) at 2022.09.22-18.54.30
+[2022.09.22-17.54.30:559][711]LogWorld: Bringing up level for play took: 0.022924
+[2022.09.22-17.54.30:561][711]LogOnline: OSS: Created online subsystem instance for: :Context_11
+[2022.09.22-17.54.30:563][711]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2022.09.22-17.54.30:563][711]PIE: Server logged in
+[2022.09.22-17.54.30:564][711]PIE: Play in editor total start time 0.199 seconds.
+[2022.09.22-17.54.37:675][432]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.22-17.54.37:675][432]LogWorld: BeginTearingDown for /Game/DreamscapeSeries/DreamscapeMeadows/Maps/UEDPIE_0_KingsOfParadise
+[2022.09.22-17.54.37:676][432]LogWorld: UWorld::CleanupWorld for KingsOfParadise, bSessionEnded=true, bCleanupResources=true
+[2022.09.22-17.54.37:678][432]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.22-17.54.37:691][432]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.09.22-17.54.37:693][432]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.22-17.54.37:704][432]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.09.22-17.54.37:704][432]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2022.09.22-17.54.37:705][432]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2022.09.22-17.54.37:708][432]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.22-17.54.37:714][432]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2022.09.22-17.54.37:790][433]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2022.09.22-17.54.41:449][763]Cmd: EDIT COPY
+[2022.09.22-17.54.41:661][782]Cmd: EDIT PASTE
+[2022.09.22-17.55.15:398][797]Cmd: EDIT COPY
+[2022.09.22-17.55.15:648][820]Cmd: EDIT PASTE
+[2022.09.22-17.55.45:948][486]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/DreamscapeSeries/DreamscapeTower/Meshes/Stones/Cliffs/SM_Cliff_06.SM_Cliff_06
+[2022.09.22-17.55.45:948][486]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/DreamscapeSeries/DreamscapeTower/Meshes/Stones/Cliffs/SM_Cliff_06.SM_Cliff_06
+[2022.09.22-17.55.45:948][486]LogActorFactory: Actor Factory spawned StaticMesh /Game/DreamscapeSeries/DreamscapeTower/Meshes/Stones/Cliffs/SM_Cliff_06.SM_Cliff_06 as actor: StaticMeshActor /Game/DreamscapeSeries/DreamscapeMeadows/Maps/KingsOfParadise.KingsOfParadise:PersistentLevel.StaticMeshActor_626
+[2022.09.22-17.55.46:601][540]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/DreamscapeSeries/DreamscapeTower/Meshes/Stones/Cliffs/SM_Cliff_06.SM_Cliff_06
+[2022.09.22-17.55.46:601][540]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/DreamscapeSeries/DreamscapeTower/Meshes/Stones/Cliffs/SM_Cliff_06.SM_Cliff_06
+[2022.09.22-17.55.46:602][540]LogActorFactory: Actor Factory spawned StaticMesh /Game/DreamscapeSeries/DreamscapeTower/Meshes/Stones/Cliffs/SM_Cliff_06.SM_Cliff_06 as actor: StaticMeshActor /Game/DreamscapeSeries/DreamscapeMeadows/Maps/KingsOfParadise.KingsOfParadise:PersistentLevel.StaticMeshActor_627
+[2022.09.22-17.56.22:800][858]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Stylized_Egypt/Meshes/stones/SM_stone_10.SM_stone_10
+[2022.09.22-17.56.22:800][858]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Stylized_Egypt/Meshes/stones/SM_stone_10.SM_stone_10
+[2022.09.22-17.56.22:800][858]LogActorFactory: Actor Factory spawned StaticMesh /Game/Stylized_Egypt/Meshes/stones/SM_stone_10.SM_stone_10 as actor: StaticMeshActor /Game/DreamscapeSeries/DreamscapeMeadows/Maps/KingsOfParadise.KingsOfParadise:PersistentLevel.StaticMeshActor_628
+[2022.09.22-17.56.23:647][935]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Stylized_Egypt/Meshes/stones/SM_stone_10.SM_stone_10
+[2022.09.22-17.56.23:647][935]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Stylized_Egypt/Meshes/stones/SM_stone_10.SM_stone_10
+[2022.09.22-17.56.23:648][935]LogActorFactory: Actor Factory spawned StaticMesh /Game/Stylized_Egypt/Meshes/stones/SM_stone_10.SM_stone_10 as actor: StaticMeshActor /Game/DreamscapeSeries/DreamscapeMeadows/Maps/KingsOfParadise.KingsOfParadise:PersistentLevel.StaticMeshActor_630
+[2022.09.22-17.56.24:619][ 32]Cmd: TRANSACTION UNDO
+[2022.09.22-17.56.24:620][ 32]LogEditorTransaction: Undo Create Actors
+[2022.09.22-17.56.26:190][153]Cmd: MODE ROTGRID=0
+[2022.09.22-17.56.26:942][225]Cmd: MODE ROTGRID=1
+[2022.09.22-17.56.30:578][561]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Stylized_Egypt/Meshes/stones/SM_stone_08.SM_stone_08
+[2022.09.22-17.56.30:578][561]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Stylized_Egypt/Meshes/stones/SM_stone_08.SM_stone_08
+[2022.09.22-17.56.30:579][561]LogActorFactory: Actor Factory spawned StaticMesh /Game/Stylized_Egypt/Meshes/stones/SM_stone_08.SM_stone_08 as actor: StaticMeshActor /Game/DreamscapeSeries/DreamscapeMeadows/Maps/KingsOfParadise.KingsOfParadise:PersistentLevel.StaticMeshActor_639
+[2022.09.22-17.56.31:741][665]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Stylized_Egypt/Meshes/stones/SM_stone_08.SM_stone_08
+[2022.09.22-17.56.31:741][665]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Stylized_Egypt/Meshes/stones/SM_stone_08.SM_stone_08
+[2022.09.22-17.56.31:742][665]LogActorFactory: Actor Factory spawned StaticMesh /Game/Stylized_Egypt/Meshes/stones/SM_stone_08.SM_stone_08 as actor: StaticMeshActor /Game/DreamscapeSeries/DreamscapeMeadows/Maps/KingsOfParadise.KingsOfParadise:PersistentLevel.StaticMeshActor_647
+[2022.09.22-17.56.33:431][810]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Stylized_Egypt/Meshes/stones/Rock.Rock
+[2022.09.22-17.56.33:431][810]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Stylized_Egypt/Meshes/stones/Rock.Rock
+[2022.09.22-17.56.33:432][810]LogActorFactory: Actor Factory spawned StaticMesh /Game/Stylized_Egypt/Meshes/stones/Rock.Rock as actor: StaticMeshActor /Game/DreamscapeSeries/DreamscapeMeadows/Maps/KingsOfParadise.KingsOfParadise:PersistentLevel.StaticMeshActor_651
+[2022.09.22-17.56.36:103][ 51]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Stylized_Egypt/Meshes/stones/Rock.Rock
+[2022.09.22-17.56.36:103][ 51]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Stylized_Egypt/Meshes/stones/Rock.Rock
+[2022.09.22-17.56.36:104][ 51]LogActorFactory: Actor Factory spawned StaticMesh /Game/Stylized_Egypt/Meshes/stones/Rock.Rock as actor: StaticMeshActor /Game/DreamscapeSeries/DreamscapeMeadows/Maps/KingsOfParadise.KingsOfParadise:PersistentLevel.StaticMeshActor_658
+[2022.09.22-17.56.48:084][140]Cmd: DELETE
+[2022.09.22-17.56.48:084][140]Cmd: ACTOR DELETE
+[2022.09.22-17.56.48:099][140]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.09.22-17.56.48:107][140]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2022.09.22-17.56.48:111][140]LogEditorActor: Deleted 1 Actors (0.027 secs)
+[2022.09.22-17.56.50:014][330]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Stylized_Egypt/Meshes/stones/Rock2.Rock2
+[2022.09.22-17.56.50:014][330]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Stylized_Egypt/Meshes/stones/Rock2.Rock2
+[2022.09.22-17.56.50:015][330]LogActorFactory: Actor Factory spawned StaticMesh /Game/Stylized_Egypt/Meshes/stones/Rock2.Rock2 as actor: StaticMeshActor /Game/DreamscapeSeries/DreamscapeMeadows/Maps/KingsOfParadise.KingsOfParadise:PersistentLevel.StaticMeshActor_662
+[2022.09.22-17.56.50:647][392]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Stylized_Egypt/Meshes/stones/Rock2.Rock2
+[2022.09.22-17.56.50:647][392]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Stylized_Egypt/Meshes/stones/Rock2.Rock2
+[2022.09.22-17.56.50:648][392]LogActorFactory: Actor Factory spawned StaticMesh /Game/Stylized_Egypt/Meshes/stones/Rock2.Rock2 as actor: StaticMeshActor /Game/DreamscapeSeries/DreamscapeMeadows/Maps/KingsOfParadise.KingsOfParadise:PersistentLevel.StaticMeshActor_666
+[2022.09.22-17.57.13:237][492]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Stylized_Egypt/Meshes/stones/SM_stone_10.SM_stone_10
+[2022.09.22-17.57.13:237][492]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Stylized_Egypt/Meshes/stones/SM_stone_10.SM_stone_10
+[2022.09.22-17.57.13:238][492]LogActorFactory: Actor Factory spawned StaticMesh /Game/Stylized_Egypt/Meshes/stones/SM_stone_10.SM_stone_10 as actor: StaticMeshActor /Game/DreamscapeSeries/DreamscapeMeadows/Maps/KingsOfParadise.KingsOfParadise:PersistentLevel.StaticMeshActor_674
+[2022.09.22-17.57.14:943][654]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Stylized_Egypt/Meshes/stones/SM_stone_10.SM_stone_10
+[2022.09.22-17.57.14:943][654]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Stylized_Egypt/Meshes/stones/SM_stone_10.SM_stone_10
+[2022.09.22-17.57.14:944][654]LogActorFactory: Actor Factory spawned StaticMesh /Game/Stylized_Egypt/Meshes/stones/SM_stone_10.SM_stone_10 as actor: StaticMeshActor /Game/DreamscapeSeries/DreamscapeMeadows/Maps/KingsOfParadise.KingsOfParadise:PersistentLevel.StaticMeshActor_678
+[2022.09.22-17.57.16:538][793]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Stylized_Egypt/Meshes/stones/SM_stone_11.SM_stone_11
+[2022.09.22-17.57.16:538][793]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Stylized_Egypt/Meshes/stones/SM_stone_11.SM_stone_11
+[2022.09.22-17.57.16:539][793]LogActorFactory: Actor Factory spawned StaticMesh /Game/Stylized_Egypt/Meshes/stones/SM_stone_11.SM_stone_11 as actor: StaticMeshActor /Game/DreamscapeSeries/DreamscapeMeadows/Maps/KingsOfParadise.KingsOfParadise:PersistentLevel.StaticMeshActor_682
+[2022.09.22-17.57.17:949][923]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Stylized_Egypt/Meshes/stones/SM_stone_11.SM_stone_11
+[2022.09.22-17.57.17:949][923]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Stylized_Egypt/Meshes/stones/SM_stone_11.SM_stone_11
+[2022.09.22-17.57.17:950][923]LogActorFactory: Actor Factory spawned StaticMesh /Game/Stylized_Egypt/Meshes/stones/SM_stone_11.SM_stone_11 as actor: StaticMeshActor /Game/DreamscapeSeries/DreamscapeMeadows/Maps/KingsOfParadise.KingsOfParadise:PersistentLevel.StaticMeshActor_684
+[2022.09.22-17.57.18:490][960]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Stylized_Egypt/Meshes/stones/SM_stone_12.SM_stone_12
+[2022.09.22-17.57.18:490][960]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Stylized_Egypt/Meshes/stones/SM_stone_12.SM_stone_12
+[2022.09.22-17.57.18:490][960]LogActorFactory: Actor Factory spawned StaticMesh /Game/Stylized_Egypt/Meshes/stones/SM_stone_12.SM_stone_12 as actor: StaticMeshActor /Game/DreamscapeSeries/DreamscapeMeadows/Maps/KingsOfParadise.KingsOfParadise:PersistentLevel.StaticMeshActor_688
+[2022.09.22-17.57.19:448][ 49]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Stylized_Egypt/Meshes/stones/SM_stone_12.SM_stone_12
+[2022.09.22-17.57.19:448][ 49]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Stylized_Egypt/Meshes/stones/SM_stone_12.SM_stone_12
+[2022.09.22-17.57.19:449][ 49]LogActorFactory: Actor Factory spawned StaticMesh /Game/Stylized_Egypt/Meshes/stones/SM_stone_12.SM_stone_12 as actor: StaticMeshActor /Game/DreamscapeSeries/DreamscapeMeadows/Maps/KingsOfParadise.KingsOfParadise:PersistentLevel.StaticMeshActor_698
+[2022.09.22-17.57.20:834][186]Cmd: DELETE
+[2022.09.22-17.57.20:834][186]Cmd: ACTOR DELETE
+[2022.09.22-17.57.20:848][186]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.09.22-17.57.20:855][186]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2022.09.22-17.57.20:857][186]LogEditorActor: Deleted 1 Actors (0.023 secs)
+[2022.09.22-17.57.22:353][340]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Stylized_Egypt/Meshes/stones/SM_stone_04.SM_stone_04
+[2022.09.22-17.57.22:353][340]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Stylized_Egypt/Meshes/stones/SM_stone_04.SM_stone_04
+[2022.09.22-17.57.22:354][340]LogActorFactory: Actor Factory spawned StaticMesh /Game/Stylized_Egypt/Meshes/stones/SM_stone_04.SM_stone_04 as actor: StaticMeshActor /Game/DreamscapeSeries/DreamscapeMeadows/Maps/KingsOfParadise.KingsOfParadise:PersistentLevel.StaticMeshActor_705
+[2022.09.22-17.57.23:508][458]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Stylized_Egypt/Meshes/stones/SM_stone_04.SM_stone_04
+[2022.09.22-17.57.23:508][458]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Stylized_Egypt/Meshes/stones/SM_stone_04.SM_stone_04
+[2022.09.22-17.57.23:509][458]LogActorFactory: Actor Factory spawned StaticMesh /Game/Stylized_Egypt/Meshes/stones/SM_stone_04.SM_stone_04 as actor: StaticMeshActor /Game/DreamscapeSeries/DreamscapeMeadows/Maps/KingsOfParadise.KingsOfParadise:PersistentLevel.StaticMeshActor_709
+[2022.09.22-17.57.24:179][523]Cmd: DELETE
+[2022.09.22-17.57.24:179][523]Cmd: ACTOR DELETE
+[2022.09.22-17.57.24:193][523]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.09.22-17.57.24:201][523]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2022.09.22-17.57.24:202][523]LogEditorActor: Deleted 1 Actors (0.024 secs)
+[2022.09.22-17.57.25:189][616]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Stylized_Egypt/Meshes/stones/SM_stone_02.SM_stone_02
+[2022.09.22-17.57.25:189][616]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Stylized_Egypt/Meshes/stones/SM_stone_02.SM_stone_02
+[2022.09.22-17.57.25:189][616]LogActorFactory: Actor Factory spawned StaticMesh /Game/Stylized_Egypt/Meshes/stones/SM_stone_02.SM_stone_02 as actor: StaticMeshActor /Game/DreamscapeSeries/DreamscapeMeadows/Maps/KingsOfParadise.KingsOfParadise:PersistentLevel.StaticMeshActor_716
+[2022.09.22-17.57.25:935][692]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Stylized_Egypt/Meshes/stones/SM_stone_02.SM_stone_02
+[2022.09.22-17.57.25:935][692]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Stylized_Egypt/Meshes/stones/SM_stone_02.SM_stone_02
+[2022.09.22-17.57.25:936][692]LogActorFactory: Actor Factory spawned StaticMesh /Game/Stylized_Egypt/Meshes/stones/SM_stone_02.SM_stone_02 as actor: StaticMeshActor /Game/DreamscapeSeries/DreamscapeMeadows/Maps/KingsOfParadise.KingsOfParadise:PersistentLevel.StaticMeshActor_718
+[2022.09.22-17.57.26:623][759]Cmd: DELETE
+[2022.09.22-17.57.26:623][759]Cmd: ACTOR DELETE
+[2022.09.22-17.57.26:637][759]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.09.22-17.57.26:646][759]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2022.09.22-17.57.26:647][759]LogEditorActor: Deleted 1 Actors (0.023 secs)
+[2022.09.22-17.57.31:450][231]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Stylized_Egypt/Meshes/stones/Rock.Rock
+[2022.09.22-17.57.31:450][231]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Stylized_Egypt/Meshes/stones/Rock.Rock
+[2022.09.22-17.57.31:450][231]LogActorFactory: Actor Factory spawned StaticMesh /Game/Stylized_Egypt/Meshes/stones/Rock.Rock as actor: StaticMeshActor /Game/DreamscapeSeries/DreamscapeMeadows/Maps/KingsOfParadise.KingsOfParadise:PersistentLevel.StaticMeshActor_720
+[2022.09.22-17.57.31:839][264]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Stylized_Egypt/Meshes/stones/Rock.Rock
+[2022.09.22-17.57.31:839][264]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Stylized_Egypt/Meshes/stones/Rock.Rock
+[2022.09.22-17.57.31:840][264]LogActorFactory: Actor Factory spawned StaticMesh /Game/Stylized_Egypt/Meshes/stones/Rock.Rock as actor: StaticMeshActor /Game/DreamscapeSeries/DreamscapeMeadows/Maps/KingsOfParadise.KingsOfParadise:PersistentLevel.StaticMeshActor_721
+[2022.09.22-17.57.33:384][408]Cmd: TRANSACTION UNDO
+[2022.09.22-17.57.33:384][408]LogEditorTransaction: Undo Scale Elements
+[2022.09.22-17.57.38:360][839]Cmd: TRANSACTION UNDO
+[2022.09.22-17.57.38:360][839]LogEditorTransaction: Undo Move Elements
+[2022.09.22-17.58.16:160][230]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/DreamscapeSeries/DreamscapeTower/Meshes/Foliage/SM_HazelBush_01_WIP.SM_HazelBush_01_WIP
+[2022.09.22-17.58.16:160][230]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/DreamscapeSeries/DreamscapeTower/Meshes/Foliage/SM_HazelBush_01_WIP.SM_HazelBush_01_WIP
+[2022.09.22-17.58.16:160][230]LogActorFactory: Actor Factory spawned StaticMesh /Game/DreamscapeSeries/DreamscapeTower/Meshes/Foliage/SM_HazelBush_01_WIP.SM_HazelBush_01_WIP as actor: StaticMeshActor /Game/DreamscapeSeries/DreamscapeMeadows/Maps/KingsOfParadise.KingsOfParadise:PersistentLevel.StaticMeshActor_722
+[2022.09.22-17.58.16:664][272]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/DreamscapeSeries/DreamscapeTower/Meshes/Foliage/SM_HazelBush_01_WIP.SM_HazelBush_01_WIP
+[2022.09.22-17.58.16:664][272]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/DreamscapeSeries/DreamscapeTower/Meshes/Foliage/SM_HazelBush_01_WIP.SM_HazelBush_01_WIP
+[2022.09.22-17.58.16:665][272]LogActorFactory: Actor Factory spawned StaticMesh /Game/DreamscapeSeries/DreamscapeTower/Meshes/Foliage/SM_HazelBush_01_WIP.SM_HazelBush_01_WIP as actor: StaticMeshActor /Game/DreamscapeSeries/DreamscapeMeadows/Maps/KingsOfParadise.KingsOfParadise:PersistentLevel.StaticMeshActor_726
+[2022.09.22-17.58.17:327][330]Cmd: DELETE
+[2022.09.22-17.58.17:327][330]Cmd: ACTOR DELETE
+[2022.09.22-17.58.17:343][330]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.09.22-17.58.17:351][330]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2022.09.22-17.58.17:354][330]LogEditorActor: Deleted 1 Actors (0.027 secs)
+[2022.09.22-17.58.23:244][895]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/DreamscapeSeries/DreamscapeTower/Meshes/Foliage/SM_Bush_06_WIP.SM_Bush_06_WIP
+[2022.09.22-17.58.23:244][895]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/DreamscapeSeries/DreamscapeTower/Meshes/Foliage/SM_Bush_06_WIP.SM_Bush_06_WIP
+[2022.09.22-17.58.23:245][895]LogActorFactory: Actor Factory spawned StaticMesh /Game/DreamscapeSeries/DreamscapeTower/Meshes/Foliage/SM_Bush_06_WIP.SM_Bush_06_WIP as actor: StaticMeshActor /Game/DreamscapeSeries/DreamscapeMeadows/Maps/KingsOfParadise.KingsOfParadise:PersistentLevel.StaticMeshActor_730
+[2022.09.22-17.58.24:822][ 48]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/DreamscapeSeries/DreamscapeTower/Meshes/Foliage/SM_Bush_06_WIP.SM_Bush_06_WIP
+[2022.09.22-17.58.24:822][ 48]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/DreamscapeSeries/DreamscapeTower/Meshes/Foliage/SM_Bush_06_WIP.SM_Bush_06_WIP
+[2022.09.22-17.58.24:823][ 48]LogActorFactory: Actor Factory spawned StaticMesh /Game/DreamscapeSeries/DreamscapeTower/Meshes/Foliage/SM_Bush_06_WIP.SM_Bush_06_WIP as actor: StaticMeshActor /Game/DreamscapeSeries/DreamscapeMeadows/Maps/KingsOfParadise.KingsOfParadise:PersistentLevel.StaticMeshActor_734
+[2022.09.22-17.58.25:525][112]Cmd: DELETE
+[2022.09.22-17.58.25:525][112]Cmd: ACTOR DELETE
+[2022.09.22-17.58.25:539][112]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.09.22-17.58.25:546][112]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2022.09.22-17.58.25:549][112]LogEditorActor: Deleted 1 Actors (0.023 secs)
+[2022.09.22-17.58.29:014][451]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/DreamscapeSeries/DreamscapeTower/Meshes/Foliage/SM_Bush_01_WIP.SM_Bush_01_WIP
+[2022.09.22-17.58.29:014][451]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/DreamscapeSeries/DreamscapeTower/Meshes/Foliage/SM_Bush_01_WIP.SM_Bush_01_WIP
+[2022.09.22-17.58.29:015][451]LogActorFactory: Actor Factory spawned StaticMesh /Game/DreamscapeSeries/DreamscapeTower/Meshes/Foliage/SM_Bush_01_WIP.SM_Bush_01_WIP as actor: StaticMeshActor /Game/DreamscapeSeries/DreamscapeMeadows/Maps/KingsOfParadise.KingsOfParadise:PersistentLevel.StaticMeshActor_742
+[2022.09.22-17.58.30:040][546]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/DreamscapeSeries/DreamscapeTower/Meshes/Foliage/SM_Bush_01_WIP.SM_Bush_01_WIP
+[2022.09.22-17.58.30:040][546]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/DreamscapeSeries/DreamscapeTower/Meshes/Foliage/SM_Bush_01_WIP.SM_Bush_01_WIP
+[2022.09.22-17.58.30:041][546]LogActorFactory: Actor Factory spawned StaticMesh /Game/DreamscapeSeries/DreamscapeTower/Meshes/Foliage/SM_Bush_01_WIP.SM_Bush_01_WIP as actor: StaticMeshActor /Game/DreamscapeSeries/DreamscapeMeadows/Maps/KingsOfParadise.KingsOfParadise:PersistentLevel.StaticMeshActor_749
+[2022.09.22-17.58.39:130][437]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/DreamscapeSeries/DreamscapeTower/Meshes/Foliage/SM_Bush_03_WIP.SM_Bush_03_WIP
+[2022.09.22-17.58.39:130][437]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/DreamscapeSeries/DreamscapeTower/Meshes/Foliage/SM_Bush_03_WIP.SM_Bush_03_WIP
+[2022.09.22-17.58.39:131][437]LogActorFactory: Actor Factory spawned StaticMesh /Game/DreamscapeSeries/DreamscapeTower/Meshes/Foliage/SM_Bush_03_WIP.SM_Bush_03_WIP as actor: StaticMeshActor /Game/DreamscapeSeries/DreamscapeMeadows/Maps/KingsOfParadise.KingsOfParadise:PersistentLevel.StaticMeshActor_756
+[2022.09.22-17.58.40:118][528]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/DreamscapeSeries/DreamscapeTower/Meshes/Foliage/SM_Bush_03_WIP.SM_Bush_03_WIP
+[2022.09.22-17.58.40:118][528]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/DreamscapeSeries/DreamscapeTower/Meshes/Foliage/SM_Bush_03_WIP.SM_Bush_03_WIP
+[2022.09.22-17.58.40:120][528]LogActorFactory: Actor Factory spawned StaticMesh /Game/DreamscapeSeries/DreamscapeTower/Meshes/Foliage/SM_Bush_03_WIP.SM_Bush_03_WIP as actor: StaticMeshActor /Game/DreamscapeSeries/DreamscapeMeadows/Maps/KingsOfParadise.KingsOfParadise:PersistentLevel.StaticMeshActor_758
+[2022.09.22-17.58.41:389][631]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/DreamscapeSeries/DreamscapeTower/Meshes/Foliage/SM_Bush_01_WIP.SM_Bush_01_WIP
+[2022.09.22-17.58.41:389][631]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/DreamscapeSeries/DreamscapeTower/Meshes/Foliage/SM_Bush_01_WIP.SM_Bush_01_WIP
+[2022.09.22-17.58.41:390][631]LogActorFactory: Actor Factory spawned StaticMesh /Game/DreamscapeSeries/DreamscapeTower/Meshes/Foliage/SM_Bush_01_WIP.SM_Bush_01_WIP as actor: StaticMeshActor /Game/DreamscapeSeries/DreamscapeMeadows/Maps/KingsOfParadise.KingsOfParadise:PersistentLevel.StaticMeshActor_761
+[2022.09.22-17.58.43:512][824]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/DreamscapeSeries/DreamscapeTower/Meshes/Foliage/SM_Bush_01_WIP.SM_Bush_01_WIP
+[2022.09.22-17.58.43:512][824]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/DreamscapeSeries/DreamscapeTower/Meshes/Foliage/SM_Bush_01_WIP.SM_Bush_01_WIP
+[2022.09.22-17.58.43:513][824]LogActorFactory: Actor Factory spawned StaticMesh /Game/DreamscapeSeries/DreamscapeTower/Meshes/Foliage/SM_Bush_01_WIP.SM_Bush_01_WIP as actor: StaticMeshActor /Game/DreamscapeSeries/DreamscapeMeadows/Maps/KingsOfParadise.KingsOfParadise:PersistentLevel.StaticMeshActor_766
+[2022.09.22-17.58.47:394][182]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/DreamscapeSeries/DreamscapeTower/Meshes/Foliage/SM_Bush_03_WIP.SM_Bush_03_WIP
+[2022.09.22-17.58.47:394][182]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/DreamscapeSeries/DreamscapeTower/Meshes/Foliage/SM_Bush_03_WIP.SM_Bush_03_WIP
+[2022.09.22-17.58.47:394][182]LogActorFactory: Actor Factory spawned StaticMesh /Game/DreamscapeSeries/DreamscapeTower/Meshes/Foliage/SM_Bush_03_WIP.SM_Bush_03_WIP as actor: StaticMeshActor /Game/DreamscapeSeries/DreamscapeMeadows/Maps/KingsOfParadise.KingsOfParadise:PersistentLevel.StaticMeshActor_780
+[2022.09.22-17.58.48:288][266]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/DreamscapeSeries/DreamscapeTower/Meshes/Foliage/SM_Bush_03_WIP.SM_Bush_03_WIP
+[2022.09.22-17.58.48:288][266]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/DreamscapeSeries/DreamscapeTower/Meshes/Foliage/SM_Bush_03_WIP.SM_Bush_03_WIP
+[2022.09.22-17.58.48:289][266]LogActorFactory: Actor Factory spawned StaticMesh /Game/DreamscapeSeries/DreamscapeTower/Meshes/Foliage/SM_Bush_03_WIP.SM_Bush_03_WIP as actor: StaticMeshActor /Game/DreamscapeSeries/DreamscapeMeadows/Maps/KingsOfParadise.KingsOfParadise:PersistentLevel.StaticMeshActor_782
+[2022.09.22-17.58.49:929][421]Cmd: DELETE
+[2022.09.22-17.58.49:929][421]Cmd: ACTOR DELETE
+[2022.09.22-17.58.49:943][421]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.09.22-17.58.49:953][421]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2022.09.22-17.58.49:956][421]LogEditorActor: Deleted 1 Actors (0.026 secs)
+[2022.09.22-17.58.51:218][543]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/DreamscapeSeries/DreamscapeTower/Meshes/Foliage/SM_Bush_03_WIP.SM_Bush_03_WIP
+[2022.09.22-17.58.51:218][543]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/DreamscapeSeries/DreamscapeTower/Meshes/Foliage/SM_Bush_03_WIP.SM_Bush_03_WIP
+[2022.09.22-17.58.51:218][543]LogActorFactory: Actor Factory spawned StaticMesh /Game/DreamscapeSeries/DreamscapeTower/Meshes/Foliage/SM_Bush_03_WIP.SM_Bush_03_WIP as actor: StaticMeshActor /Game/DreamscapeSeries/DreamscapeMeadows/Maps/KingsOfParadise.KingsOfParadise:PersistentLevel.StaticMeshActor_784
+[2022.09.22-17.58.53:165][735]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/DreamscapeSeries/DreamscapeTower/Meshes/Foliage/SM_Bush_03_WIP.SM_Bush_03_WIP
+[2022.09.22-17.58.53:165][735]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/DreamscapeSeries/DreamscapeTower/Meshes/Foliage/SM_Bush_03_WIP.SM_Bush_03_WIP
+[2022.09.22-17.58.53:166][735]LogActorFactory: Actor Factory spawned StaticMesh /Game/DreamscapeSeries/DreamscapeTower/Meshes/Foliage/SM_Bush_03_WIP.SM_Bush_03_WIP as actor: StaticMeshActor /Game/DreamscapeSeries/DreamscapeMeadows/Maps/KingsOfParadise.KingsOfParadise:PersistentLevel.StaticMeshActor_785
+[2022.09.22-17.59.04:153][750]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/DreamscapeSeries/DreamscapeTower/Meshes/Foliage/SM_Grass_Medium.SM_Grass_Medium
+[2022.09.22-17.59.04:153][750]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/DreamscapeSeries/DreamscapeTower/Meshes/Foliage/SM_Grass_Medium.SM_Grass_Medium
+[2022.09.22-17.59.04:154][750]LogActorFactory: Actor Factory spawned StaticMesh /Game/DreamscapeSeries/DreamscapeTower/Meshes/Foliage/SM_Grass_Medium.SM_Grass_Medium as actor: StaticMeshActor /Game/DreamscapeSeries/DreamscapeMeadows/Maps/KingsOfParadise.KingsOfParadise:PersistentLevel.StaticMeshActor_786
+[2022.09.22-17.59.06:458][967]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/DreamscapeSeries/DreamscapeTower/Meshes/Foliage/SM_Grass_Medium.SM_Grass_Medium
+[2022.09.22-17.59.06:458][967]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/DreamscapeSeries/DreamscapeTower/Meshes/Foliage/SM_Grass_Medium.SM_Grass_Medium
+[2022.09.22-17.59.06:459][967]LogActorFactory: Actor Factory spawned StaticMesh /Game/DreamscapeSeries/DreamscapeTower/Meshes/Foliage/SM_Grass_Medium.SM_Grass_Medium as actor: StaticMeshActor /Game/DreamscapeSeries/DreamscapeMeadows/Maps/KingsOfParadise.KingsOfParadise:PersistentLevel.StaticMeshActor_788
+[2022.09.22-17.59.28:696][946]LogViewport: Scene viewport resized to 1564x705, mode Windowed.
+[2022.09.22-17.59.31:436][168]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/DreamscapeSeries/DreamscapeTower/Meshes/Foliage/SM_Grass_SmallGroup.SM_Grass_SmallGroup
+[2022.09.22-17.59.31:436][168]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/DreamscapeSeries/DreamscapeTower/Meshes/Foliage/SM_Grass_SmallGroup.SM_Grass_SmallGroup
+[2022.09.22-17.59.31:437][168]LogActorFactory: Actor Factory spawned StaticMesh /Game/DreamscapeSeries/DreamscapeTower/Meshes/Foliage/SM_Grass_SmallGroup.SM_Grass_SmallGroup as actor: StaticMeshActor /Game/DreamscapeSeries/DreamscapeMeadows/Maps/KingsOfParadise.KingsOfParadise:PersistentLevel.StaticMeshActor_790
+[2022.09.22-17.59.32:751][279]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/DreamscapeSeries/DreamscapeTower/Meshes/Foliage/SM_Grass_Small.SM_Grass_Small
+[2022.09.22-17.59.32:751][279]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/DreamscapeSeries/DreamscapeTower/Meshes/Foliage/SM_Grass_Small.SM_Grass_Small
+[2022.09.22-17.59.32:752][279]LogActorFactory: Actor Factory spawned StaticMesh /Game/DreamscapeSeries/DreamscapeTower/Meshes/Foliage/SM_Grass_Small.SM_Grass_Small as actor: StaticMeshActor /Game/DreamscapeSeries/DreamscapeMeadows/Maps/KingsOfParadise.KingsOfParadise:PersistentLevel.StaticMeshActor_793
+[2022.09.22-17.59.43:053][313]Cmd: TRANSACTION UNDO
+[2022.09.22-17.59.43:053][313]LogEditorTransaction: Undo Drag-drop Foliage
+[2022.09.22-17.59.43:976][368]Cmd: TRANSACTION UNDO
+[2022.09.22-17.59.43:976][368]LogEditorTransaction: Undo Drag-drop Foliage
+[2022.09.22-17.59.53:104][161]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/DreamscapeSeries/DreamscapeTower/Meshes/Foliage/SM_Grass_Large.SM_Grass_Large
+[2022.09.22-17.59.53:104][161]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/DreamscapeSeries/DreamscapeTower/Meshes/Foliage/SM_Grass_Large.SM_Grass_Large
+[2022.09.22-17.59.53:104][161]LogActorFactory: Actor Factory spawned StaticMesh /Game/DreamscapeSeries/DreamscapeTower/Meshes/Foliage/SM_Grass_Large.SM_Grass_Large as actor: StaticMeshActor /Game/DreamscapeSeries/DreamscapeMeadows/Maps/KingsOfParadise.KingsOfParadise:PersistentLevel.StaticMeshActor_794
+[2022.09.22-18.00.00:409][898]Cmd: TRANSACTION UNDO
+[2022.09.22-18.00.00:409][898]LogEditorTransaction: Undo Foliage Editing
+[2022.09.22-18.00.02:103][ 31]Cmd: TRANSACTION UNDO
+[2022.09.22-18.00.02:103][ 31]LogEditorTransaction: Undo Foliage Editing
+[2022.09.22-18.00.04:544][211]Cmd: TRANSACTION UNDO
+[2022.09.22-18.00.04:544][211]LogEditorTransaction: Undo Foliage Editing
+[2022.09.22-18.00.06:356][387]Cmd: TRANSACTION UNDO
+[2022.09.22-18.00.06:356][387]LogEditorTransaction: Undo Foliage Editing
+[2022.09.22-18.00.09:625][710]Cmd: TRANSACTION UNDO
+[2022.09.22-18.00.09:625][710]LogEditorTransaction: Undo Foliage Editing
+[2022.09.22-18.00.12:396][920]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/DreamscapeSeries/DreamscapeTower/Meshes/Foliage/SM_Grass_SmallGroup.SM_Grass_SmallGroup
+[2022.09.22-18.00.12:396][920]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/DreamscapeSeries/DreamscapeTower/Meshes/Foliage/SM_Grass_SmallGroup.SM_Grass_SmallGroup
+[2022.09.22-18.00.12:396][920]LogActorFactory: Actor Factory spawned StaticMesh /Game/DreamscapeSeries/DreamscapeTower/Meshes/Foliage/SM_Grass_SmallGroup.SM_Grass_SmallGroup as actor: StaticMeshActor /Game/DreamscapeSeries/DreamscapeMeadows/Maps/KingsOfParadise.KingsOfParadise:PersistentLevel.StaticMeshActor_796
+[2022.09.22-18.00.13:571][ 20]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/DreamscapeSeries/DreamscapeTower/Meshes/Foliage/SM_Grass_Small.SM_Grass_Small
+[2022.09.22-18.00.13:571][ 20]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/DreamscapeSeries/DreamscapeTower/Meshes/Foliage/SM_Grass_Small.SM_Grass_Small
+[2022.09.22-18.00.13:572][ 20]LogActorFactory: Actor Factory spawned StaticMesh /Game/DreamscapeSeries/DreamscapeTower/Meshes/Foliage/SM_Grass_Small.SM_Grass_Small as actor: StaticMeshActor /Game/DreamscapeSeries/DreamscapeMeadows/Maps/KingsOfParadise.KingsOfParadise:PersistentLevel.StaticMeshActor_798
+[2022.09.22-18.00.21:077][689]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/DreamscapeSeries/DreamscapeTower/Meshes/Foliage/SM_Wheat_01.SM_Wheat_01
+[2022.09.22-18.00.21:077][689]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/DreamscapeSeries/DreamscapeTower/Meshes/Foliage/SM_Wheat_01.SM_Wheat_01
+[2022.09.22-18.00.21:077][689]LogActorFactory: Actor Factory spawned StaticMesh /Game/DreamscapeSeries/DreamscapeTower/Meshes/Foliage/SM_Wheat_01.SM_Wheat_01 as actor: StaticMeshActor /Game/DreamscapeSeries/DreamscapeMeadows/Maps/KingsOfParadise.KingsOfParadise:PersistentLevel.StaticMeshActor_800
+[2022.09.22-18.00.22:810][833]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/DreamscapeSeries/DreamscapeTower/Meshes/Foliage/SM_WheatGrass.SM_WheatGrass
+[2022.09.22-18.00.22:810][833]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/DreamscapeSeries/DreamscapeTower/Meshes/Foliage/SM_WheatGrass.SM_WheatGrass
+[2022.09.22-18.00.22:811][833]LogActorFactory: Actor Factory spawned StaticMesh /Game/DreamscapeSeries/DreamscapeTower/Meshes/Foliage/SM_WheatGrass.SM_WheatGrass as actor: StaticMeshActor /Game/DreamscapeSeries/DreamscapeMeadows/Maps/KingsOfParadise.KingsOfParadise:PersistentLevel.StaticMeshActor_801
+[2022.09.22-18.00.28:136][267]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/DreamscapeSeries/DreamscapeTower/Meshes/Foliage/SM_Flower_01.SM_Flower_01
+[2022.09.22-18.00.28:136][267]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/DreamscapeSeries/DreamscapeTower/Meshes/Foliage/SM_Flower_01.SM_Flower_01
+[2022.09.22-18.00.28:136][267]LogActorFactory: Actor Factory spawned StaticMesh /Game/DreamscapeSeries/DreamscapeTower/Meshes/Foliage/SM_Flower_01.SM_Flower_01 as actor: StaticMeshActor /Game/DreamscapeSeries/DreamscapeMeadows/Maps/KingsOfParadise.KingsOfParadise:PersistentLevel.StaticMeshActor_802
+[2022.09.22-18.00.32:659][720]Cmd: TRANSACTION UNDO
+[2022.09.22-18.00.32:659][720]LogEditorTransaction: Undo Foliage Editing
+[2022.09.22-18.00.35:204][926]Cmd: TRANSACTION UNDO
+[2022.09.22-18.00.35:204][926]LogEditorTransaction: Undo Foliage Editing
+[2022.09.22-18.00.38:773][250]Cmd: TRANSACTION UNDO
+[2022.09.22-18.00.38:773][250]LogEditorTransaction: Undo Foliage Editing
+[2022.09.22-18.00.41:311][420]Cmd: TRANSACTION UNDO
+[2022.09.22-18.00.41:311][420]LogEditorTransaction: Undo Foliage Editing
+[2022.09.22-18.00.42:532][505]Cmd: TRANSACTION UNDO
+[2022.09.22-18.00.42:532][505]LogEditorTransaction: Undo Foliage Editing
+[2022.09.22-18.00.54:169][590]Cmd: TRANSACTION UNDO
+[2022.09.22-18.00.54:169][590]LogEditorTransaction: Undo Foliage Editing
+[2022.09.22-18.00.57:081][840]Cmd: TRANSACTION UNDO
+[2022.09.22-18.00.57:081][840]LogEditorTransaction: Undo Foliage Editing
+[2022.09.22-18.01.00:524][180]Cmd: TRANSACTION UNDO
+[2022.09.22-18.01.00:524][180]LogEditorTransaction: Undo Foliage Editing
+[2022.09.22-18.01.04:113][444]Cmd: TRANSACTION UNDO
+[2022.09.22-18.01.04:113][444]LogEditorTransaction: Undo Foliage Editing
+[2022.09.22-18.01.18:183][632]Cmd: TRANSACTION UNDO
+[2022.09.22-18.01.18:183][632]LogEditorTransaction: Undo Foliage Editing
+[2022.09.22-18.01.42:039][679]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/DreamscapeSeries/DreamscapeTower/Meshes/Foliage/SM_Vines_Wide_02.SM_Vines_Wide_02
+[2022.09.22-18.01.42:039][679]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/DreamscapeSeries/DreamscapeTower/Meshes/Foliage/SM_Vines_Wide_02.SM_Vines_Wide_02
+[2022.09.22-18.01.42:040][679]LogActorFactory: Actor Factory spawned StaticMesh /Game/DreamscapeSeries/DreamscapeTower/Meshes/Foliage/SM_Vines_Wide_02.SM_Vines_Wide_02 as actor: StaticMeshActor /Game/DreamscapeSeries/DreamscapeMeadows/Maps/KingsOfParadise.KingsOfParadise:PersistentLevel.StaticMeshActor_803
+[2022.09.22-18.01.42:528][725]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/DreamscapeSeries/DreamscapeTower/Meshes/Foliage/SM_Vines_Wide_02.SM_Vines_Wide_02
+[2022.09.22-18.01.42:528][725]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/DreamscapeSeries/DreamscapeTower/Meshes/Foliage/SM_Vines_Wide_02.SM_Vines_Wide_02
+[2022.09.22-18.01.42:529][725]LogActorFactory: Actor Factory spawned StaticMesh /Game/DreamscapeSeries/DreamscapeTower/Meshes/Foliage/SM_Vines_Wide_02.SM_Vines_Wide_02 as actor: StaticMeshActor /Game/DreamscapeSeries/DreamscapeMeadows/Maps/KingsOfParadise.KingsOfParadise:PersistentLevel.StaticMeshActor_806
+[2022.09.22-18.01.43:201][785]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/DreamscapeSeries/DreamscapeTower/Meshes/Foliage/SM_Vines_Wide_02.SM_Vines_Wide_02
+[2022.09.22-18.01.43:201][785]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/DreamscapeSeries/DreamscapeTower/Meshes/Foliage/SM_Vines_Wide_02.SM_Vines_Wide_02
+[2022.09.22-18.01.43:202][785]LogActorFactory: Actor Factory spawned StaticMesh /Game/DreamscapeSeries/DreamscapeTower/Meshes/Foliage/SM_Vines_Wide_02.SM_Vines_Wide_02 as actor: StaticMeshActor /Game/DreamscapeSeries/DreamscapeMeadows/Maps/KingsOfParadise.KingsOfParadise:PersistentLevel.StaticMeshActor_808
+[2022.09.22-18.01.49:366][381]Cmd: TRANSACTION UNDO
+[2022.09.22-18.01.49:366][381]LogEditorTransaction: Undo Foliage Editing
+[2022.09.22-18.01.55:393][871]LogActorComponent: UnregisterComponent: (/Engine/Transient.SphereBrushComponent) Not registered. Aborting.
+[2022.09.22-18.01.55:406][872]LogViewport: Scene viewport resized to 2038x705, mode Windowed.
+[2022.09.22-18.01.57:428][ 40]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.09.22-18.01.57:428][ 40]PIE: New page: PIE session: KingsOfParadise (22 Sep 2022, 20:01:57)
+[2022.09.22-18.01.57:429][ 40]LogPlayLevel: Creating play world package: /Game/DreamscapeSeries/DreamscapeMeadows/Maps/UEDPIE_0_KingsOfParadise
+[2022.09.22-18.01.57:537][ 40]LogPlayLevel: PIE: StaticDuplicateObject took: (0.108399s)
+[2022.09.22-18.01.57:537][ 40]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/DreamscapeSeries/DreamscapeMeadows/Maps/KingsOfParadise.KingsOfParadise to /Game/DreamscapeSeries/DreamscapeMeadows/Maps/UEDPIE_0_KingsOfParadise.KingsOfParadise (0.108470s)
+[2022.09.22-18.01.57:537][ 40]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.09.22-18.01.57:538][ 40]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.09.22-18.01.57:538][ 40]LogAIModule: Creating AISystem for world KingsOfParadise
+[2022.09.22-18.01.57:538][ 40]LogPlayLevel: PIE: World Init took: (0.000966s)
+[2022.09.22-18.01.57:548][ 40]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2022.09.22-18.01.57:552][ 40]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2022.09.22-18.01.57:552][ 40]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.09.22-18.01.57:552][ 40]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.09.22-18.01.57:552][ 40]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.09.22-18.01.57:552][ 40]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.09.22-18.01.57:552][ 40]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.09.22-18.01.57:552][ 40]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.09.22-18.01.57:552][ 40]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.09.22-18.01.57:552][ 40]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.09.22-18.01.57:553][ 40]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.09.22-18.01.57:553][ 40]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.09.22-18.01.57:553][ 40]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.09.22-18.01.57:554][ 40]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.09.22-18.01.57:575][ 40]LogAudioMixer: Display: Using Audio Hardware Device Headphones (4- Astro A50 Game)
+[2022.09.22-18.01.57:575][ 40]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.09.22-18.01.57:575][ 40]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.09.22-18.01.57:575][ 40]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.09.22-18.01.57:576][ 40]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=5
+[2022.09.22-18.01.57:576][ 40]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=5
+[2022.09.22-18.01.57:577][ 40]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=5
+[2022.09.22-18.01.57:577][ 40]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=5
+[2022.09.22-18.01.57:577][ 40]LogInit: FAudioDevice initialized.
+[2022.09.22-18.01.57:577][ 40]LogAudio: Display: Audio Device (ID: 5) registered with world 'KingsOfParadise'.
+[2022.09.22-18.01.57:584][ 40]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2022.09.22-18.01.57:607][ 40]LogWorld: Bringing World /Game/DreamscapeSeries/DreamscapeMeadows/Maps/UEDPIE_0_KingsOfParadise.KingsOfParadise up for play (max tick rate 0) at 2022.09.22-19.01.57
+[2022.09.22-18.01.57:608][ 40]LogWorld: Bringing up level for play took: 0.024022
+[2022.09.22-18.01.57:610][ 40]LogOnline: OSS: Created online subsystem instance for: :Context_13
+[2022.09.22-18.01.57:613][ 40]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2022.09.22-18.01.57:613][ 40]PIE: Server logged in
+[2022.09.22-18.01.57:613][ 40]PIE: Play in editor total start time 0.185 seconds.
+[2022.09.22-18.02.05:303][790]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.22-18.02.05:303][790]LogWorld: BeginTearingDown for /Game/DreamscapeSeries/DreamscapeMeadows/Maps/UEDPIE_0_KingsOfParadise
+[2022.09.22-18.02.05:304][790]LogWorld: UWorld::CleanupWorld for KingsOfParadise, bSessionEnded=true, bCleanupResources=true
+[2022.09.22-18.02.05:306][790]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.22-18.02.05:320][790]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.09.22-18.02.05:322][790]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.22-18.02.05:334][790]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.09.22-18.02.05:334][790]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2022.09.22-18.02.05:336][790]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2022.09.22-18.02.05:338][790]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.22-18.02.05:344][790]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2022.09.22-18.02.05:996][791]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2022.09.22-18.02.10:673][166]LogViewport: Scene viewport resized to 1564x705, mode Windowed.
+[2022.09.22-18.03.24:309][578]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2022.09.22-18.03.24:309][578]LogWindows: Windows GetLastError: The operation completed successfully. (0)
